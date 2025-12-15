@@ -33,3 +33,18 @@ Resource list
 
 ## Amd Ai Notes [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AMD-AI-Notes)
 Just some random notes for those exporing local AI with ... AMD GPUs!
+
+## Metamcp [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/metamcp)
+MCP Aggregator, Orchestrator, Middleware, Gateway in one docker
+
+## Ai Model Manager [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Model-Manager)
+Planning/WIP repo fro AI model manager
+
+## Retailer Recommendations [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Retailer-Recommendations)
+Small collection of various recs for places, mostly shops in Israel
+
+## Amd Ai Server [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AMD-AI-Server)
+Local AI inference server for AMD GPU users
+
+## Ai Fix My Messy Whiteboard [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Fix-My-Messy-Whiteboard)
+Whiteboard cleanup pipeline and util (local implementation)

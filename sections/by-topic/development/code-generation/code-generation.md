@@ -36,3 +36,6 @@ Generates SSML from text by inference
 
 ## General Dev Plugin [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/general-dev-plugin)
 Claude Code plugin for software development workflows, code generation, refactoring, and general development assistance.
+
+## Karaoke Music Vid Generator [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Karaoke-Music-Vid-Generator)
+Generation script template for singalong vids (from Suno songs!)

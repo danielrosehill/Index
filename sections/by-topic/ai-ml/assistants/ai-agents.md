@@ -342,3 +342,9 @@ WIP/Notes for AI post-boot health check
 
 ## Diary Planner Plugin [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/diary-planner-plugin)
 A workflow planning and time management template with agent definitions and slash commands for managing daily, weekly, and monthly schedules.
+
+## Make Agent Friendly [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Make-Agent-Friendly)
+Claude plugin for refactoring human-developed code-bases for agentic readiness
+
+## Ai Agent Virtual Panel Configs [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Agent-Virtual-Panel-Configs)
+Sets of "panels" for testing Rally (AskRally.com) exploring various "frontier" applications for the concept of AI personas and simulated voting bodies and thinking groups

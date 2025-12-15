@@ -102,3 +102,6 @@ A comprehensive Home Assistant OS management template with 20+ slash commands fo
 
 ## Ai Eq Assistant [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-EQ-Assistant)
 Helper utility for finding good personal EQ settings
+
+## Lashon Hara Chatbot [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Lashon-Hara-Chatbot)
+Prototype chat UI for lashon hara Q&A

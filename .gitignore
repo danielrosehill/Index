@@ -8,6 +8,8 @@ examples/
 # Generated reports and logs
 reports/
 logs/
+scripts/cleanup-report-*.json
+scripts/indexing-report-*.json
 
 # Temporary and cache files
 *.log

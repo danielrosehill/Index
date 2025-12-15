@@ -81,3 +81,6 @@ Sim Studio is an open-source agent workflow builder. Sim Studio's interface is a
 ## Twofactorauth [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/twofactorauth)
 List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
 
+
+## Wheres My Stuff [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Wheres-My-Stuff)
+Homebox fork to add a few AI twists (home inventory management)

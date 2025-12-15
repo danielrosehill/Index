@@ -21,3 +21,6 @@ A streamlined CLI tool for fast repository creation workflow with GitHub integra
 
 ## Linux Server Plugin [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/linux-server-plugin)
 Claude Code plugin for Linux server administration, service management, and server infrastructure workflows.
+
+## Peace In The Middle East [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Peace-In-The-Middle-East)
+WIP - Multiagentic geopolitcal simulation ideating problem-solving and bridge-building in the Middle East

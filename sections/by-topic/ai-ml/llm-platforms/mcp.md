@@ -80,3 +80,30 @@ Some tests with Sefaria (and other Jewish-relevant MCPs!)
 
 ## Sefaria Mcp [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/sefaria-mcp)
 FastMCP Server for Sefaria
+
+## My Network Mcp [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/My-Network-MCP)
+MCP for providing a manually managed LAN directory to AI tools
+
+## Wasabi S3 Mcp [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Wasabi-S3-MCP)
+MCP for performing S3 operations in Wasabi S3-compliant buckets
+
+## Cloud Asr Mcp [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Cloud-ASR-MCP)
+WIP MCP for using various cloud ASR models for speech to text / transcription
+
+## Local Secrets Mcp [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Local-Secrets-MCP)
+Notes / an idea for a local MCP handler for secrets that works in conjunction with a cloud API
+
+## Mcp Gateway Model 1225 [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/MCP-Gateway-Model-1225)
+Notes for an MCP gateway model for local and remote
+
+## Mcpm.Sh [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/mcpm.sh)
+CLI MCP package manager & registry for all platforms and all clients. Search & configure MCP servers. Advanced Router & Profile features.
+
+## All About Mcp [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/All-About-MCP)
+Example repository for agentic AI generated long form report generation
+
+## Save To Nas Mcp [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Save-To-NAS-MCP)
+
+
+## Mcp Router [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/mcp-router)
+A Unified MCP Server Management App (MCP Manager).

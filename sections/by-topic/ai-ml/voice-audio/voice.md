@@ -99,3 +99,12 @@ List of resources for voice technology with support for Linux, encompassing STT,
 
 ## Hyprvoice [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/hyprvoice)
 Voice‑powered typing for Wayland/Hyprland desktops
+
+## Voice Tech Subreddits [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Voice-Tech-Subreddits)
+Small collection of subreddits where ASR, STT, voice tech is discussed
+
+## Chatterbox Tts Server [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Chatterbox-TTS-Server)
+Self-host the powerful Chatterbox TTS model. This server offers a user-friendly Web UI, flexible API endpoints (incl. OpenAI compatible), predefined voices, voice cloning, and large audiobook-scale text processing. Runs accelerated on NVIDIA (CUDA), AMD (ROCm), and CPU.
+
+## Voice Cleanup Prompt Experiment [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Voice-Cleanup-Prompt-Experiment)
+Testing various permutations in system prompting for raw audio transcript cleanup and comparing multimodal ASR vs. the STT + LLM approach

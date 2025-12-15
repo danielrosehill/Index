@@ -32,3 +32,6 @@ Claude Code plugin for Git version control, GitHub repository management, and co
 
 ## Github Gist Mcp Minimal [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Github-Gist-MCP-Minimal)
 Fork of Gistpad MCP focused on minimising tool definitions for those who want an MCP for basic Gist operations (approximately CRUD)
+
+## Github Star Organiser [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Github-Star-Organiser)
+WIP - system for managing things you star on Github

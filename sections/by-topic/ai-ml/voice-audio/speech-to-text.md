@@ -144,3 +144,36 @@ Propmts and outputs (and some notes) on STT + ASR + fine-tuning. LLM: Claude
 
 ## Kokoro Fastapi [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Kokoro-FastAPI)
 Dockerized FastAPI wrapper for Kokoro-82M text-to-speech model w/CPU ONNX and NVIDIA GPU PyTorch support, handling, and auto-stitching
+
+## Long Form Audio Pipeline [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Long-Form-Audio-Pipeline)
+Basic audio pipeline for preparing long audio content for ASR transcription
+
+## Whisper Fine Tune Accuracy Eval [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Whisper-Fine-Tune-Accuracy-Eval)
+Comparing Whisper fine-tunes versus stock Whisper on local inference
+
+## Speech And Asr Evaluations [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Speech-And-ASR-Evaluations)
+Index repository for speech recognition and ASR evaluations
+
+## Transcription Cleanup Eval 1225 [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Transcription-Cleanup-Eval-1225)
+Evaluating various cloud audio understanding models on the transcribe and cleanup workflow/task
+
+## Whisper Wpm Background Noise Eval [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Whisper-WPM-Background-Noise-Eval)
+Quick eval to try answer a question: how much does speaking pace affect WER/accuracy in ASR?
+
+## Audio Multimodal Ai Resources [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Audio-Multimodal-AI-Resources)
+A compilation of resources (model profiles, benchmarks, docs) for multimodal AI models with audio understanding (esp. focused on ASR and transcription use-cases)
+
+## Cloud Stt Price Points 1225 [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Cloud-STT-Price-Points-1225)
+Point in time pricing snapshots for ASR (07-12-2025)
+
+## Local Multimodal Transcriber [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Local-Multimodal-Transcriber)
+Local transcription app with audio multimodal design
+
+## Audio Understanding Test Prompts [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Audio-Understanding-Test-Prompts)
+A few test prompts to be used when evaluating audio multimodal models
+
+## Speech To Text Chain Notes [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Speech-To-Text-Chain-Notes)
+Notes on STT processing chain (for future voice projects)
+
+## Microphone Audio Samples [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Microphone-Audio-Samples)
+Test samples for various microphones with an STT accuracy eval

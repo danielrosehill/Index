@@ -224,3 +224,24 @@ Research and notes for local sysadmin agent
 
 ## Claude Job Search Strategist [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Claude-Job-Search-Strategist)
 Template for a Claude Code job search space
+
+## Claude Rig Planner [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Claude-Rig-Planner)
+Template Claude space for computer upgrade planning
+
+## Mcpm Claude Code Docs [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/MCPM-Claude-Code-Docs)
+Docs (for self) on how to use Claude Code in conjunction with MCPM
+
+## Claude Workspace Setup Helper [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Claude-Workspace-Setup-Helper)
+Population utility for creating Claude workspaces
+
+## Claude Docker Manager [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Claude-Docker-Manager)
+Template management workspace for using Claude to co-admin a Docker env
+
+## Claude Interview 062325 [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Claude-Interview-062325)
+Response to Anthropic's user interview
+
+## Claude Synology Manager [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Claude-Synology-Manager)
+Claude workspace (pattern) for managing a LAN Synology NAS
+
+## Claude Linux Server Manager [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Claude-Linux-Server-Manager)
+Template repository for creating Claude Code structured workspace in a remote server environment
