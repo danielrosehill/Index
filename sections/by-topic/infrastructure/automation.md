@@ -72,3 +72,9 @@ Workflow for an agent that answers parenting questions by email with upload to G
 
 ## Personal RAG Agent Workflow [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Personal-RAG-Agent-Workflow)
 AI workflows for building personal RAG pipelines with interviewing agents
+
+- [Network-In-A-Box-Planning](https://github.com/danielrosehill/Network-In-A-Box-Planning) - Claude generated tips for home network migration
+
+- [AI-Sysadmin](https://github.com/danielrosehill/AI-Sysadmin) - Desktop maintenance utility (WIP/planning notes)
+
+- [Software-Pipeline](https://github.com/danielrosehill/Software-Pipeline) - WIP: Software distribution pipeline (PPA, packages, etc.)

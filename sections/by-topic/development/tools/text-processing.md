@@ -42,3 +42,12 @@ A comprehensive toolkit implementing the CONTEXT.md workflow system for managing
 
 ## Deepgram Text Input [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Deepgram-Text-Input)
 Analysis of Deepgram text input
+
+## Text Transformation And Cleanup Index [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Text-Transformation-And-Cleanup-Index)
+Index of repositories for text transformation, transcription cleanup, and text processing tools
+
+## Text Transformation Prompt Stack [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Text-Transformation-Prompt-Stack)
+Documentation/notes for a "prompt stack" for audio multimodal text processing
+
+## Text Cleanup Fine Tuning Set [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Text-Cleanup-Fine-Tuning-Set)
+Fine-tuning dataset/plans for text cleanup audio multimodal

@@ -15,3 +15,5 @@ Desktop NFC reader/writer GUI for the ACR1252U (validated with NTAG213 on Linux)
 ## Whisper Transcription Notepad Linux [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Whisper-Transcription-Notepad-Linux)
 Transcription notepad with cloud speech to text (STT) for Linux
 
+
+- [Apps-Index](https://github.com/danielrosehill/Apps-Index) - Indexing repo for apps created

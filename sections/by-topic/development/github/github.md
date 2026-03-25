@@ -35,3 +35,8 @@ Fork of Gistpad MCP focused on minimising tool definitions for those who want an
 
 ## Github Star Organiser [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Github-Star-Organiser)
 WIP - system for managing things you star on Github
+
+## Github Management Tools Index [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/GitHub-Management-Tools-Index)
+Index of repositories for GitHub and repository management tools, automation, and utilities
+
+- [Repo-Fresh-Starter](https://github.com/danielrosehill/Repo-Fresh-Starter) - Quick util for creating a new repository for iterating on ideas

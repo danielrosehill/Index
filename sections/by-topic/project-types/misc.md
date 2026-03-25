@@ -35,3 +35,17 @@ My personal homepage - based on the Milky Way Astro theme by Tristen Tomczak
 My public PGP keys
 
 Miscellaneous project files
+
+- [Resume](https://github.com/danielrosehill/Resume) - Public version of resume for AI agents and humans!
+
+- [Cable-Reference-Wall-Charts](https://github.com/danielrosehill/Cable-Reference-Wall-Charts) - Some Nano Banana Pro cable reference graphics for printing
+
+- [Is-Vibe-Coded](https://github.com/danielrosehill/Is-Vibe-Coded) - Simple graphics intended to serve as a "this was vibe coded FYI" and attribute model
+
+- [Compatibility-Notes](https://github.com/danielrosehill/Compatibility-Notes) - Notes verifying compatibility between components
+
+- [AMD-Radeon-7700-Notes](https://github.com/danielrosehill/AMD-Radeon-7700-Notes) - Some notes about my GPU and compatibility
+
+- [FirstEntryPublic](https://github.com/danielrosehill/FirstEntryPublic) - Files that needed to be added to other repositories
+
+- [Public-GPG-Keys](https://github.com/danielrosehill/Public-GPG-Keys) - My public PGP keys

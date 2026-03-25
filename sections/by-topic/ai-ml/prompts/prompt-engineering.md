@@ -276,3 +276,16 @@ AI config / system prompt for reading long reports
 
 ## My Weird Prompts Podcast [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/My-Weird-Prompts-Podcast)
 Podcast production pipeline for an AI-human co-generated podcast
+
+## Perspective Finder Prompt [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Perspective-Finder-Prompt)
+Prompt for mapping out nuances in debates
+
+## Circular Prompting [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Circular-Prompting)
+Notes/docs for a prompting method for AI agents
+
+## Stack Research Prompt Mini Eval [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Stack-Research-Prompt-Mini-Eval)
+Testing how various AI tools handle "stack request" prompts - a staple of my AI use!
+
+- [You-Are-Stuck](https://github.com/danielrosehill/You-Are-Stuck) - Plan/idea for agentic coding
+
+- [My-Tone-Of-Voice](https://github.com/danielrosehill/My-Tone-Of-Voice) - Slash/technique for capturing tone of voice reference for AI agents

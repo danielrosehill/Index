@@ -147,3 +147,17 @@ List of some WAQI reporting points in Israel (static snapshot)
 
 ## Israel Projects Index [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Israel-Projects-Index)
 Index of repositories related to Israel
+
+## Israel Preparedness Sops [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Israel-Preparedness-SOPs)
+Readiness SOPs for wartime in Israel (my own)
+
+## Israel First Aid [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Israel-First-Aid)
+First aid procedures and decision-making flowchart based on MDA/Hatzalah procedures
+
+## Failover Internet Israel Notes [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Failover-Internet-Israel-Notes)
+Notes (Jan 2026) on setting up failover internet in Israel
+
+## Israel Sitrep Generation Prompts [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Israel-SITREP-Generation-Prompts)
+Propts to generate situational reports (SITREPs) summarising geopolitical developments in Israel & the Middle East (for LLMs)
+
+- [Jerusalem-Tech-Ecosystem](https://github.com/danielrosehill/Jerusalem-Tech-Ecosystem) - Resource list / mapping

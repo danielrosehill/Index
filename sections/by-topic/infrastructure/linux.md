@@ -102,3 +102,5 @@ Notepad for Linux that uses OpenAI Whisper (API) and reformats dictated text
 
 ## Whisper Transcription Notepad Linux [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Whisper-Transcription-Notepad-Linux)
 Transcription notepad with cloud speech to text (STT) for Linux
+
+- [AMD-GPU-DP-Hotplug-Fix](https://github.com/danielrosehill/AMD-GPU-DP-Hotplug-Fix) - Workaround for AMDGPU DisplayPort monitors not detected at boot (Navi 32, kernel 6.14+)

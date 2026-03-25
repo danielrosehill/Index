@@ -177,3 +177,26 @@ Notes on STT processing chain (for future voice projects)
 
 ## Microphone Audio Samples [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Microphone-Audio-Samples)
 Test samples for various microphones with an STT accuracy eval
+
+## Handy [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Handy)
+A free, open source, and extensible speech-to-text application that works completely offline.
+
+## Ai Transcription Notepad [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Transcription-Notepad)
+Voice note taking utility that uses cloud audio multimodal models for single pass transcription and text cleanup
+
+## One Shot Transcription Microphone Eval [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/One-Shot-Transcription-Microphone-Eval)
+Test samples for various microphones with an STT accuracy eval
+
+## Dvr Transcriber [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/DVR-Transcriber)
+Workflow workspace for importing recordings from a DVR and using AI for transcription
+
+## Audio Multimodal Formatting Prompts [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Audio-Multimodal-Formatting-Prompts)
+AI-ideated prompts for single pass audio multimodal transcript formatting
+
+- [parakeet-dictation](https://github.com/danielrosehill/parakeet-dictation) - On-device voice typing for Linux using Parakeet and NeMo ASR models via sherpa-onnx. Built-in punctuation, multiple model profiles, system tray app with configurable hotkeys. No cloud, no GPU required.
+
+- [Dictation-Macropad](https://github.com/danielrosehill/Dictation-Macropad) - Plan/key allocation for a macropad optimised for heavy daily dictation worklflows
+
+- [Modal-ACFT-Finetune-Script](https://github.com/danielrosehill/Modal-ACFT-Finetune-Script) - Validated Whisper fine-tuning script on Modal for FUTO
+
+- [Whisiper-Fine-Tuning-Resources](https://github.com/danielrosehill/Whisiper-Fine-Tuning-Resources) - Some resources for those looking to fine-tune Whisper ASR

@@ -48,3 +48,7 @@ Local AI inference server for AMD GPU users
 
 ## Ai Fix My Messy Whiteboard [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Fix-My-Messy-Whiteboard)
 Whiteboard cleanup pipeline and util (local implementation)
+
+AI assisted search query (and notes)
+
+Notes (Dec 2025) for an AI technical documentation stack

@@ -39,3 +39,5 @@ Indexing repo of backup related projects and scripts
 
 ## Open WebUI Backups [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Open-WebUI-Backups)
 A model backup script for backing up an Open Web UI instance (SQLite, ChromaDB)
+
+- [Batch-Optical-Archivist](https://github.com/danielrosehill/Batch-Optical-Archivist) - Program for batching archival onto optical media

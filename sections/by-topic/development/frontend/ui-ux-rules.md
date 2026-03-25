@@ -24,3 +24,15 @@ Claude Code plugin for Linux server administration, service management, and serv
 
 ## Peace In The Middle East [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Peace-In-The-Middle-East)
 WIP - Multiagentic geopolitcal simulation ideating problem-solving and bridge-building in the Middle East
+
+On-device voice typing for Linux using Parakeet and NeMo ASR models via sherpa-onnx. Built-in punctuation, multiple model profiles, system tray app with configurable hotkeys. No cloud, no GPU required.
+
+File import utility for Sony UX570 digital voice recorder (DVR)
+
+Agent to give websites a Geocities styled makeover
+
+Dolphin action for KDE Plasma to quickly invoke RMBG for background removal with support for two-pass and infinite-pass operation modes
+
+Agentic web design crew specialising in offbeat designs and client dissatisfaction!
+
+Quick util for creating a new repository for iterating on ideas

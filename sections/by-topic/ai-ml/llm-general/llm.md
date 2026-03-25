@@ -138,3 +138,11 @@ Agent that tries to probe other models' capabilities with conversation
 
 ## Llm Council [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/llm-council)
 LLM Council works together to answer your hardest questions
+
+## Llm Wars [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/LLM-Wars)
+(Experiment) LLMs argue "who's better" in a podcast
+
+## Llm Recommendation Agent [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/LLM-Recommendation-Agent)
+AI agent for suggesting suitable LLMs for projects
+
+- [Shared-AI-Chats-Research](https://github.com/danielrosehill/Shared-AI-Chats-Research) - AI assisted search query (and notes)

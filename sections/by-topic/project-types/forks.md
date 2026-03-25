@@ -84,3 +84,11 @@ List of sites with two factor auth support which includes SMS, email, phone call
 
 ## Wheres My Stuff [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Wheres-My-Stuff)
 Homebox fork to add a few AI twists (home inventory management)
+
+Taxonomy for Homebox fork
+
+- [donetick](https://github.com/danielrosehill/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
+
+- [amical](https://github.com/danielrosehill/amical) - 🎙️ Open Source AI Dictation App ⚡ Type 3x faster, no keyboard needed.
+
+- [sveltekit-starter](https://github.com/danielrosehill/sveltekit-starter) - Starter repo to get started with Sveltekit and Contentful

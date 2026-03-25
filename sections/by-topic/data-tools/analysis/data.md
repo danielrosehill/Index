@@ -87,3 +87,16 @@ MCP for performing basic data ops on a self-hosted NocoDB with Cloudflare Tunnne
 
 ## Social Impact Bond Data [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Social-Impact-Bond-Data)
 Point-in-time analysis of impact bond data from INDIGO (Government Outcomes Lab, Oxford University)
+
+## Sustainability And Impact Data Index [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Sustainability-And-Impact-Data-Index)
+Index of repositories related to sustainability, GHG emissions, ESG, and environmental impact data
+
+Local relay proxy for Israel Homefront Command (Pikud HaOref) alert data
+
+## Iran Israel War 2026 Osint Data [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Iran-Israel-War-2026-OSINT-Data)
+Structuring the data footprint of the Iranian aerial warfare attacks on Israel, the US, and others from 2024-present.
+
+## Jlm Shelters Data [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/jlm-shelters-data)
+Community-maintained dataset of public bomb shelters in Jerusalem. Data pipeline for jlmshelters.com
+
+Template for using Claude Code to streamline website data analytics

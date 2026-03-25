@@ -18,3 +18,7 @@ Configuration for an LLM assistant that performs analysis on sustainability data
 
 ## Value Factors Data Vis [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Value-Factors-Data-Vis)
 Streamlit app containing visualisations of the Global Value Factors Database (GVFD) released by the IFVI in 2024
+
+Microservices Docker stack for Pikud HaOref red alert monitoring, home automation, and real-time visualization
+
+Some Nano Banana Pro cable reference graphics for printing

@@ -15,3 +15,11 @@ Combined indexer for projects on Github and Hugging Face
 
 ## Projects [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Projects)
 A list of projects I am working on
+
+## Whatsapp Export Unpacker [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/WhatsApp-Export-Unpacker)
+Utility for unpacking, organising, and transcribing a WhatsApp chat export
+
+Updated and consolidated list of agents that I use and reuse across projects
+
+## Ecosystem Mapper [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Ecosystem-Mapper)
+Claude research utility to delineate an emerging tech ecosystem

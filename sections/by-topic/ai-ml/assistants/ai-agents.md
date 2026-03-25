@@ -348,3 +348,28 @@ Claude plugin for refactoring human-developed code-bases for agentic readiness
 
 ## Ai Agent Virtual Panel Configs [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Agent-Virtual-Panel-Configs)
 Sets of "panels" for testing Rally (AskRally.com) exploring various "frontier" applications for the concept of AI personas and simulated voting bodies and thinking groups
+
+## Jlm Shelter Agent [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/JLM-Shelter-Agent)
+AI agent for JLM Shelter app/project
+
+## Agentic Ai Architecture Visualisation [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Agentic-AI-Architecture-Visualisation)
+Framework-agnostic data model and visualizations mapping the moving pieces of agentic AI systems
+
+Public version of resume for AI agents and humans!
+
+## Agent Junction [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Agent-Junction)
+Ephemeral agent-to-agent communication relay for agentic CLIs (localhost or intra-LAN). MCP.
+
+## Ai Resume [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Resume)
+Notes / test for creating a version of a resume/CV specifically intended for AI agents
+
+## Agent Deploy [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Agent-Deploy)
+Prompt and model for creating agent-specific variants of Bash scripts
+
+- [Retro-Website-Designer](https://github.com/danielrosehill/Retro-Website-Designer) - Agent to give websites a Geocities styled makeover
+
+- [Better-Web-Design-Inc](https://github.com/danielrosehill/Better-Web-Design-Inc) - Agentic web design crew specialising in offbeat designs and client dissatisfaction!
+
+- [opencode](https://github.com/danielrosehill/opencode) - The open source coding agent.
+
+- [Agents-Index](https://github.com/danielrosehill/Agents-Index) - Periodically updated index of AI agent configurations that I'm working on (or have created)

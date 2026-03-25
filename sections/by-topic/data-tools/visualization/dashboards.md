@@ -26,3 +26,6 @@ HA dashboards with Israel-specifc entities
 
 ## Personal Dashboard Project [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Personal-Dashboard-Project)
 Project to build a personal dashboard (WIP)
+
+## Worldmonitor [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/worldmonitor)
+Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface

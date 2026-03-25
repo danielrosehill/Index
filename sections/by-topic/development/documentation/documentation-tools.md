@@ -18,3 +18,5 @@ Claude Code plugin for documentation generation, technical writing, README creat
 
 ## Docs And Notes Index [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Docs-And-Notes-Index)
 An index to my various documentation projects, both on Github and elsewhere
+
+- [AI-Tech-Doc-Stack](https://github.com/danielrosehill/AI-Tech-Doc-Stack) - Notes (Dec 2025) for an AI technical documentation stack

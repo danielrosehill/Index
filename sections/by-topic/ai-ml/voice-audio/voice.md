@@ -108,3 +108,21 @@ Self-host the powerful Chatterbox TTS model. This server offers a user-friendly 
 
 ## Voice Cleanup Prompt Experiment [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Voice-Cleanup-Prompt-Experiment)
 Testing various permutations in system prompting for raw audio transcript cleanup and comparing multimodal ASR vs. the STT + LLM approach
+
+## Ai Typer V2 [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Typer-V2)
+Voice dictation with multimodal AI cleanup — speak naturally, get polished text
+
+## Voicetype [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/VoiceType)
+A fork of Deeepgram's Linux starter. CLI -> GUI + hotkey support, API key editing, cost tracking. WIP
+
+Slash/technique for capturing tone of voice reference for AI agents
+
+## Voice Cloning Difference Test [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Voice-Cloning-Difference-Test)
+Quick test to see how much of a difference sample intonation makes in single shot voice cloning!
+
+## Voice Control Linux [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Voice-Control-Linux)
+Claude-enhanced research for voice control platforms with Linux support
+
+- [Hebrew-TTS-Providers](https://github.com/danielrosehill/Hebrew-TTS-Providers) - Point in time snapshot of TTS providers with Modern Hebrew support
+
+- [One-Plus-Internal-Mic-Testing](https://github.com/danielrosehill/One-Plus-Internal-Mic-Testing)

@@ -107,3 +107,35 @@ Example repository for agentic AI generated long form report generation
 
 ## Mcp Router [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/mcp-router)
 A Unified MCP Server Management App (MCP Manager).
+
+## How To Mcp [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/How-To-MCP)
+Template for a guidance reference for AI agents configuring MCP connections
+
+## Fal Nano Mcp [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Fal-Nano-MCP)
+Local MCP for using Nano Banana via Fal AI
+
+## Miklat Mcp Data [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Miklat-MCP-Data)
+Data pipeline for Miklat MCP
+
+## K3B Mcp [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/K3B-MCP)
+MCP for K3B operations (intended for local use)
+
+## Mcp Server Research [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/MCP-Server-Research)
+Stack research task 02-01-2026
+
+## My Mcp Installer [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/My-MCP-Installer)
+Installer helper (MCP) for my MCPs
+
+## Mcp Network Cups [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/MCP-Network-CUPS)
+MCP-CUPS bridge intended to provide LAN clients with priting tools for a networked/shrared printer running on a CUPS backend
+
+## Model Scout Mcp [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Model-Scout-MCP)
+MCP for checking AI API model pricing across providers
+
+## Btrfs Snapper Mcp [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/BTRFS-Snapper-MCP)
+
+
+## Mcp Network Manager [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/MCP-Network-Manager)
+Docs/notes for deploying a LAN sysadmin solution using MCP
+
+- [MCP-Projects-Index](https://github.com/danielrosehill/MCP-Projects-Index) - Various MCP related projects I'm either working on (or have worked on)

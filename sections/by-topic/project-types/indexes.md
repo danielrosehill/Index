@@ -74,3 +74,10 @@ Index for my collections of user and system prompts on Github
 
 ## Jewish Related Index [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Jewish-Related-Index)
 Index of repositories involving tech + Judaism
+
+## Patches Repos Index [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Patches-Repos-Index)
+Index of repositories containing patches, fixes, workarounds, and system administration solutions
+
+- [Geopolitical-And-OSINT-Index](https://github.com/danielrosehill/Geopolitical-And-OSINT-Index) - Index of repositories related to OSINT, geopolitical analysis, and situational awareness
+
+- [Networking-And-Infrastructure-Index](https://github.com/danielrosehill/Networking-And-Infrastructure-Index) - Index of repositories for networking, infrastructure, homelab, and server management

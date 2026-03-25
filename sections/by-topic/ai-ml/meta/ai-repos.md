@@ -195,3 +195,8 @@ A list of a few interesting tools for creating context-backed agents & assistant
 ## Weird Artificial Intelligence Bots [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Weird-AI-Bots)
 Some configurations for offbeat AI roleplay characters just for fun
 
+
+## Ai Repo Manager [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Repo-Manager)
+AI app to enable smarter management of Github repositories
+
+- [AI-Projects-Index](https://github.com/danielrosehill/AI-Projects-Index) - Index of AI project related indices (master index)

@@ -75,3 +75,7 @@ Desktop app for running batch "ideation" prompts with a local LLM
 
 ## Side Hustle Ideation Agent [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Side-Hustle-Ideation-Agent)
 Agent config for ideating a batch of side hustle ideas!
+
+- [Video-Edit-Instructions](https://github.com/danielrosehill/Video-Edit-Instructions) - Holding repo. Idea: screencast -> editing instructions -> AI agent.
+
+- [Internal-Apps-Ideation](https://github.com/danielrosehill/Internal-Apps-Ideation) - Ideation notes for internal apps planning

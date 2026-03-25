@@ -15,3 +15,6 @@ Index of projects related to context-gathering and generation for AI, including 
 
 ## Context Cruncher [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Context-Cruncher)
 App for extracting context data from voice recordings
+
+## Split Context Setup [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Split-Context-Setup)
+Slash command for setting up a split human-agent context system in Claude repos

@@ -36,3 +36,6 @@ System prompts for AI agents and assistants (automatically populated); periodic 
 
 ## System Prompts For Book Authors [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/System-Prompts-For-Book-Authors)
 System prompts for configuring AI assistants to help book authors including proofreading assistants and book marketing ideation tools
+
+## Ivory Parts Finder [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Ivory-Parts-Finder)
+AI assistant config for building computers and finding accesories from Ivory (Israeli computer chain)

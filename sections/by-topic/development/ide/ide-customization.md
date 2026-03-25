@@ -24,3 +24,15 @@ Using AI to idate "what would happen if...?"
 
 ## Ai Developers Career Planning Notes [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Developers-Career-Planning-Notes)
 Notes/ideas for the evolving face of programming jobs!
+
+Point in time snapshot of TTS providers with Modern Hebrew support
+
+
+
+Notes on highly useful tools for digital evidence collection
+
+Holding repo. Idea: screencast -> editing instructions -> AI agent.
+
+Plan/idea for agentic coding
+
+Ideation notes for internal apps planning

@@ -105,3 +105,9 @@ Helper utility for finding good personal EQ settings
 
 ## Lashon Hara Chatbot [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Lashon-Hara-Chatbot)
 Prototype chat UI for lashon hara Q&A
+
+Home Assistant automations for Oref Alert integration with TTS announcements for red alert events in Israel
+
+HA automation for power outage detection
+
+A couple of resources and .. nomenclature

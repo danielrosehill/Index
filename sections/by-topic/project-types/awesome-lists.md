@@ -63,3 +63,6 @@ Index of listing repositories I have created
 
 ## Awesome Torah Tech [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Awesome-Torah-Tech)
 Projects bringing technical sophistication to Jewish religious texts and interpretation
+
+## Awesome Red Alerts [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Awesome-Red-Alerts)
+A curated list of red alert (צבע אדום) civilian notification projects for Israel

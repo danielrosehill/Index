@@ -53,3 +53,6 @@ Voice note transcription and cleanup with reformatting support
 
 ## Gemini Transcription Mcp [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Gemini-Transcription-MCP)
 MCP for Gemini multimodal audio transcription with built in post-processing
+
+## Gemini Audio Transcriber [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Gemini-Audio-Transcriber)
+File upload based multimodal transcription tool using the Gemini (via Open Router)

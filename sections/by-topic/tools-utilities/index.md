@@ -14,6 +14,12 @@ Desktop Utilities related repositories.
 
 - [Desktop Utilities](desktop-utilities/desktop-utilities.md)
 
+## Gui Utilities
+
+Gui Utilities related repositories.
+
+- [Gui Utilities](gui-utilities/gui-utilities.md)
+
 ## Utilities
 
 Utilities related repositories.

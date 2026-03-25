@@ -1,19 +1,3154 @@
 # GitHub Repository Index
 
-**Total Repositories:** 623  
-**Last Updated:** December 16, 2025 at 00:07:10  
+**Total Repositories:** 775  
+**Last Updated:** March 25, 2026 at 20:22:35  
 **GitHub User:** [danielrosehill](https://github.com/danielrosehill)
 
 ---
 
 ## Repositories (Newest to Oldest)
 
+### [Ai Typer V2](https://github.com/danielrosehill/AI-Typer-V2)
+
+Voice dictation with multimodal AI cleanup — speak naturally, get polished text
+
+**Updated:** March 25, 2026 | **Created:** March 25, 2026  
+
+---
+
+### [Index Of Indices](https://github.com/danielrosehill/Index-Of-Indices)
+
+Index of various indexing repos I have created
+
+**Updated:** March 25, 2026 | **Created:** November 26, 2025  
+⭐ 1 stars | 🔀 0 forks  
+**Topics:** `` ``  
+
+---
+
+### [Claude Code Projects Index](https://github.com/danielrosehill/Claude-Code-Projects-Index)
+
+An index of my Claude Code related repos including a wide variety of starter templates for using Claude Code for common and more imaginative purposes!
+
+**Updated:** March 25, 2026 | **Created:** October 11, 2025  
+⭐ 143 stars | 🔀 13 forks  
+**Topics:** `` `` ``  
+
+---
+
+### [Claude Slash Commands](https://github.com/danielrosehill/Claude-Slash-Commands)
+
+My Claude Code slash commands
+
+**Updated:** March 25, 2026 | **Created:** October 11, 2025  
+⭐ 4 stars | 🔀 3 forks  
+**Topics:** `` `` ``  
+
+---
+
+### [Claude Code Sysadmin Workspaces Index](https://github.com/danielrosehill/Claude-Code-Sysadmin-Workspaces-Index)
+
+Index of Claude Code workspace templates for systems administration — servers, Proxmox, Docker, NAS, LAN management, and more
+
+**Updated:** March 25, 2026 | **Created:** March 25, 2026  
+
+---
+
+### [Claude Code Workspace Templates Index](https://github.com/danielrosehill/Claude-Code-Workspace-Templates-Index)
+
+Index of Claude Code workspace templates for domain-specific projects — budgeting, health, research, writing, career planning, and more
+
+**Updated:** March 25, 2026 | **Created:** March 25, 2026  
+
+---
+
+### [Voicetype](https://github.com/danielrosehill/VoiceType)
+
+A fork of Deeepgram's Linux starter. CLI -> GUI + hotkey support, API key editing, cost tracking. WIP
+
+**Updated:** March 25, 2026 | **Created:** November 21, 2025  
+
+---
+
+### [Software Pipeline](https://github.com/danielrosehill/Software-Pipeline)
+
+WIP: Software distribution pipeline (PPA, packages, etc.)
+
+**Updated:** March 25, 2026 | **Created:** March 25, 2026  
+
+---
+
+### [Claude Research Space Public Template](https://github.com/danielrosehill/Claude-Research-Space-Public-Template)
+
+*No description provided*
+
+**Updated:** March 25, 2026 | **Created:** March 25, 2026  
+**Topics:** `` ``  
+
+---
+
+### [Claude Research Workspace General Template](https://github.com/danielrosehill/Claude-Research-Workspace-General-Template)
+
+Template for iterative AI research using Claude Code — folder-based context/prompt/output workflow with compaction loop
+
+**Updated:** March 25, 2026 | **Created:** March 25, 2026  
+**Topics:** `` `` ``  
+
+---
+
+### [My Tone Of Voice](https://github.com/danielrosehill/My-Tone-Of-Voice)
+
+Slash/technique for capturing tone of voice reference for AI agents
+
+**Updated:** March 25, 2026 | **Created:** March 25, 2026  
+
+---
+
+### [Claude Code Notes](https://github.com/danielrosehill/Claude-Code-Notes)
+
+Notebook (first entry) for making the most of Claude Code
+
+**Updated:** March 25, 2026 | **Created:** March 25, 2026  
+
+---
+
+### [Ai Transcription Notepad](https://github.com/danielrosehill/AI-Transcription-Notepad)
+
+Voice note taking utility that uses cloud audio multimodal models for single pass transcription and text cleanup
+
+**Updated:** March 25, 2026 | **Created:** December 12, 2025  
+⭐ 2 stars | 🔀 0 forks  
+**Topics:** `` `` ``  
+
+---
+
+### [Speech Tech Index](https://github.com/danielrosehill/Speech-Tech-Index)
+
+Index of my repos related to STT, ASR
+
+**Updated:** March 25, 2026 | **Created:** November 26, 2025  
+**Topics:** `` ``  
+
+---
+
+### [Networking And Infrastructure Index](https://github.com/danielrosehill/Networking-And-Infrastructure-Index)
+
+Index of repositories for networking, infrastructure, homelab, and server management
+
+**Updated:** March 25, 2026 | **Created:** March 25, 2026  
+
+---
+
+### [Text Transformation And Cleanup Index](https://github.com/danielrosehill/Text-Transformation-And-Cleanup-Index)
+
+Index of repositories for text transformation, transcription cleanup, and text processing tools
+
+**Updated:** March 25, 2026 | **Created:** March 25, 2026  
+
+---
+
+### [Geopolitical And Osint Index](https://github.com/danielrosehill/Geopolitical-And-OSINT-Index)
+
+Index of repositories related to OSINT, geopolitical analysis, and situational awareness
+
+**Updated:** March 25, 2026 | **Created:** March 25, 2026  
+
+---
+
+### [Github Management Tools Index](https://github.com/danielrosehill/GitHub-Management-Tools-Index)
+
+Index of repositories for GitHub and repository management tools, automation, and utilities
+
+**Updated:** March 25, 2026 | **Created:** March 25, 2026  
+
+---
+
+### [Linux Desktop Tools Index](https://github.com/danielrosehill/Linux-Desktop-Tools-Index)
+
+Index of repositories for Linux desktop tools, KDE widgets, system utilities, and desktop applications
+
+**Updated:** March 25, 2026 | **Created:** March 25, 2026  
+
+---
+
+### [Sustainability And Impact Data Index](https://github.com/danielrosehill/Sustainability-And-Impact-Data-Index)
+
+Index of repositories related to sustainability, GHG emissions, ESG, and environmental impact data
+
+**Updated:** March 25, 2026 | **Created:** March 25, 2026  
+
+---
+
+### [Israel Preparedness Index](https://github.com/danielrosehill/Israel-Preparedness-Index)
+
+Index of repositories related to civilian emergency preparedness in Israel
+
+**Updated:** March 25, 2026 | **Created:** March 25, 2026  
+**Topics:** `` `` `` ``  
+
+---
+
+### [Hfc Guidance Flip Book](https://github.com/danielrosehill/HFC-Guidance-Flip-Book)
+
+Pikud HaOref guidance in a visual presentation for younger audiences
+
+**Updated:** March 25, 2026 | **Created:** March 25, 2026  
+
+---
+
+### [Israel Sitrep Generation Prompts](https://github.com/danielrosehill/Israel-SITREP-Generation-Prompts)
+
+Propts to generate situational reports (SITREPs) summarising geopolitical developments in Israel & the Middle East (for LLMs)
+
+**Updated:** March 25, 2026 | **Created:** October 08, 2024  
+
+---
+
+### [Amd Gpu Dp Hotplug Fix](https://github.com/danielrosehill/AMD-GPU-DP-Hotplug-Fix)
+
+Workaround for AMDGPU DisplayPort monitors not detected at boot (Navi 32, kernel 6.14+)
+
+**Updated:** March 25, 2026 | **Created:** March 25, 2026  
+**Topics:** `` ``  
+
+---
+
+### [Patches Repos Index](https://github.com/danielrosehill/Patches-Repos-Index)
+
+Index of repositories containing patches, fixes, workarounds, and system administration solutions
+
+**Updated:** March 25, 2026 | **Created:** March 25, 2026  
+
+---
+
+### [Iran Israel War 2026 Osint Data](https://github.com/danielrosehill/Iran-Israel-War-2026-OSINT-Data)
+
+Structuring the data footprint of the Iranian aerial warfare attacks on Israel, the US, and others from 2024-present.
+
+**Updated:** March 25, 2026 | **Created:** March 04, 2026  
+⭐ 8 stars | 🔀 0 forks  
+**Topics:** `` `` ``  
+
+---
+
+### [Awesome Llm Prompt Libraries](https://github.com/danielrosehill/Awesome-LLM-Prompt-Libraries)
+
+An index of prompting libraries for GPTs, including ChatGPT. Some of these are on Github and others are hosted externally.
+
+**Updated:** March 25, 2026 | **Created:** August 07, 2024  
+⭐ 44 stars | 🔀 7 forks  
+
+---
+
+### [Geopol Forecaster Poc](https://github.com/danielrosehill/Geopol-Forecaster-POC)
+
+Experimentary prediction analysis for real world events (Iran Israel)
+
+**Updated:** March 24, 2026 | **Created:** March 24, 2026  
+**Topics:** `` `` ``  
+
+---
+
+### [Open Web Ui Model Index Public](https://github.com/danielrosehill/Open-Web-UI-Model-Index-Public)
+
+An index of models that I have open-sourced on Open Web UI Community
+
+**Updated:** March 24, 2026 | **Created:** March 20, 2025  
+⭐ 3 stars | 🔀 0 forks  
+
+---
+
+### [Red Alert Monitoring Stack](https://github.com/danielrosehill/Red-Alert-Monitoring-Stack)
+
+Microservices Docker stack for Pikud HaOref red alert monitoring, home automation, and real-time visualization
+
+**Updated:** March 24, 2026 | **Created:** March 24, 2026  
+**Topics:** `` `` ``  
+
+---
+
+### [Claude Business Idea Evaluator](https://github.com/danielrosehill/Claude-Business-Idea-Evaluator)
+
+Model/template: using Claude Code to evaluate business ideas
+
+**Updated:** March 24, 2026 | **Created:** November 23, 2025  
+⭐ 11 stars | 🔀 1 forks  
+**Topics:** `` `` ``  
+
+---
+
+### [Hebrew Tech Vocab](https://github.com/danielrosehill/Hebrew-Tech-Vocab)
+
+Personal WIP / collection of tech words
+
+**Updated:** March 24, 2026 | **Created:** March 24, 2026  
+
+---
+
+### [Claudemd Turnstile](https://github.com/danielrosehill/ClaudeMD-Turnstile)
+
+Quick model/template for creating separate CLAUDE.md files for developers and users
+
+**Updated:** March 24, 2026 | **Created:** March 24, 2026  
+
+---
+
+### [Red Alert Pushover](https://github.com/danielrosehill/Red-Alert-Pushover)
+
+Pushover notifications for large-scale Pikud HaOref alert events
+
+**Updated:** March 24, 2026 | **Created:** March 24, 2026  
+
+---
+
+### [Red Alert Actuator](https://github.com/danielrosehill/Red-Alert-Actuator)
+
+Physical alert outputs (Snapcast TTS + MQTT lights) for Pikud HaOref alerts
+
+**Updated:** March 24, 2026 | **Created:** March 24, 2026  
+
+---
+
+### [Red Alert Geodash](https://github.com/danielrosehill/Red-Alert-Geodash)
+
+Real-time dashboard for Israel's Pikud HaOref rocket/situation alerts with multi-map Leaflet views and polygon overlays
+
+**Updated:** March 24, 2026 | **Created:** March 12, 2026  
+**Topics:** `` `` `` ``  
+
+---
+
+### [Red Alert Telegram Bot](https://github.com/danielrosehill/Red-Alert-Telegram-Bot)
+
+On-demand situational intelligence Telegram bot for Pikud HaOref alerts
+
+**Updated:** March 24, 2026 | **Created:** March 24, 2026  
+**Topics:** `` `` ``  
+
+---
+
+### [Openwebui Prompt Library](https://github.com/danielrosehill/OpenWebUI-Prompt-Library)
+
+A selection of prompts designed for use with Open Web UI (rather than conventional prompts, they're more useful for steering existing conversations)
+
+**Updated:** March 24, 2026 | **Created:** February 19, 2025  
+⭐ 38 stars | 🔀 5 forks  
+
+---
+
+### [Awesome Red Alerts](https://github.com/danielrosehill/Awesome-Red-Alerts)
+
+A curated list of red alert (צבע אדום) civilian notification projects for Israel
+
+**Updated:** March 24, 2026 | **Created:** March 24, 2026  
+⭐ 1 stars | 🔀 0 forks  
+**Topics:** `` `` `` ``  
+
+---
+
+### [Oref Alert Proxy](https://github.com/danielrosehill/Oref-Alert-Proxy)
+
+Local relay proxy for Israel Homefront Command (Pikud HaOref) alert data
+
+**Updated:** March 24, 2026 | **Created:** March 24, 2026  
+
+---
+
+### [Index](https://github.com/danielrosehill/Index)
+
+A repository that indexes my Github projects
+
+**Updated:** March 24, 2026 | **Created:** February 22, 2025  
+⭐ 8 stars | 🔀 1 forks  
+**Topics:** `` `` ``  
+
+---
+
+### [Claude Osint Investigator](https://github.com/danielrosehill/Claude-OSINT-Investigator)
+
+Template for using Claude Code for OSINT-led investigations
+
+**Updated:** March 24, 2026 | **Created:** January 11, 2026  
+⭐ 19 stars | 🔀 3 forks  
+**Topics:** `` `` `` ``  
+
+---
+
+### [Israel Civilian Readiness Guide](https://github.com/danielrosehill/Israel-Civilian-Readiness-Guide)
+
+A consolidated series of readiness checklists, SOPs, and peacetime prep guides. Intended for civilian use in Israel. Non-official, but based on gov resources.
+
+**Updated:** March 23, 2026 | **Created:** March 20, 2026  
+**Topics:** `` ``  
+
+---
+
+### [Notebooklm Custom Prompts](https://github.com/danielrosehill/NotebookLM-Custom-Prompts)
+
+AI config / system prompt for reading long reports
+
+**Updated:** March 23, 2026 | **Created:** November 20, 2025  
+⭐ 55 stars | 🔀 14 forks  
+**Topics:** ``  
+
+---
+
+### [Claude Comms Strategist Template](https://github.com/danielrosehill/Claude-Comms-Strategist-Template)
+
+Claude Code template for using Claude Code as a worksapace for communications strategy and planning
+
+**Updated:** March 23, 2026 | **Created:** January 12, 2026  
+⭐ 6 stars | 🔀 1 forks  
+**Topics:** `` `` ``  
+
+---
+
+### [Claude Home Assistant Manager Template](https://github.com/danielrosehill/Claude-Home-Assistant-Manager-Template)
+
+Template for a Claude Code config at the base of a HAOS filesystem
+
+**Updated:** March 23, 2026 | **Created:** November 01, 2025  
+⭐ 4 stars | 🔀 0 forks  
+**Topics:** `` ``  
+
+---
+
+### [Agent Junction](https://github.com/danielrosehill/Agent-Junction)
+
+Ephemeral agent-to-agent communication relay for agentic CLIs (localhost or intra-LAN). MCP.
+
+**Updated:** March 23, 2026 | **Created:** February 17, 2026  
+⭐ 3 stars | 🔀 0 forks  
+**Topics:** `` `` `` ``  
+
+---
+
+### [System Prompt Library](https://github.com/danielrosehill/System-Prompt-Library)
+
+System prompts for AI agents and assistants (automatically populated); periodic point in time exports are releases
+
+**Updated:** March 23, 2026 | **Created:** May 27, 2025  
+⭐ 49 stars | 🔀 9 forks  
+**Topics:** `` `` `` ``  
+
+---
+
+### [How To Mcp](https://github.com/danielrosehill/How-To-MCP)
+
+Template for a guidance reference for AI agents configuring MCP connections
+
+**Updated:** March 23, 2026 | **Created:** March 22, 2026  
+⭐ 1 stars | 🔀 0 forks  
+
+---
+
+### [Awesome Obsidian Ai Tools](https://github.com/danielrosehill/Awesome-Obsidian-AI-Tools)
+
+Obsidian plugins focused on leveraging AI & LLMs inside of (and beyond) vaults
+
+**Updated:** March 23, 2026 | **Created:** September 30, 2024  
+⭐ 92 stars | 🔀 10 forks  
+
+---
+
+### [Danielrosehill](https://github.com/danielrosehill/danielrosehill)
+
+Github homepage text
+
+**Updated:** March 22, 2026 | **Created:** August 11, 2024  
+⭐ 1 stars | 🔀 1 forks  
+
+---
+
+### [Claude Proxmox Manager Template](https://github.com/danielrosehill/Claude-Proxmox-Manager-Template)
+
+Claude Code server manager template adapter for Proxmox environment
+
+**Updated:** March 22, 2026 | **Created:** November 01, 2025  
+⭐ 14 stars | 🔀 3 forks  
+**Topics:** `` ``  
+
+---
+
+### [Fal Nano Mcp](https://github.com/danielrosehill/Fal-Nano-MCP)
+
+Local MCP for using Nano Banana via Fal AI
+
+**Updated:** March 22, 2026 | **Created:** March 22, 2026  
+
+---
+
+### [Hebrew Tts Providers](https://github.com/danielrosehill/Hebrew-TTS-Providers)
+
+Point in time snapshot of TTS providers with Modern Hebrew support
+
+**Updated:** March 22, 2026 | **Created:** March 22, 2026  
+
+---
+
+### [Home Assistant Red Alert Automations](https://github.com/danielrosehill/Home-Assistant-Red-Alert-Automations)
+
+Home Assistant automations for Oref Alert integration with TTS announcements for red alert events in Israel
+
+**Updated:** March 22, 2026 | **Created:** March 19, 2026  
+**Topics:** `` `` ``  
+
+---
+
+### [Make Agent Friendly](https://github.com/danielrosehill/Make-Agent-Friendly)
+
+Claude plugin for refactoring human-developed code-bases for agentic readiness
+
+**Updated:** March 22, 2026 | **Created:** December 13, 2025  
+⭐ 2 stars | 🔀 1 forks  
+**Topics:** `` `` `` ``  
+
+---
+
+### [Geopolitical Analysis System Prompts](https://github.com/danielrosehill/Geopolitical-Analysis-System-Prompts)
+
+System prompts for geopolitical related AI assistants and tools
+
+**Updated:** March 22, 2026 | **Created:** April 06, 2025  
+⭐ 2 stars | 🔀 0 forks  
+
+---
+
+### [Claude Debugging Workspace](https://github.com/danielrosehill/Claude-Debugging-Workspace)
+
+Template for using Claude Code for time-limited or ongoing debugging tasks
+
+**Updated:** March 22, 2026 | **Created:** January 11, 2026  
+⭐ 4 stars | 🔀 0 forks  
+
+---
+
+### [Ai Model Manager](https://github.com/danielrosehill/AI-Model-Manager)
+
+Planning/WIP repo fro AI model manager
+
+**Updated:** March 21, 2026 | **Created:** December 14, 2025  
+⭐ 2 stars | 🔀 0 forks  
+
+---
+
+### [Github Gists Backup Public](https://github.com/danielrosehill/Github-Gists-Backup-Public)
+
+Backup script for backing up Github Gists
+
+**Updated:** March 21, 2026 | **Created:** May 04, 2025  
+⭐ 2 stars | 🔀 0 forks  
+
+---
+
+### [Ai Orchestration System Prompts](https://github.com/danielrosehill/AI-Orchestration-System-Prompts)
+
+System prompts for AI assistants designed to orchestrate access to other agents
+
+**Updated:** March 21, 2026 | **Created:** April 06, 2025  
+⭐ 3 stars | 🔀 1 forks  
+
+---
+
+### [Nfc Reader Writer](https://github.com/danielrosehill/NFC-Reader-Writer)
+
+Desktop NFC reader/writer app for ACS ACR1252U
+
+**Updated:** March 21, 2026 | **Created:** October 04, 2025  
+⭐ 1 stars | 🔀 0 forks  
+**Topics:** ``  
+
+---
+
+### [Pikud Haoref Guidelines 0326](https://github.com/danielrosehill/Pikud-Haoref-Guidelines-0326)
+
+Extracted guidelines for use as a ground truth for AI agents
+
+**Updated:** March 21, 2026 | **Created:** March 20, 2026  
+
+---
+
+### [Split Claude Md Pattern](https://github.com/danielrosehill/Split-Claude-MD-Pattern)
+
+Demo/pattern for creating a home CLAUDE.md optimised for context handling
+
+**Updated:** March 20, 2026 | **Created:** March 20, 2026  
+
+---
+
+### [Claude Code Mcp List](https://github.com/danielrosehill/Claude-Code-MCP-List)
+
+Short collection of MCPs I use / to install for CC on Linux Desktop
+
+**Updated:** March 20, 2026 | **Created:** October 28, 2025  
+⭐ 14 stars | 🔀 3 forks  
+
+---
+
+### [New Turn Claude Hook](https://github.com/danielrosehill/New-Turn-Claude-Hook)
+
+WIP/Planning for a Claude or other agent CLI hook
+
+**Updated:** March 19, 2026 | **Created:** December 31, 2025  
+⭐ 1 stars | 🔀 0 forks  
+
+---
+
+### [Claude Writing Space Template](https://github.com/danielrosehill/Claude-Writing-Space-Template)
+
+Pattern for using Clauide to help with any piece of writing
+
+**Updated:** March 19, 2026 | **Created:** November 12, 2025  
+⭐ 4 stars | 🔀 0 forks  
+
+---
+
+### [Claude Code Writing Squad](https://github.com/danielrosehill/Claude-Code-Writing-Squad)
+
+Model repository structure for using a Claude Code agent crew for writing related tasks
+
+**Updated:** March 19, 2026 | **Created:** September 16, 2025  
+⭐ 6 stars | 🔀 1 forks  
+**Topics:** `` `` ``  
+
+---
+
+### [Claude Blog Manager](https://github.com/danielrosehill/Claude-Blog-Manager)
+
+Conversational CMS: model for using a Claude workspace to manage content
+
+**Updated:** March 19, 2026 | **Created:** November 18, 2025  
+⭐ 5 stars | 🔀 2 forks  
+**Topics:** `` `` ``  
+
+---
+
+### [Claude Space Self Ideator](https://github.com/danielrosehill/Claude-Space-Self-ideator)
+
+Claude Code ideating ideas for new applications for Claude Code workspaces, esp in non-tech domains
+
+**Updated:** March 19, 2026 | **Created:** January 11, 2026  
+⭐ 2 stars | 🔀 0 forks  
+**Topics:** `` ``  
+
+---
+
+### [Claude Change My View](https://github.com/danielrosehill/Claude-Change-My-View)
+
+CMV with AI (pattern/template)
+
+**Updated:** March 19, 2026 | **Created:** November 13, 2025  
+⭐ 2 stars | 🔀 0 forks  
+
+---
+
+### [Claude Ai Conference](https://github.com/danielrosehill/Claude-AI-Conference)
+
+AI experiment: panel + TTS, mini conference/symposium
+
+**Updated:** March 19, 2026 | **Created:** January 01, 2026  
+⭐ 2 stars | 🔀 0 forks  
+
+---
+
+### [Claude Dork](https://github.com/danielrosehill/Claude-Dork)
+
+Claude Code agent for generating batches of platform-specific search dorks
+
+**Updated:** March 19, 2026 | **Created:** March 05, 2026  
+⭐ 1 stars | 🔀 0 forks  
+
+---
+
+### [Claude Media Monitor](https://github.com/danielrosehill/Claude-Media-Monitor)
+
+Slash command for fetching news articles for human analysis
+
+**Updated:** March 19, 2026 | **Created:** November 10, 2025  
+⭐ 2 stars | 🔀 0 forks  
+**Topics:** `` `` ``  
+
+---
+
+### [Claude Competitor Research Agent](https://github.com/danielrosehill/Claude-Competitor-Research-Agent)
+
+Claude agent template for competitor research
+
+**Updated:** March 19, 2026 | **Created:** March 09, 2026  
+⭐ 1 stars | 🔀 0 forks  
+**Topics:** `` `` ``  
+
+---
+
+### [Claude Business Continuity Planner](https://github.com/danielrosehill/Claude-Business-Continuity-Planner)
+
+Claude workspace for business continuity planning
+
+**Updated:** March 19, 2026 | **Created:** January 14, 2026  
+⭐ 1 stars | 🔀 0 forks  
+
+---
+
+### [Claude Salary Research Agent](https://github.com/danielrosehill/Claude-Salary-Research-Agent)
+
+Claude agent skeleton for conducting salary research
+
+**Updated:** March 19, 2026 | **Created:** March 09, 2026  
+⭐ 1 stars | 🔀 0 forks  
+**Topics:** ``  
+
+---
+
+### [Claude Job Search Strategist](https://github.com/danielrosehill/Claude-Job-Search-Strategist)
+
+Template for a Claude Code job search space
+
+**Updated:** March 19, 2026 | **Created:** November 26, 2025  
+⭐ 12 stars | 🔀 1 forks  
+**Topics:** `` ``  
+
+---
+
+### [Claude Budget Workspace Template](https://github.com/danielrosehill/Claude-Budget-Workspace-Template)
+
+Template for using Claude for household budget management
+
+**Updated:** March 19, 2026 | **Created:** November 07, 2025  
+⭐ 4 stars | 🔀 1 forks  
+**Topics:** `` ``  
+
+---
+
+### [Claude Preparedness Planner](https://github.com/danielrosehill/Claude-Preparedness-Planner)
+
+Claude workspace for preparedness planning (template)
+
+**Updated:** March 19, 2026 | **Created:** January 14, 2026  
+⭐ 2 stars | 🔀 0 forks  
+
+---
+
+### [Claude Think Tank](https://github.com/danielrosehill/Claude-Think-Tank)
+
+Model repository for a think tank composed of AI agents (with Claude Code providing the framework) focused on assisting a user with research and ideating policy proposals
+
+**Updated:** March 19, 2026 | **Created:** November 07, 2025  
+⭐ 7 stars | 🔀 1 forks  
+**Topics:** ``  
+
+---
+
+### [Claude Deep Research Template](https://github.com/danielrosehill/Claude-Deep-Research-Template)
+
+Template for Claude Code deep research pattern
+
+**Updated:** March 19, 2026 | **Created:** November 01, 2025  
+⭐ 15 stars | 🔀 3 forks  
+**Topics:** `` ``  
+
+---
+
+### [Linux Desktop Claudemd Seeder](https://github.com/danielrosehill/Linux-Desktop-ClaudeMD-Seeder)
+
+Seeds Claude.md files at common places in Linux Desktop filesystems
+
+**Updated:** March 19, 2026 | **Created:** October 25, 2025  
+⭐ 1 stars | 🔀 0 forks  
+
+---
+
+### [Israel Preparedness Sops](https://github.com/danielrosehill/Israel-Preparedness-SOPs)
+
+Readiness SOPs for wartime in Israel (my own)
+
+**Updated:** March 19, 2026 | **Created:** March 12, 2026  
+**Topics:** `` `` ``  
+
+---
+
+### [Claude Code Security Auditor](https://github.com/danielrosehill/Claude-Code-Security-Auditor)
+
+Pattern/model for using CC for conducting device level security audits
+
+**Updated:** March 19, 2026 | **Created:** October 25, 2025  
+⭐ 1 stars | 🔀 1 forks  
+**Topics:** `` `` ``  
+
+---
+
+### [Jlm Shelter Agent](https://github.com/danielrosehill/JLM-Shelter-Agent)
+
+AI agent for JLM Shelter app/project
+
+**Updated:** March 18, 2026 | **Created:** March 18, 2026  
+
+---
+
+### [Israel Related Mcps](https://github.com/danielrosehill/Israel-Related-MCPs)
+
+Small resource list of MCP projects related to Israel
+
+**Updated:** March 18, 2026 | **Created:** November 15, 2025  
+⭐ 1 stars | 🔀 0 forks  
+**Topics:** `` `` ``  
+
+---
+
+### [Claude Dolphin Konsole Actions](https://github.com/danielrosehill/Claude-Dolphin-Konsole-Actions)
+
+Dolphin actions for KDE + Claude Code
+
+**Updated:** March 18, 2026 | **Created:** March 10, 2026  
+**Topics:** `` ``  
+
+---
+
+### [Homebox Backup Gui](https://github.com/danielrosehill/Homebox-Backup-GUI)
+
+GUI for creating backups of Homebox (with Postgres)
+
+**Updated:** March 18, 2026 | **Created:** October 22, 2025  
+⭐ 2 stars | 🔀 0 forks  
+
+---
+
+### [Claude Shopping Eval Demo](https://github.com/danielrosehill/Claude-Shopping-Eval-Demo)
+
+Demo: using Claude Code as a consumer purchasing assistant — spec, catalog screenshots, and AI-generated recommendations
+
+**Updated:** March 17, 2026 | **Created:** March 16, 2026  
+**Topics:** `` ``  
+
+---
+
+### [Israel First Aid](https://github.com/danielrosehill/Israel-First-Aid)
+
+First aid procedures and decision-making flowchart based on MDA/Hatzalah procedures
+
+**Updated:** March 16, 2026 | **Created:** March 15, 2026  
+**Topics:** `` `` ``  
+
+---
+
+### [User Manual Plugin](https://github.com/danielrosehill/user-manual-plugin)
+
+Prompt for asking Claude to write you documentation
+
+**Updated:** March 16, 2026 | **Created:** December 31, 2025  
+⭐ 3 stars | 🔀 0 forks  
+
+---
+
+### [Claude Red Team Buyer](https://github.com/danielrosehill/Claude-Red-Team-Buyer)
+
+Claude agent template for evaluating branding and messaging
+
+**Updated:** March 16, 2026 | **Created:** March 16, 2026  
+**Topics:** `` `` ``  
+
+---
+
+### [Ai Native Backend Notes](https://github.com/danielrosehill/AI-Native-Backend-Notes)
+
+Questions and answers with Claude on building AI native backends
+
+**Updated:** March 15, 2026 | **Created:** March 15, 2026  
+
+---
+
+### [K811 Ev Test Events](https://github.com/danielrosehill/K811-EV-Test-Events)
+
+EV Test Events For K811 Wired Gaming Keypad
+
+**Updated:** March 15, 2026 | **Created:** September 07, 2025  
+⭐ 3 stars | 🔀 0 forks  
+**Topics:** `` `` ``  
+
+---
+
+### [Claude File Organiser Super Slash](https://github.com/danielrosehill/Claude-File-Organiser-Super-Slash)
+
+One big slash command for filesystem tidying
+
+**Updated:** March 15, 2026 | **Created:** October 29, 2025  
+⭐ 9 stars | 🔀 2 forks  
+
+---
+
+### [Claude Synology Manager](https://github.com/danielrosehill/Claude-Synology-Manager)
+
+Claude workspace (pattern) for managing a LAN Synology NAS
+
+**Updated:** March 15, 2026 | **Created:** December 03, 2025  
+⭐ 4 stars | 🔀 0 forks  
+**Topics:** `` ``  
+
+---
+
+### [Claude Agent Workspace Model](https://github.com/danielrosehill/Claude-Agent-Workspace-Model)
+
+Outline for using various repositories as discrete workspaces for Claude Code
+
+**Updated:** March 14, 2026 | **Created:** October 29, 2025  
+⭐ 6 stars | 🔀 0 forks  
+**Topics:** `` `` `` `` ``  
+
+---
+
+### [Claude Decision Evaluation Framework](https://github.com/danielrosehill/Claude-Decision-Evaluation-Framework)
+
+Claude Code model for decision evaluation
+
+**Updated:** March 14, 2026 | **Created:** November 23, 2025  
+⭐ 13 stars | 🔀 1 forks  
+**Topics:** `` `` ``  
+
+---
+
+### [Claude Adhd Research Workspace](https://github.com/danielrosehill/Claude-ADHD-Research-Workspace)
+
+Claude research notebook into ADHD drug access - an important topic!
+
+**Updated:** March 14, 2026 | **Created:** November 07, 2025  
+⭐ 4 stars | 🔀 0 forks  
+**Topics:** `` ``  
+
+---
+
+### [Claude Keyboard Scanner](https://github.com/danielrosehill/Claude-Keyboard-Scanner)
+
+Claude template/pattern for mapping out keyboards for shortcut and macro creation
+
+**Updated:** March 14, 2026 | **Created:** March 14, 2026  
+
+---
+
+### [Roocode Mode Prompts](https://github.com/danielrosehill/RooCode-Mode-Prompts)
+
+Some custom mode-setting system prompts for Roo Code
+
+**Updated:** March 14, 2026 | **Created:** February 15, 2025  
+⭐ 20 stars | 🔀 0 forks  
+
+---
+
+### [Linux Friendly Voice Tech](https://github.com/danielrosehill/Linux-Friendly-Voice-Tech)
+
+List of resources for voice technology with support for Linux, encompassing STT, ASR primarily as well as dev frameworks.
+
+**Updated:** March 14, 2026 | **Created:** August 27, 2025  
+⭐ 5 stars | 🔀 0 forks  
+**Topics:** `` `` `` `` ``  
+
+---
+
+### [Claude Redaction And Obfuscation](https://github.com/danielrosehill/Claude-Redaction-And-Obfuscation)
+
+Claude Code workspace for document redaction and identity obfuscation - supporting whistleblowing, source protection, defamation defense, and anonymous publishing
+
+**Updated:** March 14, 2026 | **Created:** January 14, 2026  
+⭐ 1 stars | 🔀 0 forks  
+
+---
+
+### [Whatsapp Export Unpacker](https://github.com/danielrosehill/WhatsApp-Export-Unpacker)
+
+Utility for unpacking, organising, and transcribing a WhatsApp chat export
+
+**Updated:** March 13, 2026 | **Created:** January 27, 2026  
+⭐ 5 stars | 🔀 1 forks  
+**Topics:** ``  
+
+---
+
+### [Awesome Whisper Apps](https://github.com/danielrosehill/Awesome-Whisper-Apps)
+
+Useful speech to text tools that use Whisper under the hood (API/local)
+
+**Updated:** March 13, 2026 | **Created:** May 23, 2025  
+⭐ 7 stars | 🔀 3 forks  
+**Topics:** `` `` ``  
+
+---
+
+### [Claude Case File](https://github.com/danielrosehill/Claude-Case-File)
+
+Claude Code template for creating version controlled containers for legal files
+
+**Updated:** March 13, 2026 | **Created:** January 15, 2026  
+⭐ 3 stars | 🔀 1 forks  
+
+---
+
+### [Agent Handover Demo](https://github.com/danielrosehill/Agent-Handover-Demo)
+
+Model for simple handover management (via docs!) between AI agents
+
+**Updated:** March 13, 2026 | **Created:** August 11, 2025  
+⭐ 4 stars | 🔀 0 forks  
+**Topics:** `` `` `` ``  
+
+---
+
+### [Claude Os Playbook](https://github.com/danielrosehill/Claude-OS-Playbook)
+
+Template: use Claude Code as an Ansible stand-in for repetitive environment setup and supervision
+
+**Updated:** March 13, 2026 | **Created:** March 12, 2026  
+⭐ 1 stars | 🔀 0 forks  
+
+---
+
+### [Claude Code Lawyer](https://github.com/danielrosehill/Claude-Code-Lawyer)
+
+Template for using Claude Code for legal research
+
+**Updated:** March 13, 2026 | **Created:** January 11, 2026  
+⭐ 3 stars | 🔀 0 forks  
+**Topics:** `` `` ``  
+
+---
+
+### [Parakeet Dictation](https://github.com/danielrosehill/parakeet-dictation)
+
+On-device voice typing for Linux using Parakeet and NeMo ASR models via sherpa-onnx. Built-in punctuation, multiple model profiles, system tray app with configurable hotkeys. No cloud, no GPU required.
+
+**Updated:** March 12, 2026 | **Created:** March 11, 2026  
+
+---
+
+### [Claudify This](https://github.com/danielrosehill/Claudify-This)
+
+Slash command for asking Claude to proactively spawn Claude "helper" elements in a repo
+
+**Updated:** March 12, 2026 | **Created:** March 12, 2026  
+
+---
+
+### [Handy](https://github.com/danielrosehill/Handy)
+
+A free, open source, and extensible speech-to-text application that works completely offline.
+
+**Updated:** March 12, 2026 | **Created:** March 12, 2026  
+
+---
+
+### [Kde Claude Runner](https://github.com/danielrosehill/KDE-Claude-Runner)
+
+WIP/Plan
+
+**Updated:** March 12, 2026 | **Created:** March 12, 2026  
+
+---
+
+### [Documentation Plugin](https://github.com/danielrosehill/documentation-plugin)
+
+Claude Code plugin for documentation generation, technical writing, README creation, and documentation management workflows.
+
+**Updated:** March 11, 2026 | **Created:** November 15, 2025  
+⭐ 3 stars | 🔀 0 forks  
+
+---
+
+### [Claude Md Chunk](https://github.com/danielrosehill/Claude-MD-Chunk)
+
+Slash command for splitting up CLAUDE.md
+
+**Updated:** March 11, 2026 | **Created:** February 17, 2026  
+⭐ 1 stars | 🔀 0 forks  
+
+---
+
+### [Claude App Optimiser](https://github.com/danielrosehill/Claude-App-Optimiser)
+
+System prompt, slash command, agent
+
+**Updated:** March 11, 2026 | **Created:** December 23, 2025  
+⭐ 2 stars | 🔀 0 forks  
+
+---
+
+### [Claude Qa Team](https://github.com/danielrosehill/Claude-QA-Team)
+
+Collection of agent configs for QA-ing a codebase
+
+**Updated:** March 11, 2026 | **Created:** January 10, 2026  
+⭐ 2 stars | 🔀 3 forks  
+
+---
+
+### [Claude Repo Retrofitter](https://github.com/danielrosehill/Claude-Repo-Retrofitter)
+
+Slash command/skill template for scaffolding Claude Code foundational files in old repos
+
+**Updated:** March 11, 2026 | **Created:** March 07, 2026  
+⭐ 1 stars | 🔀 0 forks  
+**Topics:** ``  
+
+---
+
+### [Touchpad Mouse Toggle](https://github.com/danielrosehill/touchpad-mouse-toggle)
+
+Auto-disable laptop touchpad when external mouse is connected (KDE Wayland)
+
+**Updated:** March 11, 2026 | **Created:** March 11, 2026  
+
+---
+
+### [Israel News Rss Feeds](https://github.com/danielrosehill/Israel-News-RSS-Feeds)
+
+Collection of RSS feeds about news in Israel
+
+**Updated:** March 11, 2026 | **Created:** April 18, 2025  
+⭐ 5 stars | 🔀 0 forks  
+**Topics:** `` `` `` ``  
+
+---
+
+### [Claude Deep Research Model](https://github.com/danielrosehill/Claude-Deep-Research-Model)
+
+Repo model for an iterative deep research model with voice pipeline
+
+**Updated:** March 10, 2026 | **Created:** October 29, 2025  
+⭐ 6 stars | 🔀 2 forks  
+**Topics:** `` ``  
+
+---
+
+### [Claude Code Plugins](https://github.com/danielrosehill/Claude-Code-Plugins)
+
+Daniel Rosehill's Claude Code plugin marketplace
+
+**Updated:** March 10, 2026 | **Created:** November 09, 2025  
+⭐ 4 stars | 🔀 2 forks  
+**Topics:** ``  
+
+---
+
+### [Agentic Ai Architecture Visualisation](https://github.com/danielrosehill/Agentic-AI-Architecture-Visualisation)
+
+Framework-agnostic data model and visualizations mapping the moving pieces of agentic AI systems
+
+**Updated:** March 10, 2026 | **Created:** March 10, 2026  
+⭐ 2 stars | 🔀 0 forks  
+
+---
+
+### [Claude Report Parsing Space Template](https://github.com/danielrosehill/Claude-Report-Parsing-Space-Template)
+
+Claude Code repo template for report analysis
+
+**Updated:** March 10, 2026 | **Created:** January 06, 2026  
+⭐ 3 stars | 🔀 1 forks  
+**Topics:** `` ``  
+
+---
+
+### [Claude Code Linux Desktop Slash Commands](https://github.com/danielrosehill/Claude-Code-Linux-Desktop-Slash-Commands)
+
+Slash commands for Linux desktop sysadmin with Claude Code (or any other agent)
+
+**Updated:** March 10, 2026 | **Created:** October 21, 2025  
+⭐ 26 stars | 🔀 7 forks  
+**Topics:** `` `` ``  
+
+---
+
+### [Claude Agent Workspace Generator](https://github.com/danielrosehill/Claude-Agent-Workspace-Generator)
+
+Claude utility for creating workspace templates for agentic AI tools
+
+**Updated:** March 10, 2026 | **Created:** March 09, 2026  
+⭐ 1 stars | 🔀 0 forks  
+
+---
+
+### [Prompt Library](https://github.com/danielrosehill/Prompt-Library)
+
+A repository of prompts I've used when working with LLMs as well as some example outputs and notes
+
+**Updated:** March 10, 2026 | **Created:** July 24, 2024  
+⭐ 9 stars | 🔀 1 forks  
+**Topics:** `` `` `` `` ``  
+
+---
+
+### [Claude Repo Creator](https://github.com/danielrosehill/Claude-Repo-Creator)
+
+A Claude Code workspace/wrapper for creating repositories optimised for Claude Code
+
+**Updated:** March 09, 2026 | **Created:** March 09, 2026  
+**Topics:** `` ``  
+
+---
+
+### [Claude Konsole Launcher](https://github.com/danielrosehill/Claude-Konsole-Launcher)
+
+Launch utility (WIP) for using Claude Code + Konsole in KDE Plasma
+
+**Updated:** March 09, 2026 | **Created:** March 09, 2026  
+
+---
+
+### [Miklat Mcp Data](https://github.com/danielrosehill/Miklat-MCP-Data)
+
+Data pipeline for Miklat MCP
+
+**Updated:** March 09, 2026 | **Created:** March 09, 2026  
+
+---
+
+### [Miklat Mcp](https://github.com/danielrosehill/Miklat-MCP)
+
+MCP to enable AI agents to guide users towards miklatim tziburim (public shelters) in Israel
+
+**Updated:** March 09, 2026 | **Created:** March 03, 2026  
+⭐ 4 stars | 🔀 0 forks  
+**Topics:** `` `` ``  
+
+---
+
+### [Claude Github Shortlister](https://github.com/danielrosehill/Claude-Github-Shortlister)
+
+Template: use Claude to shortlist potentlal tools/components
+
+**Updated:** March 08, 2026 | **Created:** October 28, 2025  
+⭐ 4 stars | 🔀 0 forks  
+**Topics:** `` `` ``  
+
+---
+
+### [Claude Personal Development Workspace](https://github.com/danielrosehill/Claude-Personal-Development-Workspace)
+
+Template for using Claude Code to track habit development and other "life projects"
+
+**Updated:** March 08, 2026 | **Created:** January 11, 2026  
+⭐ 6 stars | 🔀 3 forks  
+**Topics:** `` `` ``  
+
+---
+
+### [Openai Image Renamer](https://github.com/danielrosehill/OpenAI-Image-Renamer)
+
+Simple Python script for batch file renaming operations with OpenAI API
+
+**Updated:** March 08, 2026 | **Created:** April 18, 2025  
+⭐ 3 stars | 🔀 0 forks  
+**Topics:** `` ``  
+
+---
+
+### [Agent Sdk Env Setup](https://github.com/danielrosehill/Agent-SDK-Env-Setup)
+
+Script to clone a few of the main ADKs (agent development kids) for testing/experimentation
+
+**Updated:** March 08, 2026 | **Created:** August 26, 2025  
+⭐ 1 stars | 🔀 0 forks  
+**Topics:** `` `` `` ``  
+
+---
+
+### [Osint Missile Intelligence Agent](https://github.com/danielrosehill/OSINT-Missile-Intelligence-Agent)
+
+Snap reports about causes and quantitiative info about hostile missile launches
+
+**Updated:** March 08, 2026 | **Created:** July 30, 2025  
+⭐ 2 stars | 🔀 0 forks  
+**Topics:** `` `` `` `` ``  
+
+---
+
+### [Ha Shabbat Dashboard 0125](https://github.com/danielrosehill/HA-Shabbat-Dashboard-0125)
+
+Simple designed Home Assistant dashboard for Shabbat / Yom Tov times
+
+**Updated:** March 08, 2026 | **Created:** January 30, 2025  
+⭐ 1 stars | 🔀 0 forks  
+
+---
+
+### [Claude Georeaction Researcher](https://github.com/danielrosehill/Claude-Georeaction-Researcher)
+
+Claude template for analysing global sentiment/reaction to a geopolitical issue
+
+**Updated:** March 07, 2026 | **Created:** March 04, 2026  
+
+---
+
+### [Jewish Interest Mcp Projects](https://github.com/danielrosehill/Jewish-Interest-MCP-Projects)
+
+Some MCP (model context protocol) servers which might be of interest to Jewish users
+
+**Updated:** March 06, 2026 | **Created:** April 05, 2025  
+⭐ 2 stars | 🔀 0 forks  
+
+---
+
+### [Image Editing Plugin](https://github.com/danielrosehill/image-editing-plugin)
+
+Claude Code plugin for image processing, photo editing, batch image operations, and visual media management.
+
+**Updated:** March 06, 2026 | **Created:** November 15, 2025  
+⭐ 1 stars | 🔀 0 forks  
+
+---
+
+### [Anthropic Skills Notes](https://github.com/danielrosehill/anthropic-skills-notes)
+
+Public repository for Skills
+
+**Updated:** March 06, 2026 | **Created:** October 31, 2025  
+⭐ 1 stars | 🔀 0 forks  
+
+---
+
+### [Voicenotes Prompt To Email Workflow N8N](https://github.com/danielrosehill/Voicenotes-Prompt-To-Email-Workflow-N8N)
+
+*No description provided*
+
+**Updated:** March 06, 2026 | **Created:** July 24, 2025  
+⭐ 1 stars | 🔀 0 forks  
+
+---
+
+### [Cloud Stt Price Points 1225](https://github.com/danielrosehill/Cloud-STT-Price-Points-1225)
+
+Point in time pricing snapshots for ASR (07-12-2025)
+
+**Updated:** March 05, 2026 | **Created:** December 07, 2025  
+⭐ 1 stars | 🔀 0 forks  
+
+---
+
+### [Sitrep Examples](https://github.com/danielrosehill/SITREP-Examples)
+
+Examples of situational reports (SITREPs) to guide agentic generation or general authorship
+
+**Updated:** March 05, 2026 | **Created:** March 05, 2026  
+
+---
+
+### [Perspective Finder Prompt](https://github.com/danielrosehill/Perspective-Finder-Prompt)
+
+Prompt for mapping out nuances in debates
+
+**Updated:** March 05, 2026 | **Created:** March 04, 2026  
+⭐ 1 stars | 🔀 0 forks  
+**Topics:** `` `` ``  
+
+---
+
+### [Claude Code Marketplace](https://github.com/danielrosehill/claude-code-marketplace)
+
+*No description provided*
+
+**Updated:** March 05, 2026 | **Created:** November 09, 2025  
+⭐ 1 stars | 🔀 0 forks  
+
+---
+
+### [Smithery Claude Code Mcp Jumpstarter](https://github.com/danielrosehill/Smithery-Claude-Code-MCP-Jumpstarter)
+
+Group of Smithery MCPs for Claude Code
+
+**Updated:** March 05, 2026 | **Created:** October 11, 2025  
+⭐ 2 stars | 🔀 0 forks  
+**Topics:** `` `` `` ``  
+
+---
+
+### [Claude Tech Research Team](https://github.com/danielrosehill/Claude-Tech-Research-Team)
+
+Example/templaet for using Claude Code repo structure for tech/stack research
+
+**Updated:** March 04, 2026 | **Created:** October 31, 2025  
+⭐ 6 stars | 🔀 0 forks  
+**Topics:** `` `` `` ``  
+
+---
+
+### [Cloud Asr Mcp](https://github.com/danielrosehill/Cloud-ASR-MCP)
+
+WIP MCP for using various cloud ASR models for speech to text / transcription
+
+**Updated:** March 04, 2026 | **Created:** December 02, 2025  
+⭐ 1 stars | 🔀 0 forks  
+
+---
+
+### [Claude Purchasing Assistant](https://github.com/danielrosehill/Claude-Purchasing-Assistant)
+
+Template for Claude Code repo for purchase planning
+
+**Updated:** March 04, 2026 | **Created:** January 13, 2026  
+⭐ 2 stars | 🔀 0 forks  
+**Topics:** `` ``  
+
+---
+
+### [Stt Basic Cleanup System Prompt](https://github.com/danielrosehill/STT-Basic-Cleanup-System-Prompt)
+
+Basic foundational system prompt for cleaning up AI voice transcripts
+
+**Updated:** March 04, 2026 | **Created:** April 24, 2025  
+⭐ 2 stars | 🔀 0 forks  
+**Topics:** `` `` ``  
+
+---
+
+### [Logitech C925E Boot Configurator](https://github.com/danielrosehill/Logitech-C925E-Boot-Configurator)
+
+v4l2 configuration script for Logitech C925e webcam - sets 1080p @ 24fps MJPEG on boot
+
+**Updated:** March 03, 2026 | **Created:** October 23, 2025  
+⭐ 1 stars | 🔀 0 forks  
+**Topics:** `` `` `` ``  
+
+---
+
+### [Openwebui Postgres Qdrant](https://github.com/danielrosehill/OpenWebUI-Postgres-Qdrant)
+
+Docker Compose for OpenWebUI + Postgres + Qdrant
+
+**Updated:** March 02, 2026 | **Created:** March 12, 2025  
+⭐ 13 stars | 🔀 2 forks  
+
+---
+
+### [One Plus Internal Mic Testing](https://github.com/danielrosehill/One-Plus-Internal-Mic-Testing)
+
+*No description provided*
+
+**Updated:** March 02, 2026 | **Created:** March 02, 2026  
+
+---
+
+### [Non Code Claude Code](https://github.com/danielrosehill/Non-Code-Claude-Code)
+
+Small collection of non-development related uses for Claude Code
+
+**Updated:** March 02, 2026 | **Created:** October 03, 2025  
+⭐ 13 stars | 🔀 4 forks  
+**Topics:** `` `` `` ``  
+
+---
+
+### [Claude Janitor](https://github.com/danielrosehill/Claude-Janitor)
+
+Claude plugin for tidying up repositories from Claude related things
+
+**Updated:** March 02, 2026 | **Created:** December 16, 2025  
+⭐ 5 stars | 🔀 0 forks  
+
+---
+
+### [Ecosystem Mapper](https://github.com/danielrosehill/Ecosystem-Mapper)
+
+Claude research utility to delineate an emerging tech ecosystem
+
+**Updated:** March 02, 2026 | **Created:** December 19, 2025  
+⭐ 3 stars | 🔀 0 forks  
+**Topics:** `` ``  
+
+---
+
+### [Claude Stack Research Workspace](https://github.com/danielrosehill/Claude-Stack-Research-Workspace)
+
+*No description provided*
+
+**Updated:** March 02, 2026 | **Created:** November 03, 2025  
+⭐ 5 stars | 🔀 1 forks  
+**Topics:** `` `` ``  
+
+---
+
+### [Claude Diary Planner Template](https://github.com/danielrosehill/Claude-Diary-Planner-Template)
+
+Template Claude Code repo for workfow and time management planning
+
+**Updated:** March 02, 2026 | **Created:** November 07, 2025  
+⭐ 2 stars | 🔀 2 forks  
+**Topics:** `` `` ``  
+
+---
+
+### [Text Transformation Prompt Stack](https://github.com/danielrosehill/Text-Transformation-Prompt-Stack)
+
+Documentation/notes for a "prompt stack" for audio multimodal text processing
+
+**Updated:** March 01, 2026 | **Created:** December 18, 2025  
+⭐ 1 stars | 🔀 0 forks  
+**Topics:** `` ``  
+
+---
+
+### [Opencode](https://github.com/danielrosehill/opencode)
+
+The open source coding agent.
+
+**Updated:** March 01, 2026 | **Created:** December 30, 2025  
+⭐ 1 stars | 🔀 0 forks  
+
+---
+
+### [Circular Prompting](https://github.com/danielrosehill/Circular-Prompting)
+
+Notes/docs for a prompting method for AI agents
+
+**Updated:** March 01, 2026 | **Created:** December 31, 2025  
+⭐ 1 stars | 🔀 0 forks  
+**Topics:** `` `` `` ``  
+
+---
+
+### [Shared Ai Chats Research](https://github.com/danielrosehill/Shared-AI-Chats-Research)
+
+AI assisted search query (and notes)
+
+**Updated:** March 01, 2026 | **Created:** December 31, 2025  
+⭐ 1 stars | 🔀 0 forks  
+
+---
+
+### [Llm Recommendation Agent](https://github.com/danielrosehill/LLM-Recommendation-Agent)
+
+AI agent for suggesting suitable LLMs for projects
+
+**Updated:** March 01, 2026 | **Created:** December 31, 2025  
+⭐ 1 stars | 🔀 0 forks  
+
+---
+
+### [Claude Resource List Builder](https://github.com/danielrosehill/Claude-Resource-List-Builder)
+
+Claude pattern for generating resource lists
+
+**Updated:** March 01, 2026 | **Created:** January 01, 2026  
+⭐ 2 stars | 🔀 0 forks  
+
+---
+
+### [My Network Mcp](https://github.com/danielrosehill/My-Network-MCP)
+
+MCP for providing a manually managed LAN directory to AI tools
+
+**Updated:** March 01, 2026 | **Created:** December 15, 2025  
+⭐ 1 stars | 🔀 0 forks  
+
+---
+
+### [Mcp Network Cups](https://github.com/danielrosehill/MCP-Network-CUPS)
+
+MCP-CUPS bridge intended to provide LAN clients with priting tools for a networked/shrared printer running on a CUPS backend
+
+**Updated:** March 01, 2026 | **Created:** December 25, 2025  
+⭐ 1 stars | 🔀 0 forks  
+**Topics:** `` ``  
+
+---
+
+### [Mcp Server Research](https://github.com/danielrosehill/MCP-Server-Research)
+
+Stack research task 02-01-2026
+
+**Updated:** March 01, 2026 | **Created:** January 02, 2026  
+⭐ 1 stars | 🔀 0 forks  
+
+---
+
+### [Claude Web Analytics Space](https://github.com/danielrosehill/Claude-Web-Analytics-Space)
+
+Template for using Claude Code to streamline website data analytics
+
+**Updated:** March 01, 2026 | **Created:** January 06, 2026  
+⭐ 1 stars | 🔀 1 forks  
+**Topics:** `` ``  
+
+---
+
+### [Claude Lawyer Isr](https://github.com/danielrosehill/Claude-Lawyer-ISR)
+
+Israel-specific variant of Claude Code repo template for legal analysis and advice
+
+**Updated:** March 01, 2026 | **Created:** January 12, 2026  
+⭐ 1 stars | 🔀 0 forks  
+**Topics:** `` `` `` ``  
+
+---
+
+### [Claude Gdrive Organiser](https://github.com/danielrosehill/Claude-Gdrive-Organiser)
+
+Template/pattern for using Claude Code to tame unwieldly Google Drives without Oauth
+
+**Updated:** March 01, 2026 | **Created:** January 12, 2026  
+⭐ 3 stars | 🔀 1 forks  
+**Topics:** `` ``  
+
+---
+
+### [Claude Legal Aid Clinic](https://github.com/danielrosehill/Claude-Legal-Aid-Clinic)
+
+Simulated legal aid clinic staffed by AI agents
+
+**Updated:** March 01, 2026 | **Created:** January 20, 2026  
+⭐ 1 stars | 🔀 0 forks  
+**Topics:** `` `` ``  
+
+---
+
+### [Digital Evidence Toolkit](https://github.com/danielrosehill/Digital-Evidence-Toolkit)
+
+Notes on highly useful tools for digital evidence collection
+
+**Updated:** March 01, 2026 | **Created:** January 28, 2026  
+⭐ 3 stars | 🔀 0 forks  
+
+---
+
+### [Workstation Benchmarks 0226](https://github.com/danielrosehill/Workstation-Benchmarks-0226)
+
+Desktop benchmarks Feb 20, 2026
+
+**Updated:** March 01, 2026 | **Created:** February 20, 2026  
+⭐ 1 stars | 🔀 0 forks  
+
+---
+
+### [Linux Github Repo Launcher](https://github.com/danielrosehill/Linux-Github-Repo-Launcher)
+
+Github repository search and quick launch utility preconfigured for VS Code & Windsurf
+
+**Updated:** March 01, 2026 | **Created:** March 03, 2025  
+⭐ 1 stars | 🔀 0 forks  
+**Topics:** `` ``  
+
+---
+
+### [Linux Server Plugin](https://github.com/danielrosehill/linux-server-plugin)
+
+Claude Code plugin for Linux server administration, service management, and server infrastructure workflows.
+
+**Updated:** February 28, 2026 | **Created:** November 15, 2025  
+⭐ 1 stars | 🔀 0 forks  
+
+---
+
+### [Structured System Prompt Generator](https://github.com/danielrosehill/Structured-System-Prompt-Generator)
+
+Streamlit generator to aid with the creation of structured prompts
+
+**Updated:** February 28, 2026 | **Created:** April 08, 2025  
+⭐ 6 stars | 🔀 2 forks  
+**Topics:** `` `` ``  
+
+---
+
+### [Awesome Ai Coding Tools](https://github.com/danielrosehill/Awesome-AI-Coding-Tools)
+
+September 1st 2025 Snapshot
+
+**Updated:** February 28, 2026 | **Created:** September 01, 2025  
+⭐ 5 stars | 🔀 1 forks  
+
+---
+
+### [Nano Banana Desktop](https://github.com/danielrosehill/Nano-Banana-Desktop)
+
+Vibe coded starter for a Nano Banana inpainting utility  / image editor (Gemini API)
+
+**Updated:** February 27, 2026 | **Created:** November 01, 2025  
+⭐ 7 stars | 🔀 1 forks  
+**Topics:** `` `` `` `` ``  
+
+---
+
+### [General System Prompts](https://github.com/danielrosehill/General-System-Prompts)
+
+Some system prompts intended to (attempt to) configure neutral behavior from LLMs
+
+**Updated:** February 27, 2026 | **Created:** February 24, 2025  
+⭐ 9 stars | 🔀 2 forks  
+
+---
+
+### [Claude Evidence Assistant](https://github.com/danielrosehill/Claude-Evidence-Assistant)
+
+Workspace template for using Claude Code to create digital evidence bundles
+
+**Updated:** February 26, 2026 | **Created:** January 19, 2026  
+⭐ 2 stars | 🔀 0 forks  
+
+---
+
+### [Claude Lan Manager 0126](https://github.com/danielrosehill/Claude-LAN-Manager-0126)
+
+LAN management GUI
+
+**Updated:** February 26, 2026 | **Created:** January 09, 2026  
+⭐ 1 stars | 🔀 0 forks  
+
+---
+
+### [Text Transformation Prompt Library](https://github.com/danielrosehill/Text-Transformation-Prompt-Library)
+
+Updated repo of text transformation prompts (raw STT transcripts -> *). New repo for capturing via automations.
+
+**Updated:** February 25, 2026 | **Created:** May 27, 2025  
+⭐ 5 stars | 🔀 2 forks  
+**Topics:** `` `` ``  
+
+---
+
+### [Claude System Recovery Mode](https://github.com/danielrosehill/Claude-System-Recovery-Mode)
+
+Boot target for using an agentic CLI for system recovery on Ubuntu (adapting to other GRUB-supporting OSes should be simple; for non-Linux envs, fork and modify).
+
+**Updated:** February 25, 2026 | **Created:** December 27, 2025  
+⭐ 1 stars | 🔀 0 forks  
+**Topics:** `` `` `` ``  
+
+---
+
+### [Homebox Projects Index](https://github.com/danielrosehill/Homebox-Projects-Index)
+
+Index of Homebox related projects (home inventory system)
+
+**Updated:** February 24, 2026 | **Created:** August 10, 2025  
+⭐ 2 stars | 🔀 0 forks  
+**Topics:** `` ``  
+
+---
+
+### [Prompt Debugger System Prompts](https://github.com/danielrosehill/Prompt-Debugger-System-Prompts)
+
+SPs for configuring "self-debugging" AI assistants and agents
+
+**Updated:** February 24, 2026 | **Created:** April 27, 2025  
+⭐ 3 stars | 🔀 0 forks  
+
+---
+
+### [Claude Code Mcp Command Generator](https://github.com/danielrosehill/Claude-Code-MCP-Command-Generator)
+
+Provides CC MCP installation commands
+
+**Updated:** February 23, 2026 | **Created:** October 16, 2025  
+⭐ 3 stars | 🔀 0 forks  
+
+---
+
+### [Claude Code Notebook](https://github.com/danielrosehill/Claude-Code-Notebook)
+
+Personal reference notebook for Claude Code (CLI) usage. Context: Linux desktop (Ubuntu)
+
+**Updated:** February 23, 2026 | **Created:** October 30, 2025  
+⭐ 2 stars | 🔀 0 forks  
+**Topics:** `` `` ``  
+
+---
+
+### [Claude Sub Agent Network](https://github.com/danielrosehill/Claude-Sub-Agent-Network)
+
+Collection of subagents for Claude Code with configs spanning ideation, editing, version control
+
+**Updated:** February 23, 2026 | **Created:** September 09, 2025  
+⭐ 2 stars | 🔀 2 forks  
+**Topics:** `` `` `` ``  
+
+---
+
+### [Claude Development Agents](https://github.com/danielrosehill/Claude-Development-Agents)
+
+Updated and consolidated list of agents that I use and reuse across projects
+
+**Updated:** February 23, 2026 | **Created:** December 29, 2025  
+⭐ 3 stars | 🔀 1 forks  
+
+---
+
+### [Claude Agent Picker Pattern](https://github.com/danielrosehill/Claude-Agent-Picker-Pattern)
+
+Pattern/idea for the "too many subagents" problem
+
+**Updated:** February 23, 2026 | **Created:** October 31, 2025  
+⭐ 4 stars | 🔀 0 forks  
+**Topics:** `` `` ``  
+
+---
+
+### [Which Usb](https://github.com/danielrosehill/Which-USB)
+
+GUI for identifying USB devices with lsusb
+
+**Updated:** February 21, 2026 | **Created:** September 10, 2025  
+⭐ 1 stars | 🔀 0 forks  
+**Topics:** `` `` `` `` ``  
+
+---
+
+### [Prompt Libraries Index](https://github.com/danielrosehill/Prompt-Libraries-Index)
+
+Index for my collections of user and system prompts on Github
+
+**Updated:** February 21, 2026 | **Created:** April 06, 2025  
+⭐ 2 stars | 🔀 0 forks  
+
+---
+
+### [Jlm Shelters Data](https://github.com/danielrosehill/jlm-shelters-data)
+
+Community-maintained dataset of public bomb shelters in Jerusalem. Data pipeline for jlmshelters.com
+
+**Updated:** February 20, 2026 | **Created:** February 20, 2026  
+
+---
+
+### [Hebrew Date Kde Widget](https://github.com/danielrosehill/Hebrew-Date-KDE-Widget)
+
+WIP - KDE Plasmoid for displaying the Hebrew calendar date
+
+**Updated:** February 20, 2026 | **Created:** September 22, 2025  
+⭐ 1 stars | 🔀 0 forks  
+
+---
+
+### [Pi Time Zone Clock](https://github.com/danielrosehill/Pi-Time-Zone-Clock)
+
+Dual clock display interface for SBCs
+
+**Updated:** February 20, 2026 | **Created:** February 18, 2026  
+
+---
+
+### [Claude Mvt Workspace](https://github.com/danielrosehill/Claude-MVT-Workspace)
+
+Repository template for using Claude to orchestrate an MVT scan over ADB
+
+**Updated:** February 18, 2026 | **Created:** February 18, 2026  
+
+---
+
+### [Worldmonitor](https://github.com/danielrosehill/worldmonitor)
+
+Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+
+**Updated:** February 18, 2026 | **Created:** February 18, 2026  
+
+---
+
+### [Resume](https://github.com/danielrosehill/Resume)
+
+Public version of resume for AI agents and humans!
+
+**Updated:** February 18, 2026 | **Created:** February 18, 2026  
+⭐ 1 stars | 🔀 0 forks  
+
+---
+
+### [Ai Agent Un](https://github.com/danielrosehill/AI-Agent-UN)
+
+Experimentary implementation of a model real life political body populated by representative AI agents
+
+**Updated:** February 17, 2026 | **Created:** October 09, 2025  
+⭐ 1 stars | 🔀 1 forks  
+**Topics:** `` `` `` ``  
+
+---
+
+### [Ai Resume](https://github.com/danielrosehill/AI-Resume)
+
+Notes / test for creating a version of a resume/CV specifically intended for AI agents
+
+**Updated:** February 17, 2026 | **Created:** February 17, 2026  
+⭐ 1 stars | 🔀 0 forks  
+
+---
+
+### [Seo Plugin](https://github.com/danielrosehill/seo-plugin)
+
+Claude Code plugin for SEO optimization, meta tag management, and search engine optimization workflows.
+
+**Updated:** February 17, 2026 | **Created:** November 15, 2025  
+⭐ 1 stars | 🔀 0 forks  
+
+---
+
+### [Split Context Setup](https://github.com/danielrosehill/Split-Context-Setup)
+
+Slash command for setting up a split human-agent context system in Claude repos
+
+**Updated:** February 17, 2026 | **Created:** February 17, 2026  
+
+---
+
+### [Claude Is Awesome](https://github.com/danielrosehill/Claude-Is-Awesome)
+
+Awesome list creator using Claude Code
+
+**Updated:** February 15, 2026 | **Created:** October 28, 2025  
+⭐ 2 stars | 🔀 0 forks  
+**Topics:** `` ``  
+
+---
+
+### [Claude Linux Server Manager](https://github.com/danielrosehill/Claude-Linux-Server-Manager)
+
+Template repository for creating Claude Code structured workspace in a remote server environment
+
+**Updated:** February 15, 2026 | **Created:** November 01, 2025  
+⭐ 3 stars | 🔀 2 forks  
+**Topics:** `` `` ``  
+
+---
+
+### [Writing Editing Plugin](https://github.com/danielrosehill/writing-editing-plugin)
+
+Claude Code plugin for writing assistance, proofreading, style editing, and text transformation workflows.
+
+**Updated:** February 14, 2026 | **Created:** November 15, 2025  
+⭐ 2 stars | 🔀 0 forks  
+**Topics:** `` ``  
+
+---
+
+### [Kscreen Config Scripts And Docs](https://github.com/danielrosehill/KScreen-Config-Scripts-And-Docs)
+
+Some scripts for saving good multiscreen configs for easy shortcutting and DPMS
+
+**Updated:** February 13, 2026 | **Created:** September 11, 2025  
+⭐ 2 stars | 🔀 0 forks  
+
+---
+
+### [Speech To Text System Prompt Library](https://github.com/danielrosehill/Speech-To-Text-System-Prompt-Library)
+
+An updated skeleton library of system prompts for using LLMs to refine STT output
+
+**Updated:** February 11, 2026 | **Created:** April 07, 2025  
+⭐ 5 stars | 🔀 1 forks  
+**Topics:** `` `` ``  
+
+---
+
+### [Ai Agent Ideation Chatbot System Prompt](https://github.com/danielrosehill/AI-Agent-Ideation-Chatbot-System-Prompt)
+
+System prompt (03/25) for a conversational AI agent and assistant idea generator
+
+**Updated:** February 11, 2026 | **Created:** March 26, 2025  
+⭐ 13 stars | 🔀 4 forks  
+**Topics:** `` `` `` ``  
+
+---
+
+### [System Prompt Tuning Agent N8N](https://github.com/danielrosehill/System-Prompt-Tuning-Agent-N8N)
+
+N8N agent workflow for an agent that recommends fixes to system prompts based on structured user inputs provided by form
+
+**Updated:** February 10, 2026 | **Created:** May 18, 2025  
+⭐ 2 stars | 🔀 0 forks  
+
+---
+
+### [Cool Claude Code Stuff](https://github.com/danielrosehill/Cool-Claude-Code-Stuff)
+
+Claude Code repos and other resources
+
+**Updated:** February 08, 2026 | **Created:** October 02, 2025  
+⭐ 7 stars | 🔀 1 forks  
+**Topics:** `` `` `` `` ``  
+
+---
+
+### [Mcpm Claude Code Docs](https://github.com/danielrosehill/MCPM-Claude-Code-Docs)
+
+Docs (for self) on how to use Claude Code in conjunction with MCPM
+
+**Updated:** February 07, 2026 | **Created:** December 09, 2025  
+⭐ 2 stars | 🔀 0 forks  
+
+---
+
+### [Claude Ivory Pc Builder](https://github.com/danielrosehill/Claude-Ivory-PC-Builder)
+
+*No description provided*
+
+**Updated:** February 05, 2026 | **Created:** February 05, 2026  
+⭐ 1 stars | 🔀 1 forks  
+
+---
+
+### [Mcp Installation Notebook](https://github.com/danielrosehill/MCP-Installation-Notebook)
+
+Notebook of things I've figured out about installing MCPs - as I figure them out
+
+**Updated:** February 05, 2026 | **Created:** October 30, 2025  
+⭐ 1 stars | 🔀 0 forks  
+
+---
+
+### [System Prompt Generation Configurations](https://github.com/danielrosehill/System-Prompt-Generation-Configurations)
+
+System prompts for using AI tools to generate and improve system prompts
+
+**Updated:** February 05, 2026 | **Created:** March 26, 2025  
+⭐ 20 stars | 🔀 2 forks  
+**Topics:** `` `` `` `` ``  
+
+---
+
+### [One Shot Transcription Microphone Eval](https://github.com/danielrosehill/One-Shot-Transcription-Microphone-Eval)
+
+Test samples for various microphones with an STT accuracy eval
+
+**Updated:** February 04, 2026 | **Created:** December 06, 2025  
+**Topics:** `` `` `` ``  
+
+---
+
+### [Awesome Linux Ides](https://github.com/danielrosehill/Awesome-Linux-IDEs)
+
+IDEs and development tools that work on one or multiple Linux distros. where possible details are noted like the supported distros, programming languages and more.   
+
+**Updated:** February 04, 2026 | **Created:** May 19, 2024  
+⭐ 7 stars | 🔀 0 forks  
+
+---
+
+### [K3B Mcp](https://github.com/danielrosehill/K3B-MCP)
+
+MCP for K3B operations (intended for local use)
+
+**Updated:** February 03, 2026 | **Created:** February 03, 2026  
+**Topics:** `` `` `` ``  
+
+---
+
+### [Ux570 Importer](https://github.com/danielrosehill/UX570-Importer)
+
+File import utility for Sony UX570 digital voice recorder (DVR)
+
+**Updated:** February 03, 2026 | **Created:** February 03, 2026  
+
+---
+
+### [Green Invoice Api My Notes](https://github.com/danielrosehill/Green-Invoice-API-My-Notes)
+
+Timestampped notes (non-official!) for Green Invoice API & Webhooks
+
+**Updated:** February 03, 2026 | **Created:** May 26, 2025  
+⭐ 1 stars | 🔀 0 forks  
+
+---
+
+### [Agents.Md Templates](https://github.com/danielrosehill/Agents.md-Templates)
+
+Template agents.md templates for use with OpenAI Codex
+
+**Updated:** February 03, 2026 | **Created:** September 17, 2025  
+⭐ 2 stars | 🔀 0 forks  
+**Topics:** `` `` ``  
+
+---
+
+### [Ivory Parts Finder](https://github.com/danielrosehill/Ivory-Parts-Finder)
+
+AI assistant config for building computers and finding accesories from Ivory (Israeli computer chain)
+
+**Updated:** February 02, 2026 | **Created:** February 02, 2026  
+**Topics:** `` ``  
+
+---
+
+### [Aliexpress Combo Hider](https://github.com/danielrosehill/Aliexpress-Combo-Hider)
+
+*No description provided*
+
+**Updated:** January 30, 2026 | **Created:** January 30, 2026  
+**Topics:** `` `` ``  
+
+---
+
+### [Claude Code Lan Manager](https://github.com/danielrosehill/Claude-Code-LAN-Manager)
+
+Repo for using Claude Code to manage local servers/homelabs
+
+**Updated:** January 29, 2026 | **Created:** October 25, 2025  
+⭐ 1 stars | 🔀 0 forks  
+**Topics:** `` `` ``  
+
+---
+
 ### [Ideation Pipeline](https://github.com/danielrosehill/Ideation-Pipeline)
 
 Pipeline of project and app ideas in various stages of development
 
-**Updated:** December 15, 2025 | **Created:** December 15, 2025  
+**Updated:** January 28, 2026 | **Created:** December 15, 2025  
+⭐ 3 stars | 🔀 0 forks  
 **Topics:** `` `` ``  
+
+---
+
+### [Claude Spec Starter](https://github.com/danielrosehill/Claude-Spec-Starter)
+
+Pattern for AI assisted development starting from one (long) user prompt
+
+**Updated:** January 28, 2026 | **Created:** November 06, 2025  
+⭐ 4 stars | 🔀 0 forks  
+**Topics:** `` `` ``  
+
+---
+
+### [Claude Code Repo Managers Claudemd](https://github.com/danielrosehill/Claude-Code-Repo-Managers-ClaudeMD)
+
+CLAUDE.md files for repo base levels for bulk mgmt
+
+**Updated:** January 28, 2026 | **Created:** October 25, 2025  
+⭐ 2 stars | 🔀 0 forks  
+**Topics:** `` ``  
+
+---
+
+### [Claude Code Remote Machine Admin Space](https://github.com/danielrosehill/Claude-Code-Remote-Machine-Admin-Space)
+
+*No description provided*
+
+**Updated:** January 28, 2026 | **Created:** October 29, 2025  
+⭐ 1 stars | 🔀 0 forks  
+**Topics:** `` `` `` `` ``  
+
+---
+
+### [Master Backup Strategy](https://github.com/danielrosehill/Master_Backup_Strategy)
+
+A markdown file summarizing my current approaches for creating 3-2-1 compliant backups of my local and cloud infrastructure including Linux desktop, VMs, SaaS utilities, and self-hosted cloud apps.
+
+**Updated:** January 28, 2026 | **Created:** May 01, 2020  
+⭐ 16 stars | 🔀 0 forks  
+
+---
+
+### [Home Inventory Ai Assistants](https://github.com/danielrosehill/Home-Inventory-AI-Assistants)
+
+System prompts for home inventory and Homebox assistants to speed up repetitive tasks
+
+**Updated:** January 27, 2026 | **Created:** May 17, 2025  
+⭐ 3 stars | 🔀 0 forks  
+
+---
+
+### [Israel Red Alert Syntax Notes](https://github.com/danielrosehill/Israel-Red-Alert-Syntax-Notes)
+
+Syntax notes for those automating on the back of the IDF Home Front Command alert feed
+
+**Updated:** January 27, 2026 | **Created:** September 16, 2025  
+⭐ 0 stars | 🔀 1 forks  
+**Topics:** `` `` `` `` `` ``  
+
+---
+
+### [Proofmode Unpacker](https://github.com/danielrosehill/Proofmode-Unpacker)
+
+Claude space template for processing Proofmode evidence bundles
+
+**Updated:** January 26, 2026 | **Created:** January 26, 2026  
+**Topics:** `` `` `` ``  
+
+---
+
+### [Dvr Transcriber](https://github.com/danielrosehill/DVR-Transcriber)
+
+Workflow workspace for importing recordings from a DVR and using AI for transcription
+
+**Updated:** January 26, 2026 | **Created:** January 26, 2026  
+
+---
+
+### [Failover Internet Israel Notes](https://github.com/danielrosehill/Failover-Internet-Israel-Notes)
+
+Notes (Jan 2026) on setting up failover internet in Israel
+
+**Updated:** January 25, 2026 | **Created:** January 25, 2026  
+**Topics:** ``  
+
+---
+
+### [Gemini Transcription Mcp](https://github.com/danielrosehill/Gemini-Transcription-MCP)
+
+MCP for Gemini multimodal audio transcription with built in post-processing
+
+**Updated:** January 25, 2026 | **Created:** November 27, 2025  
+**Topics:** `` `` `` `` `` ``  
+
+---
+
+### [Claude Os Sync Agent](https://github.com/danielrosehill/Claude-OS-Sync-Agent)
+
+Idea - using Claude Code in place of Ansible for cross-device updating/sync
+
+**Updated:** January 25, 2026 | **Created:** October 22, 2025  
+⭐ 2 stars | 🔀 1 forks  
+**Topics:** `` `` ``  
+
+---
+
+### [Claude Local Ai Agent Research](https://github.com/danielrosehill/Claude-Local-AI-Agent-Research)
+
+Research and notes for local sysadmin agent
+
+**Updated:** January 22, 2026 | **Created:** November 27, 2025  
+⭐ 3 stars | 🔀 1 forks  
+
+---
+
+### [Claude Workspace Setup Helper](https://github.com/danielrosehill/Claude-Workspace-Setup-Helper)
+
+Population utility for creating Claude workspaces
+
+**Updated:** January 22, 2026 | **Created:** December 07, 2025  
+⭐ 3 stars | 🔀 0 forks  
+
+---
+
+### [Voice Training Script Generator](https://github.com/danielrosehill/Voice-Training-Script-Generator)
+
+Helper utils for generating training data for voice cloning with LLMs
+
+**Updated:** January 21, 2026 | **Created:** November 28, 2025  
+⭐ 1 stars | 🔀 0 forks  
+**Topics:** `` ``  
+
+---
+
+### [Claude Visual Communications Space](https://github.com/danielrosehill/Claude-Visual-Communications-Space)
+
+Claude template (workspace) for using generative AI to enhance written communications
+
+**Updated:** January 21, 2026 | **Created:** January 21, 2026  
+
+---
+
+### [Medium Post Downloader](https://github.com/danielrosehill/Medium-Post-Downloader)
+
+Download utility for programatically converting a Medium export archive into a full replica of your content with images
+
+**Updated:** January 21, 2026 | **Created:** July 23, 2025  
+⭐ 1 stars | 🔀 0 forks  
+
+---
+
+### [Panel Of Claude](https://github.com/danielrosehill/Panel-Of-Claude)
+
+Exploratory Claude model: multiple agents mimicking a panel debate
+
+**Updated:** January 19, 2026 | **Created:** November 17, 2025  
+⭐ 5 stars | 🔀 2 forks  
+
+---
+
+### [Claude Code Context Toolkit](https://github.com/danielrosehill/Claude-Code-Context-Toolkit)
+
+Plugin for a structured human and AI context workflow in Claude Code
+
+**Updated:** January 18, 2026 | **Created:** October 27, 2025  
+⭐ 2 stars | 🔀 1 forks  
+**Topics:** `` `` ``  
+
+---
+
+### [Local Secrets Mcp](https://github.com/danielrosehill/Local-Secrets-MCP)
+
+Notes / an idea for a local MCP handler for secrets that works in conjunction with a cloud API
+
+**Updated:** January 18, 2026 | **Created:** December 13, 2025  
+⭐ 1 stars | 🔀 0 forks  
+
+---
+
+### [Claude Server Mgmt Template Sbcs](https://github.com/danielrosehill/Claude-Server-Mgmt-Template-SBCs)
+
+Version of Claude Code server manager template for single board computers (SBCs)
+
+**Updated:** January 15, 2026 | **Created:** November 01, 2025  
+⭐ 1 stars | 🔀 1 forks  
+**Topics:** `` ``  
+
+---
+
+### [Bash Alias Manager Claude](https://github.com/danielrosehill/Bash-Alias-Manager-Claude)
+
+Claude agent directory for managing bash aliases
+
+**Updated:** January 15, 2026 | **Created:** October 25, 2025  
+⭐ 1 stars | 🔀 1 forks  
+**Topics:** `` ``  
+
+---
+
+### [Claude Code Bash Aliases](https://github.com/danielrosehill/Claude-Code-Bash-Aliases)
+
+A few bash aliases to support efficient Claude Code use
+
+**Updated:** January 15, 2026 | **Created:** November 09, 2025  
+⭐ 1 stars | 🔀 1 forks  
+**Topics:** `` ``  
+
+---
+
+### [Claude Adb Workspace Template](https://github.com/danielrosehill/Claude-ADB-Workspace-Template)
+
+*No description provided*
+
+**Updated:** January 15, 2026 | **Created:** November 12, 2025  
+⭐ 2 stars | 🔀 1 forks  
+**Topics:** `` `` ``  
+
+---
+
+### [Network In A Box Planning](https://github.com/danielrosehill/Network-In-A-Box-Planning)
+
+Claude generated tips for home network migration
+
+**Updated:** January 14, 2026 | **Created:** January 14, 2026  
+
+---
+
+### [Linux Mcp Clients](https://github.com/danielrosehill/Linux-MCP-Clients)
+
+A very small list of MCP clients that are available to Linux users, GUIs + CLIs
+
+**Updated:** January 14, 2026 | **Created:** April 10, 2025  
+⭐ 1 stars | 🔀 0 forks  
+
+---
+
+### [Ubuntu Mic Selector](https://github.com/danielrosehill/Ubuntu-Mic-Selector)
+
+Utility for switching microphone sources
+
+**Updated:** January 11, 2026 | **Created:** January 11, 2026  
+
+---
+
+### [Homebox Desktop Wrapper Appimage](https://github.com/danielrosehill/Homebox-Desktop-Wrapper-AppImage)
+
+Linux Electron desktop wrapper for Homebox
+
+**Updated:** January 10, 2026 | **Created:** February 24, 2025  
+⭐ 2 stars | 🔀 0 forks  
+
+---
+
+### [Context.Md](https://github.com/danielrosehill/CONTEXT.md)
+
+Notes, loader for project context as a single markdown file (method)
+
+**Updated:** January 10, 2026 | **Created:** October 27, 2025  
+⭐ 1 stars | 🔀 1 forks  
+**Topics:** `` `` ``  
+
+---
+
+### [Claude Rig Planner](https://github.com/danielrosehill/Claude-Rig-Planner)
+
+Template Claude space for computer upgrade planning
+
+**Updated:** January 10, 2026 | **Created:** December 14, 2025  
+⭐ 2 stars | 🔀 1 forks  
+**Topics:** `` ``  
+
+---
+
+### [Agent Deploy](https://github.com/danielrosehill/Agent-Deploy)
+
+Prompt and model for creating agent-specific variants of Bash scripts
+
+**Updated:** January 09, 2026 | **Created:** January 09, 2026  
+
+---
+
+### [Video Edit Instructions](https://github.com/danielrosehill/Video-Edit-Instructions)
+
+Holding repo. Idea: screencast -> editing instructions -> AI agent.
+
+**Updated:** January 09, 2026 | **Created:** January 09, 2026  
+
+---
+
+### [Israel Morning News Briefs N8N Perplexity Sonar](https://github.com/danielrosehill/Israel-Morning-News-Briefs-N8N-Perplexity-Sonar)
+
+Using Perplexity API structured prompting and N8N to deliver a tailored news brief
+
+**Updated:** January 09, 2026 | **Created:** April 08, 2025  
+⭐ 2 stars | 🔀 0 forks  
+**Topics:** `` `` `` ``  
+
+---
+
+### [Claude Docker Manager](https://github.com/danielrosehill/Claude-Docker-Manager)
+
+Template management workspace for using Claude to co-admin a Docker env
+
+**Updated:** January 08, 2026 | **Created:** December 07, 2025  
+⭐ 1 stars | 🔀 1 forks  
+**Topics:** `` `` ``  
+
+---
+
+### [Video Editing Plugin](https://github.com/danielrosehill/video-editing-plugin)
+
+Claude Code plugin for video editing, transcoding, video processing, and multimedia workflow automation.
+
+**Updated:** January 07, 2026 | **Created:** November 15, 2025  
+⭐ 1 stars | 🔀 0 forks  
+**Topics:** ``  
+
+---
+
+### [Claude Task Manager](https://github.com/danielrosehill/Claude-Task-Manager)
+
+WIP/Planning - tracking system for Claude Code
+
+**Updated:** January 07, 2026 | **Created:** December 28, 2025  
+⭐ 1 stars | 🔀 0 forks  
+**Topics:** `` `` ``  
+
+---
+
+### [Declaude](https://github.com/danielrosehill/Declaude)
+
+Slash command for applying text rewriting instructions to correct for user-defined grievances with AI-generated technical documentation
+
+**Updated:** January 07, 2026 | **Created:** December 15, 2025  
+⭐ 4 stars | 🔀 0 forks  
+**Topics:** `` `` `` `` ``  
+
+---
+
+### [Ha Air Quality Dashboard](https://github.com/danielrosehill/HA-Air-Quality-Dashboard)
+
+Air quality monitoring dashboard for Home Assistant
+
+**Updated:** January 06, 2026 | **Created:** April 24, 2025  
+⭐ 1 stars | 🔀 0 forks  
+
+---
+
+### [My Ai Stack](https://github.com/danielrosehill/My-AI-Stack)
+
+Periodically updated documentation about current AI stack/favorite components
+
+**Updated:** January 06, 2026 | **Created:** March 14, 2025  
+⭐ 5 stars | 🔀 3 forks  
+
+---
+
+### [Home Assistant Power Outage Automation](https://github.com/danielrosehill/Home-Assistant-Power-Outage-Automation)
+
+HA automation for power outage detection
+
+**Updated:** January 02, 2026 | **Created:** January 02, 2026  
+
+---
+
+### [Neo Nas Ab02B2 Mqtt Control](https://github.com/danielrosehill/NEO_NAS_AB02B2_MQTT_Control)
+
+MQTT controls scripts for the NEO NAS-AB02B2 Zigbee siren
+
+**Updated:** January 02, 2026 | **Created:** August 01, 2025  
+⭐ 1 stars | 🔀 0 forks  
+**Topics:** `` `` `` ``  
+
+---
+
+### [Vendor Agent Clis](https://github.com/danielrosehill/Vendor-Agent-CLIs)
+
+List (may update periodically) of vendor CLIs with agentic/tool-calling capabilities
+
+**Updated:** January 02, 2026 | **Created:** December 14, 2025  
+**Topics:** `` ``  
+
+---
+
+### [My Mcp Installer](https://github.com/danielrosehill/My-MCP-Installer)
+
+Installer helper (MCP) for my MCPs
+
+**Updated:** January 02, 2026 | **Created:** January 02, 2026  
+
+---
+
+### [Claude Code](https://github.com/danielrosehill/claude-code)
+
+Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+
+**Updated:** January 02, 2026 | **Created:** January 02, 2026  
+
+---
+
+### [Model Scout Mcp](https://github.com/danielrosehill/Model-Scout-MCP)
+
+MCP for checking AI API model pricing across providers
+
+**Updated:** January 02, 2026 | **Created:** December 16, 2025  
+
+---
+
+### [Save To Nas Mcp](https://github.com/danielrosehill/Save-To-NAS-MCP)
+
+*No description provided*
+
+**Updated:** January 02, 2026 | **Created:** December 03, 2025  
+**Topics:** `` `` `` ``  
+
+---
+
+### [Wasabi S3 Mcp](https://github.com/danielrosehill/Wasabi-S3-MCP)
+
+MCP for performing S3 operations in Wasabi S3-compliant buckets
+
+**Updated:** January 02, 2026 | **Created:** December 14, 2025  
+**Topics:** `` `` ``  
+
+---
+
+### [Headless Home Assistant](https://github.com/danielrosehill/Headless-Home-Assistant)
+
+A couple of resources and .. nomenclature
+
+**Updated:** January 01, 2026 | **Created:** January 01, 2026  
+
+---
+
+### [Llm Wars](https://github.com/danielrosehill/LLM-Wars)
+
+(Experiment) LLMs argue "who's better" in a podcast
+
+**Updated:** January 01, 2026 | **Created:** January 01, 2026  
+
+---
+
+### [Claude Repo Jumper](https://github.com/danielrosehill/Claude-Repo-Jumper)
+
+Notes - System prompt / skill for clean repo division with agentic development
+
+**Updated:** January 01, 2026 | **Created:** January 01, 2026  
+
+---
+
+### [Ai Repo Manager](https://github.com/danielrosehill/AI-Repo-Manager)
+
+AI app to enable smarter management of Github repositories
+
+**Updated:** December 31, 2025 | **Created:** December 30, 2025  
+
+---
+
+### [Desktop Mcp](https://github.com/danielrosehill/Desktop-MCP)
+
+Local MCP server exposing specialised tools to agents
+
+**Updated:** December 31, 2025 | **Created:** December 31, 2025  
+
+---
+
+### [No Bs Ai System Prompt](https://github.com/danielrosehill/No-BS-AI-System-Prompt)
+
+System prompt for a blunt AI assistant / LLM that gets to the point
+
+**Updated:** December 31, 2025 | **Created:** August 25, 2025  
+⭐ 2 stars | 🔀 0 forks  
+**Topics:** `` ``  
+
+---
+
+### [Retro Website Designer](https://github.com/danielrosehill/Retro-Website-Designer)
+
+Agent to give websites a Geocities styled makeover
+
+**Updated:** December 31, 2025 | **Created:** December 31, 2025  
+
+---
+
+### [Claude Bug Catcher](https://github.com/danielrosehill/Claude-Bug-Catcher)
+
+Desktop utility for catching bugs in the moment
+
+**Updated:** December 31, 2025 | **Created:** December 28, 2025  
+
+---
+
+### [Is Vibe Coded](https://github.com/danielrosehill/Is-Vibe-Coded)
+
+Simple graphics intended to serve as a "this was vibe coded FYI" and attribute model
+
+**Updated:** December 31, 2025 | **Created:** December 15, 2025  
+⭐ 1 stars | 🔀 1 forks  
+**Topics:** `` `` ``  
+
+---
+
+### [Install This Debian](https://github.com/danielrosehill/Install-This-Debian)
+
+A simple litmus test for assessing whether agentic CLIs are useful for basic desktop admin tasks!
+
+**Updated:** December 30, 2025 | **Created:** December 30, 2025  
+
+---
+
+### [Btrfs Snapper Mcp](https://github.com/danielrosehill/BTRFS-Snapper-MCP)
+
+*No description provided*
+
+**Updated:** December 30, 2025 | **Created:** December 30, 2025  
+
+---
+
+### [Stack Research Prompt Mini Eval](https://github.com/danielrosehill/Stack-Research-Prompt-Mini-Eval)
+
+Testing how various AI tools handle "stack request" prompts - a staple of my AI use!
+
+**Updated:** December 29, 2025 | **Created:** December 29, 2025  
+
+---
+
+### [You Are Stuck](https://github.com/danielrosehill/You-Are-Stuck)
+
+Plan/idea for agentic coding
+
+**Updated:** December 29, 2025 | **Created:** December 29, 2025  
+
+---
+
+### [Project Planning Template](https://github.com/danielrosehill/Project-Planning-Template)
+
+Repository template for an "idea parking" system that uses AI to spec out an intiial idea and spec for later iteration/development
+
+**Updated:** December 28, 2025 | **Created:** December 28, 2025  
+
+---
+
+### [End Of Day Worklog](https://github.com/danielrosehill/End-Of-Day-Worklog)
+
+Agent model for taking daily snapshots of work progress
+
+**Updated:** December 28, 2025 | **Created:** November 08, 2025  
+
+---
+
+### [Cable Reference Wall Charts](https://github.com/danielrosehill/Cable-Reference-Wall-Charts)
+
+Some Nano Banana Pro cable reference graphics for printing
+
+**Updated:** December 28, 2025 | **Created:** December 28, 2025  
+**Topics:** `` `` `` ``  
+
+---
+
+### [Metamcp](https://github.com/danielrosehill/metamcp)
+
+MCP Aggregator, Orchestrator, Middleware, Gateway in one docker
+
+**Updated:** December 28, 2025 | **Created:** December 14, 2025  
+
+---
+
+### [No Wheel Inventions](https://github.com/danielrosehill/No-Wheel-Inventions)
+
+Slash command for Claude (and agents) to encourage them to avoid reinventing the wheel
+
+**Updated:** December 27, 2025 | **Created:** December 27, 2025  
+**Topics:** `` `` ``  
+
+---
+
+### [Quick Rmbg](https://github.com/danielrosehill/Quick-RMBG)
+
+Dolphin action for KDE Plasma to quickly invoke RMBG for background removal with support for two-pass and infinite-pass operation modes
+
+**Updated:** December 27, 2025 | **Created:** December 27, 2025  
+**Topics:** `` `` `` ``  
+
+---
+
+### [Better Web Design Inc](https://github.com/danielrosehill/Better-Web-Design-Inc)
+
+Agentic web design crew specialising in offbeat designs and client dissatisfaction!
+
+**Updated:** December 26, 2025 | **Created:** December 26, 2025  
+**Topics:** `` ``  
+
+---
+
+### [Ai Sysadmin](https://github.com/danielrosehill/AI-Sysadmin)
+
+Desktop maintenance utility (WIP/planning notes)
+
+**Updated:** December 26, 2025 | **Created:** December 26, 2025  
+
+---
+
+### [Voice Note Recorder Ubuntu](https://github.com/danielrosehill/Voice-Note-Recorder-Ubuntu)
+
+GUI for recording voice notes
+
+**Updated:** December 25, 2025 | **Created:** November 30, 2025  
+
+---
+
+### [Librechat](https://github.com/danielrosehill/LibreChat)
+
+Enhanced ChatGPT Clone: Features Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. Actively in public development.
+
+**Updated:** December 25, 2025 | **Created:** November 13, 2024  
+
+---
+
+### [Experiments And Evaluations Index](https://github.com/danielrosehill/Experiments-And-Evaluations-Index)
+
+Index of repositories concerning AI evaluations and experiments
+
+**Updated:** December 25, 2025 | **Created:** October 27, 2025  
+⭐ 1 stars | 🔀 0 forks  
+**Topics:** `` `` ``  
+
+---
+
+### [Docs And Notes Index](https://github.com/danielrosehill/Docs-And-Notes-Index)
+
+An index to my various documentation projects, both on Github and elsewhere
+
+**Updated:** December 25, 2025 | **Created:** November 29, 2024  
+⭐ 2 stars | 🔀 0 forks  
+**Topics:** `` ``  
+
+---
+
+### [Home Assistant Index](https://github.com/danielrosehill/Home-Assistant-Index)
+
+Indexing repo for HA projects
+
+**Updated:** December 25, 2025 | **Created:** August 10, 2025  
+**Topics:** `` ``  
+
+---
+
+### [N8N Workflows Index](https://github.com/danielrosehill/N8N-Workflows-Index)
+
+Index of N8N workflows that I have shared on Github
+
+**Updated:** December 25, 2025 | **Created:** July 24, 2025  
+**Topics:** `` ``  
+
+---
+
+### [Jewish Related Index](https://github.com/danielrosehill/Jewish-Related-Index)
+
+Index of repositories involving tech + Judaism
+
+**Updated:** December 25, 2025 | **Created:** November 30, 2025  
+
+---
+
+### [Backup Projects Index](https://github.com/danielrosehill/Backup-Projects-Index)
+
+Indexing repo of backup related projects and scripts
+
+**Updated:** December 25, 2025 | **Created:** August 10, 2025  
+**Topics:** `` `` `` ``  
+
+---
+
+### [Awesome List Repos Index](https://github.com/danielrosehill/Awesome-List-Repos-Index)
+
+Index of listing repositories I have created
+
+**Updated:** December 25, 2025 | **Created:** October 26, 2025  
+**Topics:** `` ``  
+
+---
+
+### [Mcp Projects Index](https://github.com/danielrosehill/MCP-Projects-Index)
+
+Various MCP related projects I'm either working on (or have worked on)
+
+**Updated:** December 25, 2025 | **Created:** August 09, 2025  
+⭐ 1 stars | 🔀 0 forks  
+**Topics:** `` `` `` `` `` ``  
+
+---
+
+### [Israel Projects Index](https://github.com/danielrosehill/Israel-Projects-Index)
+
+Index of repositories related to Israel
+
+**Updated:** December 25, 2025 | **Created:** November 15, 2025  
+
+---
+
+### [Agents Index](https://github.com/danielrosehill/Agents-Index)
+
+Periodically updated index of AI agent configurations that I'm working on (or have created)
+
+**Updated:** December 25, 2025 | **Created:** July 22, 2025  
+⭐ 5 stars | 🔀 0 forks  
+**Topics:** `` `` `` `` ``  
+
+---
+
+### [Data Projects Index](https://github.com/danielrosehill/Data-Projects-Index)
+
+Data apps and datasets deployed to Streamlit Community Cloud, Hugging Face, and elsewhere. 
+
+**Updated:** December 25, 2025 | **Created:** December 08, 2024  
+**Topics:** `` `` ``  
+
+---
+
+### [Apps Index](https://github.com/danielrosehill/Apps-Index)
+
+Indexing repo for apps created
+
+**Updated:** December 25, 2025 | **Created:** August 10, 2025  
+**Topics:** `` ``  
+
+---
+
+### [Ai Projects Index](https://github.com/danielrosehill/AI-Projects-Index)
+
+Index of AI project related indices (master index)
+
+**Updated:** December 25, 2025 | **Created:** August 09, 2025  
+**Topics:** `` `` ``  
+
+---
+
+### [Deepgram Text Input](https://github.com/danielrosehill/Deepgram-Text-Input)
+
+Analysis of Deepgram text input
+
+**Updated:** December 25, 2025 | **Created:** November 25, 2025  
+⭐ 1 stars | 🔀 0 forks  
+**Topics:** `` `` ``  
+
+---
+
+### [Ai Tech Doc Stack](https://github.com/danielrosehill/AI-Tech-Doc-Stack)
+
+Notes (Dec 2025) for an AI technical documentation stack
+
+**Updated:** December 25, 2025 | **Created:** December 25, 2025  
+
+---
+
+### [Mcp Network Manager](https://github.com/danielrosehill/MCP-Network-Manager)
+
+Docs/notes for deploying a LAN sysadmin solution using MCP
+
+**Updated:** December 25, 2025 | **Created:** December 24, 2025  
+**Topics:** `` ``  
+
+---
+
+### [Brother Label Printer Gui](https://github.com/danielrosehill/Brother-Label-Printer-GUI)
+
+Python GUI and CLI application for printing labels with QR codes on Brother QL-700 label printers
+
+**Updated:** December 25, 2025 | **Created:** December 20, 2025  
+⭐ 2 stars | 🔀 0 forks  
+
+---
+
+### [Impact Bond Policy Simulator](https://github.com/danielrosehill/Impact-Bond-Policy-Simulator)
+
+Multiagent simulation exploring potential reactions to a social policy iniative
+
+**Updated:** December 24, 2025 | **Created:** December 24, 2025  
+
+---
+
+### [Internal Apps Ideation](https://github.com/danielrosehill/Internal-Apps-Ideation)
+
+Ideation notes for internal apps planning
+
+**Updated:** December 24, 2025 | **Created:** December 24, 2025  
+**Topics:** ``  
+
+---
+
+### [Llmnote](https://github.com/danielrosehill/llmnote)
+
+A markdown note taking application optimise for saving and storing outputs from LLM & GPT interactions (prompts, outputs, agent configurations)
+
+**Updated:** December 22, 2025 | **Created:** September 25, 2024  
+⭐ 1 stars | 🔀 0 forks  
+
+---
+
+### [Voice Cloning Difference Test](https://github.com/danielrosehill/Voice-Cloning-Difference-Test)
+
+Quick test to see how much of a difference sample intonation makes in single shot voice cloning!
+
+**Updated:** December 21, 2025 | **Created:** December 21, 2025  
+
+---
+
+### [Claude Model Identifier](https://github.com/danielrosehill/Claude-Model-Identifier)
+
+Prompt to request Claude to proactive identify itself and model variant before every new conversation
+
+**Updated:** December 21, 2025 | **Created:** December 21, 2025  
+
+---
+
+### [Audio Multimodal Ai Resources](https://github.com/danielrosehill/Audio-Multimodal-AI-Resources)
+
+A compilation of resources (model profiles, benchmarks, docs) for multimodal AI models with audio understanding (esp. focused on ASR and transcription use-cases)
+
+**Updated:** December 20, 2025 | **Created:** December 07, 2025  
+⭐ 1 stars | 🔀 0 forks  
+**Topics:** `` `` `` `` `` ``  
+
+---
+
+### [Home Inventory Taxonomy](https://github.com/danielrosehill/Home-Inventory-Taxonomy)
+
+Taxonomy for Homebox fork
+
+**Updated:** December 20, 2025 | **Created:** December 20, 2025  
+
+---
+
+### [Gemini Audio Transcriber](https://github.com/danielrosehill/Gemini-Audio-Transcriber)
+
+File upload based multimodal transcription tool using the Gemini (via Open Router)
+
+**Updated:** December 19, 2025 | **Created:** December 19, 2025  
+
+---
+
+### [Ai Developer Notebook](https://github.com/danielrosehill/AI-Developer-Notebook)
+
+Notes for configuring a reference notebook with Claude Code
+
+**Updated:** December 19, 2025 | **Created:** October 23, 2025  
+⭐ 1 stars | 🔀 0 forks  
+**Topics:** `` `` `` ``  
+
+---
+
+### [Text Cleanup Fine Tuning Set](https://github.com/danielrosehill/Text-Cleanup-Fine-Tuning-Set)
+
+Fine-tuning dataset/plans for text cleanup audio multimodal
+
+**Updated:** December 18, 2025 | **Created:** December 18, 2025  
+
+---
+
+### [Voice Control Linux](https://github.com/danielrosehill/Voice-Control-Linux)
+
+Claude-enhanced research for voice control platforms with Linux support
+
+**Updated:** December 18, 2025 | **Created:** December 18, 2025  
+
+---
+
+### [Github Subindex Template](https://github.com/danielrosehill/Github-Subindex-Template)
+
+*No description provided*
+
+**Updated:** December 16, 2025 | **Created:** August 31, 2025  
+⭐ 2 stars | 🔀 0 forks  
+
+---
+
+### [Ai Dev Repo Template Oct 2025](https://github.com/danielrosehill/AI-Dev-Repo-Template-Oct-2025)
+
+Updated AI assisted dev repo template (swap preferred CLI!)
+
+**Updated:** December 16, 2025 | **Created:** October 29, 2025  
+⭐ 1 stars | 🔀 0 forks  
+**Topics:** `` `` `` ``  
+
+---
+
+### [Environment Docs Template](https://github.com/danielrosehill/Environment-Docs-Template)
+
+Pattern for a structured docs repository within an environment for AI and humans
+
+**Updated:** December 16, 2025 | **Created:** August 12, 2025  
+⭐ 1 stars | 🔀 0 forks  
+**Topics:** `` `` ``  
+
+---
+
+### [Claude Code Plugin](https://github.com/danielrosehill/claude-code-plugin)
+
+Claude Code plugin for managing Claude Code configuration, slash commands, agents, and plugin development workflow.
+
+**Updated:** December 16, 2025 | **Created:** November 15, 2025  
+⭐ 1 stars | 🔀 0 forks  
+
+---
+
+### [Ideation Plugin](https://github.com/danielrosehill/ideation-plugin)
+
+Claude Code plugin for brainstorming, idea generation, project planning, and creative problem-solving workflows.
+
+**Updated:** December 16, 2025 | **Created:** November 15, 2025  
+⭐ 2 stars | 🔀 0 forks  
+
+---
+
+### [Learning Plugin](https://github.com/danielrosehill/learning-plugin)
+
+Claude Code plugin for learning resources, skill development, educational content creation, and knowledge management.
+
+**Updated:** December 16, 2025 | **Created:** November 15, 2025  
+⭐ 2 stars | 🔀 0 forks  
+
+---
+
+### [Filesystem Org Plugin](https://github.com/danielrosehill/filesystem-org-plugin)
+
+Claude Code plugin for file system organization, folder structure optimization, and file management automation workflows.
+
+**Updated:** December 16, 2025 | **Created:** November 15, 2025  
+⭐ 1 stars | 🔀 0 forks  
+
+---
+
+### [Security Checkup Plugin](https://github.com/danielrosehill/security-checkup-plugin)
+
+Claude Code plugin for security audits, vulnerability scanning, firewall configuration, and system security hardening workflows.
+
+**Updated:** December 16, 2025 | **Created:** November 15, 2025  
+
+---
+
+### [Linux Desktop Plugin](https://github.com/danielrosehill/linux-desktop-plugin)
+
+Claude Code plugin for Linux desktop environment management, KDE/Plasma configuration, and desktop system administration.
+
+**Updated:** December 16, 2025 | **Created:** November 15, 2025  
+
+---
+
+### [Lan Manager Plugin](https://github.com/danielrosehill/lan-manager-plugin)
+
+A specialized workspace for network system administration on local area networks, providing tools for LAN scanning, device discovery, device management, and network operations.
+
+**Updated:** December 16, 2025 | **Created:** November 15, 2025  
+
+---
+
+### [Home Assistant Manager Plugin](https://github.com/danielrosehill/home-assistant-manager-plugin)
+
+A comprehensive Home Assistant OS management template with 20+ slash commands for health monitoring, backup management, integration support, and automation assistance.
+
+**Updated:** December 16, 2025 | **Created:** November 15, 2025  
+⭐ 1 stars | 🔀 0 forks  
+
+---
+
+### [Tech Research Plugin](https://github.com/danielrosehill/tech-research-plugin)
+
+Claude Code plugin for technology research, competitive analysis, technical documentation retrieval, and research workflows.
+
+**Updated:** December 16, 2025 | **Created:** November 15, 2025  
+⭐ 1 stars | 🔀 0 forks  
+
+---
+
+### [Claude Document This](https://github.com/danielrosehill/Claude-Document-This)
+
+Slash command for asking Claude Code to document fixes to various target filesystems
+
+**Updated:** December 16, 2025 | **Created:** November 16, 2025  
+**Topics:** `` `` `` ``  
+
+---
+
+### [Diary Planner Plugin](https://github.com/danielrosehill/diary-planner-plugin)
+
+A workflow planning and time management template with agent definitions and slash commands for managing daily, weekly, and monthly schedules.
+
+**Updated:** December 16, 2025 | **Created:** November 15, 2025  
+⭐ 1 stars | 🔀 0 forks  
+
+---
+
+### [Audio Editing Plugin](https://github.com/danielrosehill/audio-editing-plugin)
+
+Claude Code plugin for audio editing, conversion, processing, and microphone management slash commands and agents.
+
+**Updated:** December 16, 2025 | **Created:** November 15, 2025  
+
+---
+
+### [Home Budget Helper Plugin](https://github.com/danielrosehill/home-budget-helper-plugin)
+
+A workspace template for household budget management using Claude Code CLI with predefined agents, slash commands, and directory structures.
+
+**Updated:** December 16, 2025 | **Created:** November 15, 2025  
+⭐ 1 stars | 🔀 0 forks  
+
+---
+
+### [Git Github Plugin](https://github.com/danielrosehill/git-github-plugin)
+
+Claude Code plugin for Git version control, GitHub repository management, and collaborative development workflows.
+
+**Updated:** December 16, 2025 | **Created:** November 15, 2025  
+
+---
+
+### [Context Toolkit Plugin](https://github.com/danielrosehill/context-toolkit-plugin)
+
+A comprehensive toolkit implementing the CONTEXT.md workflow system for managing human-authored context and agent-ready briefings.
+
+**Updated:** December 16, 2025 | **Created:** November 15, 2025  
+⭐ 1 stars | 🔀 0 forks  
+
+---
+
+### [Ai Tools Plugin](https://github.com/danielrosehill/ai-tools-plugin)
+
+Claude Code plugin for AI tool management, MCP server configuration, and AI workflow automation slash commands and agents.
+
+**Updated:** December 16, 2025 | **Created:** November 15, 2025  
+
+---
+
+### [Kde Ac Controller Widget](https://github.com/danielrosehill/KDE-AC-Controller-Widget)
+
+Controller for AC
+
+**Updated:** December 16, 2025 | **Created:** August 09, 2025  
+
+---
+
+### [Repo Fresh Starter](https://github.com/danielrosehill/Repo-Fresh-Starter)
+
+Quick util for creating a new repository for iterating on ideas
+
+**Updated:** December 16, 2025 | **Created:** December 16, 2025  
+
+---
+
+### [Audio Multimodal Formatting Prompts](https://github.com/danielrosehill/Audio-Multimodal-Formatting-Prompts)
+
+AI-ideated prompts for single pass audio multimodal transcript formatting
+
+**Updated:** December 16, 2025 | **Created:** December 16, 2025  
+
+---
+
+### [Dictation Macropad](https://github.com/danielrosehill/Dictation-Macropad)
+
+Plan/key allocation for a macropad optimised for heavy daily dictation worklflows
+
+**Updated:** December 16, 2025 | **Created:** December 16, 2025  
+**Topics:** `` `` `` ``  
 
 ---
 
@@ -42,51 +3177,6 @@ Model data pipeline from a Github repository to Open Web UI knowledge using acti
 
 ---
 
-### [Claude Code Mcp Command Generator](https://github.com/danielrosehill/Claude-Code-MCP-Command-Generator)
-
-Provides CC MCP installation commands
-
-**Updated:** December 15, 2025 | **Created:** October 16, 2025  
-⭐ 2 stars | 🔀 0 forks  
-
----
-
-### [Voice Notepad](https://github.com/danielrosehill/Voice-Notepad)
-
-Voice note taking utility that uses cloud audio multimodal models for single pass transcription and text cleanup
-
-**Updated:** December 15, 2025 | **Created:** December 12, 2025  
-**Topics:** `` `` `` ``  
-
----
-
-### [Vibe Coded Icons](https://github.com/danielrosehill/Vibe-Coded-Icons)
-
-Simple graphics intended to serve as a "this was vibe coded FYI" and attribute model
-
-**Updated:** December 15, 2025 | **Created:** December 15, 2025  
-**Topics:** `` `` ``  
-
----
-
-### [Mcp Projects Index](https://github.com/danielrosehill/MCP-Projects-Index)
-
-Various MCP related projects I'm either working on (or have worked on)
-
-**Updated:** December 15, 2025 | **Created:** August 09, 2025  
-⭐ 1 stars | 🔀 0 forks  
-**Topics:** `` `` `` `` `` ``  
-
----
-
-### [My Network Mcp](https://github.com/danielrosehill/My-Network-MCP)
-
-MCP for providing a manually managed LAN directory to AI tools
-
-**Updated:** December 15, 2025 | **Created:** December 15, 2025  
-
----
-
 ### [Voice Tech Subreddits](https://github.com/danielrosehill/Voice-Tech-Subreddits)
 
 Small collection of subreddits where ASR, STT, voice tech is discussed
@@ -104,108 +3194,11 @@ Basic audio pipeline for preparing long audio content for ASR transcription
 
 ---
 
-### [Awesome Obsidian Ai Tools](https://github.com/danielrosehill/Awesome-Obsidian-AI-Tools)
-
-Obsidian plugins focused on leveraging AI & LLMs inside of (and beyond) vaults
-
-**Updated:** December 15, 2025 | **Created:** September 30, 2024  
-⭐ 49 stars | 🔀 4 forks  
-
----
-
 ### [Back Up Your Saas](https://github.com/danielrosehill/Back-Up-Your-SaaS)
 
 Notes for fellow cautious trusters of "the cloud"
 
 **Updated:** December 15, 2025 | **Created:** October 17, 2025  
-
----
-
-### [Vendor Agent Clis](https://github.com/danielrosehill/Vendor-Agent-CLIs)
-
-List (may update periodically) of vendor CLIs with agentic/tool-calling capabilities
-
-**Updated:** December 15, 2025 | **Created:** December 14, 2025  
-**Topics:** `` ``  
-
----
-
-### [Homebox Mcp Server](https://github.com/danielrosehill/Homebox-MCP-Server)
-
-MCP for Homebox with support for LAN and WAN URLs
-
-**Updated:** December 15, 2025 | **Created:** November 08, 2025  
-⭐ 2 stars | 🔀 1 forks  
-**Topics:** `` `` `` ``  
-
----
-
-### [Ai Model Manager](https://github.com/danielrosehill/AI-Model-Manager)
-
-Planning/WIP repo fro AI model manager
-
-**Updated:** December 15, 2025 | **Created:** December 14, 2025  
-
----
-
-### [Wasabi S3 Mcp](https://github.com/danielrosehill/Wasabi-S3-MCP)
-
-MCP for performing S3 operations in Wasabi S3-compliant buckets
-
-**Updated:** December 15, 2025 | **Created:** December 14, 2025  
-**Topics:** `` `` ``  
-
----
-
-### [Cloud Asr Mcp](https://github.com/danielrosehill/Cloud-ASR-MCP)
-
-WIP MCP for using various cloud ASR models for speech to text / transcription
-
-**Updated:** December 14, 2025 | **Created:** December 02, 2025  
-
----
-
-### [Metamcp](https://github.com/danielrosehill/metamcp)
-
-MCP Aggregator, Orchestrator, Middleware, Gateway in one docker
-
-**Updated:** December 14, 2025 | **Created:** December 14, 2025  
-
----
-
-### [Wheres My Stuff](https://github.com/danielrosehill/Wheres-My-Stuff)
-
-Homebox fork to add a few AI twists (home inventory management)
-
-**Updated:** December 14, 2025 | **Created:** December 14, 2025  
-**Topics:** `` ``  
-
----
-
-### [Claude Rig Planner](https://github.com/danielrosehill/Claude-Rig-Planner)
-
-Template Claude space for computer upgrade planning
-
-**Updated:** December 14, 2025 | **Created:** December 14, 2025  
-**Topics:** `` ``  
-
----
-
-### [Claude Code Repos Index](https://github.com/danielrosehill/Claude-Code-Repos-Index)
-
-Index of repositories related to Claude Code CLI
-
-**Updated:** December 14, 2025 | **Created:** October 11, 2025  
-⭐ 1 stars | 🔀 2 forks  
-**Topics:** `` `` ``  
-
----
-
-### [Local Secrets Mcp](https://github.com/danielrosehill/Local-Secrets-MCP)
-
-Notes / an idea for a local MCP handler for secrets that works in conjunction with a cloud API
-
-**Updated:** December 13, 2025 | **Created:** December 13, 2025  
 
 ---
 
@@ -217,35 +3210,6 @@ Notes/ideas for the evolving face of programming jobs!
 
 ---
 
-### [Make Agent Friendly](https://github.com/danielrosehill/Make-Agent-Friendly)
-
-Claude plugin for refactoring human-developed code-bases for agentic readiness
-
-**Updated:** December 13, 2025 | **Created:** December 13, 2025  
-**Topics:** `` `` `` ``  
-
----
-
-### [Claude Code Plugins](https://github.com/danielrosehill/Claude-Code-Plugins)
-
-Daniel Rosehill's Claude Code plugin marketplace
-
-**Updated:** December 13, 2025 | **Created:** November 09, 2025  
-⭐ 1 stars | 🔀 0 forks  
-**Topics:** ``  
-
----
-
-### [System Prompt Library](https://github.com/danielrosehill/System-Prompt-Library)
-
-System prompts for AI agents and assistants (automatically populated); periodic point in time exports are releases
-
-**Updated:** December 13, 2025 | **Created:** May 27, 2025  
-⭐ 39 stars | 🔀 8 forks  
-**Topics:** `` `` `` ``  
-
----
-
 ### [Llm Workflow Documentation](https://github.com/danielrosehill/LLM-Workflow-Documentation)
 
 Documentation for managing prompts and outputs and working professionally with large language models (LLMs)
@@ -253,25 +3217,6 @@ Documentation for managing prompts and outputs and working professionally with l
 **Updated:** December 13, 2025 | **Created:** November 20, 2024  
 ⭐ 3 stars | 🔀 0 forks  
 **Topics:** `` `` `` `` ``  
-
----
-
-### [Openwebui Prompt Library](https://github.com/danielrosehill/OpenWebUI-Prompt-Library)
-
-A selection of prompts designed for use with Open Web UI (rather than conventional prompts, they're more useful for steering existing conversations)
-
-**Updated:** December 12, 2025 | **Created:** February 19, 2025  
-⭐ 25 stars | 🔀 2 forks  
-
----
-
-### [Notebooklm Custom Prompts](https://github.com/danielrosehill/NotebookLM-Custom-Prompts)
-
-AI config / system prompt for reading long reports
-
-**Updated:** December 12, 2025 | **Created:** November 20, 2025  
-⭐ 9 stars | 🔀 1 forks  
-**Topics:** ``  
 
 ---
 
@@ -293,26 +3238,6 @@ Snap evaluation to assess the ability of various text to image models to produce
 
 ---
 
-### [Experiments And Evaluations Index](https://github.com/danielrosehill/Experiments-And-Evaluations-Index)
-
-Index of repositories concerning AI evaluations and experiments
-
-**Updated:** December 12, 2025 | **Created:** October 27, 2025  
-⭐ 1 stars | 🔀 0 forks  
-**Topics:** `` `` ``  
-
----
-
-### [Cool Claude Code Stuff](https://github.com/danielrosehill/Cool-Claude-Code-Stuff)
-
-Claude Code repos and other resources
-
-**Updated:** December 11, 2025 | **Created:** October 02, 2025  
-⭐ 4 stars | 🔀 1 forks  
-**Topics:** `` `` `` `` ``  
-
----
-
 ### [Retailer Recommendations](https://github.com/danielrosehill/Retailer-Recommendations)
 
 Small collection of various recs for places, mostly shops in Israel
@@ -330,70 +3255,11 @@ WIP - system for managing things you star on Github
 
 ---
 
-### [Claude Agent Picker Pattern](https://github.com/danielrosehill/Claude-Agent-Picker-Pattern)
-
-Pattern/idea for the "too many subagents" problem
-
-**Updated:** December 11, 2025 | **Created:** October 31, 2025  
-⭐ 1 stars | 🔀 0 forks  
-**Topics:** `` `` ``  
-
----
-
-### [Docs And Notes Index](https://github.com/danielrosehill/Docs-And-Notes-Index)
-
-An index to my various documentation projects, both on Github and elsewhere
-
-**Updated:** December 11, 2025 | **Created:** November 29, 2024  
-⭐ 2 stars | 🔀 0 forks  
-**Topics:** `` ``  
-
----
-
-### [Claude Spaces Model](https://github.com/danielrosehill/Claude-Spaces-Model)
-
-Outline for using various repositories as discrete workspaces for Claude Code
-
-**Updated:** December 11, 2025 | **Created:** October 29, 2025  
-⭐ 1 stars | 🔀 0 forks  
-**Topics:** `` `` `` `` ``  
-
----
-
-### [Home Inventory Ai Assistants](https://github.com/danielrosehill/Home-Inventory-AI-Assistants)
-
-System prompts for home inventory and Homebox assistants to speed up repetitive tasks
-
-**Updated:** December 11, 2025 | **Created:** May 17, 2025  
-⭐ 2 stars | 🔀 0 forks  
-
----
-
-### [Claude Code Linux Desktop Slash Commands](https://github.com/danielrosehill/Claude-Code-Linux-Desktop-Slash-Commands)
-
-Slash commands for Linux desktop sysadmin with Claude Code (or any other agent)
-
-**Updated:** December 11, 2025 | **Created:** October 21, 2025  
-⭐ 14 stars | 🔀 4 forks  
-**Topics:** `` `` ``  
-
----
-
 ### [Diy Baby Monitoring Notes](https://github.com/danielrosehill/DIY-Baby-Monitoring-Notes)
 
 Some notes from setting up monitoring systems at home
 
 **Updated:** December 11, 2025 | **Created:** December 11, 2025  
-
----
-
-### [Claude Business Idea Evaluator](https://github.com/danielrosehill/Claude-Business-Idea-Evaluator)
-
-Model/template: using Claude Code to evaluate business ideas
-
-**Updated:** December 11, 2025 | **Created:** November 23, 2025  
-⭐ 1 stars | 🔀 0 forks  
-**Topics:** `` `` ``  
 
 ---
 
@@ -419,16 +3285,6 @@ Index repository for speech recognition and ASR evaluations
 Evaluating various cloud audio understanding models on the transcribe and cleanup workflow/task
 
 **Updated:** December 10, 2025 | **Created:** December 10, 2025  
-
----
-
-### [Writing Editing Plugin](https://github.com/danielrosehill/writing-editing-plugin)
-
-Claude Code plugin for writing assistance, proofreading, style editing, and text transformation workflows.
-
-**Updated:** December 10, 2025 | **Created:** November 15, 2025  
-⭐ 1 stars | 🔀 0 forks  
-**Topics:** `` ``  
 
 ---
 
@@ -458,15 +3314,6 @@ Notes for an MCP gateway model for local and remote
 
 ---
 
-### [Awesome Llm Prompt Libraries](https://github.com/danielrosehill/Awesome-LLM-Prompt-Libraries)
-
-An index of prompting libraries for GPTs, including ChatGPT. Some of these are on Github and others are hosted externally.
-
-**Updated:** December 09, 2025 | **Created:** August 07, 2024  
-⭐ 32 stars | 🔀 3 forks  
-
----
-
 ### [Personal Rag Agent Workflow](https://github.com/danielrosehill/Personal-RAG-Agent-Workflow)
 
 AI workflows for building personal RAG pipelines with interviewing agents
@@ -477,37 +3324,12 @@ AI workflows for building personal RAG pipelines with interviewing agents
 
 ---
 
-### [Mcpm Claude Code Docs](https://github.com/danielrosehill/MCPM-Claude-Code-Docs)
-
-Docs (for self) on how to use Claude Code in conjunction with MCPM
-
-**Updated:** December 09, 2025 | **Created:** December 09, 2025  
-
----
-
 ### [Amd Ai Server](https://github.com/danielrosehill/AMD-AI-Server)
 
 Local AI inference server for AMD GPU users
 
 **Updated:** December 08, 2025 | **Created:** December 03, 2025  
 **Topics:** `` ``  
-
----
-
-### [Audio Multimodal Ai Resources](https://github.com/danielrosehill/Audio-Multimodal-AI-Resources)
-
-A compilation of resources (model profiles, benchmarks, docs) for multimodal AI models with audio understanding (esp. focused on ASR and transcription use-cases)
-
-**Updated:** December 08, 2025 | **Created:** December 07, 2025  
-**Topics:** `` `` `` `` `` ``  
-
----
-
-### [Cloud Stt Price Points 1225](https://github.com/danielrosehill/Cloud-STT-Price-Points-1225)
-
-Point in time pricing snapshots for ASR (07-12-2025)
-
-**Updated:** December 08, 2025 | **Created:** December 07, 2025  
 
 ---
 
@@ -554,32 +3376,6 @@ Curated list of real‑world AGENTS.md files, templates, guides & tools for Open
 
 ---
 
-### [Claude Workspace Setup Helper](https://github.com/danielrosehill/Claude-Workspace-Setup-Helper)
-
-Population utility for creating Claude workspaces
-
-**Updated:** December 07, 2025 | **Created:** December 07, 2025  
-
----
-
-### [Claude Linux Server Manager](https://github.com/danielrosehill/Claude-Linux-Server-Manager)
-
-Template repository for creating Claude Code structured workspace in a remote server environment
-
-**Updated:** December 07, 2025 | **Created:** November 01, 2025  
-**Topics:** `` `` ``  
-
----
-
-### [Claude Docker Manager](https://github.com/danielrosehill/Claude-Docker-Manager)
-
-Template management workspace for using Claude to co-admin a Docker env
-
-**Updated:** December 07, 2025 | **Created:** December 07, 2025  
-**Topics:** `` `` ``  
-
----
-
 ### [Amd Ai Notes](https://github.com/danielrosehill/AMD-AI-Notes)
 
 Just some random notes for those exporing local AI with ... AMD GPUs!
@@ -612,33 +3408,6 @@ Notes on STT processing chain (for future voice projects)
 
 **Updated:** December 06, 2025 | **Created:** December 06, 2025  
 **Topics:** `` `` `` `` ``  
-
----
-
-### [Microphone Audio Samples](https://github.com/danielrosehill/Microphone-Audio-Samples)
-
-Test samples for various microphones with an STT accuracy eval
-
-**Updated:** December 06, 2025 | **Created:** December 06, 2025  
-
----
-
-### [Openwebui Postgres Qdrant](https://github.com/danielrosehill/OpenWebUI-Postgres-Qdrant)
-
-Docker Compose for OpenWebUI + Postgres + Qdrant
-
-**Updated:** December 06, 2025 | **Created:** March 12, 2025  
-⭐ 9 stars | 🔀 1 forks  
-
----
-
-### [Claude Deep Research Template](https://github.com/danielrosehill/Claude-Deep-Research-Template)
-
-Template for Claude Code deep research pattern
-
-**Updated:** December 06, 2025 | **Created:** November 01, 2025  
-⭐ 2 stars | 🔀 0 forks  
-**Topics:** `` ``  
 
 ---
 
@@ -709,30 +3478,12 @@ Notebook on Halachic dimensions of smart home usage and Home Assistant
 
 ---
 
-### [Save To Nas Mcp](https://github.com/danielrosehill/Save-To-NAS-MCP)
-
-*No description provided*
-
-**Updated:** December 03, 2025 | **Created:** December 03, 2025  
-**Topics:** `` `` `` ``  
-
----
-
 ### [Voice Cleanup Prompt Experiment](https://github.com/danielrosehill/Voice-Cleanup-Prompt-Experiment)
 
 Testing various permutations in system prompting for raw audio transcript cleanup and comparing multimodal ASR vs. the STT + LLM approach
 
 **Updated:** December 03, 2025 | **Created:** December 03, 2025  
 **Topics:** `` `` `` ``  
-
----
-
-### [Claude Synology Manager](https://github.com/danielrosehill/Claude-Synology-Manager)
-
-Claude workspace (pattern) for managing a LAN Synology NAS
-
-**Updated:** December 03, 2025 | **Created:** December 03, 2025  
-**Topics:** `` ``  
 
 ---
 
@@ -773,34 +3524,6 @@ Subreddits discussing AI related things!
 
 ---
 
-### [Nano Banana Desktop](https://github.com/danielrosehill/Nano-Banana-Desktop)
-
-Vibe coded starter for a Nano Banana inpainting utility  / image editor (Gemini API)
-
-**Updated:** December 03, 2025 | **Created:** November 01, 2025  
-⭐ 3 stars | 🔀 0 forks  
-**Topics:** `` `` `` `` ``  
-
----
-
-### [Github Gists Backup Public](https://github.com/danielrosehill/Github-Gists-Backup-Public)
-
-Backup script for backing up Github Gists
-
-**Updated:** December 03, 2025 | **Created:** May 04, 2025  
-⭐ 1 stars | 🔀 0 forks  
-
----
-
-### [Roocode Mode Prompts](https://github.com/danielrosehill/RooCode-Mode-Prompts)
-
-Some custom mode-setting system prompts for Roo Code
-
-**Updated:** December 02, 2025 | **Created:** February 15, 2025  
-⭐ 18 stars | 🔀 0 forks  
-
----
-
 ### [Research System Prompts](https://github.com/danielrosehill/Research-System-Prompts)
 
 System prompts for research purposes
@@ -823,6 +3546,7 @@ CLI MCP package manager & registry for all platforms and all clients. Search & c
 Whiteboard cleanup pipeline and util (local implementation)
 
 **Updated:** December 02, 2025 | **Created:** December 02, 2025  
+⭐ 0 stars | 🔀 1 forks  
 **Topics:** `` ``  
 
 ---
@@ -853,43 +3577,6 @@ Sets of "panels" for testing Rally (AskRally.com) exploring various "frontier" a
 
 ---
 
-### [Apps Index](https://github.com/danielrosehill/Apps-Index)
-
-Indexing repo for apps created
-
-**Updated:** December 01, 2025 | **Created:** August 10, 2025  
-**Topics:** `` ``  
-
----
-
-### [Awesome List Repos Index](https://github.com/danielrosehill/Awesome-List-Repos-Index)
-
-Index of listing repositories I have created
-
-**Updated:** December 01, 2025 | **Created:** October 26, 2025  
-**Topics:** `` ``  
-
----
-
-### [Index](https://github.com/danielrosehill/Index)
-
-A repository that indexes my Github projects
-
-**Updated:** December 01, 2025 | **Created:** February 22, 2025  
-⭐ 5 stars | 🔀 1 forks  
-**Topics:** `` `` ``  
-
----
-
-### [Index Of Indices](https://github.com/danielrosehill/Index-Of-Indices)
-
-Index of various indexing repos I have created
-
-**Updated:** December 01, 2025 | **Created:** November 26, 2025  
-**Topics:** `` ``  
-
----
-
 ### [Github Gist Mcp Minimal](https://github.com/danielrosehill/Github-Gist-MCP-Minimal)
 
 Fork of Gistpad MCP focused on minimising tool definitions for those who want an MCP for basic Gist operations (approximately CRUD)
@@ -911,23 +3598,6 @@ Some system prompts related to text modification and optimisation for some WIPs
 ### [Kokoro Fastapi](https://github.com/danielrosehill/Kokoro-FastAPI)
 
 Dockerized FastAPI wrapper for Kokoro-82M text-to-speech model w/CPU ONNX and NVIDIA GPU PyTorch support, handling, and auto-stitching
-
-**Updated:** November 30, 2025 | **Created:** November 30, 2025  
-
----
-
-### [Mcp Manager Research](https://github.com/danielrosehill/MCP-Manager-Research)
-
-Some research notes for MCP server proxies
-
-**Updated:** November 30, 2025 | **Created:** November 30, 2025  
-**Topics:** `` `` `` ``  
-
----
-
-### [Jewish Related Index](https://github.com/danielrosehill/Jewish-Related-Index)
-
-Index of repositories involving tech + Judaism
 
 **Updated:** November 30, 2025 | **Created:** November 30, 2025  
 
@@ -974,24 +3644,6 @@ Projects bringing technical sophistication to Jewish religious texts and interpr
 
 ---
 
-### [Structured System Prompt Generator](https://github.com/danielrosehill/Structured-System-Prompt-Generator)
-
-Streamlit generator to aid with the creation of structured prompts
-
-**Updated:** November 30, 2025 | **Created:** April 08, 2025  
-⭐ 3 stars | 🔀 2 forks  
-**Topics:** `` `` ``  
-
----
-
-### [Voice Note Recorder Ubuntu](https://github.com/danielrosehill/Voice-Note-Recorder-Ubuntu)
-
-GUI for recording voice notes
-
-**Updated:** November 30, 2025 | **Created:** November 30, 2025  
-
----
-
 ### [Voice Note Ragie Pipeline](https://github.com/danielrosehill/Voice-Note-Ragie-Pipeline)
 
 Test pipeline: voice context data to Ragie
@@ -1001,39 +3653,11 @@ Test pipeline: voice context data to Ragie
 
 ---
 
-### [Hebrew Date Kde Widget](https://github.com/danielrosehill/Hebrew-Date-KDE-Widget)
-
-WIP - KDE Plasmoid for displaying the Hebrew calendar date
-
-**Updated:** November 30, 2025 | **Created:** September 22, 2025  
-⭐ 1 stars | 🔀 0 forks  
-
----
-
 ### [Voice Prompt Cleanup Script](https://github.com/danielrosehill/Voice-Prompt-Cleanup-Script)
 
 Cleanup audio processing script
 
 **Updated:** November 30, 2025 | **Created:** November 30, 2025  
-
----
-
-### [K811 Ev Test Events](https://github.com/danielrosehill/K811-EV-Test-Events)
-
-EV Test Events For K811 Wired Gaming Keypad
-
-**Updated:** November 29, 2025 | **Created:** September 07, 2025  
-⭐ 1 stars | 🔀 0 forks  
-**Topics:** `` `` ``  
-
----
-
-### [Awesome Linux Ides](https://github.com/danielrosehill/Awesome-Linux-IDEs)
-
-IDEs and development tools that work on one or multiple Linux distros. where possible details are noted like the supported distros, programming languages and more.   
-
-**Updated:** November 28, 2025 | **Created:** May 19, 2024  
-⭐ 5 stars | 🔀 0 forks  
 
 ---
 
@@ -1046,37 +3670,11 @@ System prompts for AI assistants for Linux
 
 ---
 
-### [Voice Training Script Generator](https://github.com/danielrosehill/Voice-Training-Script-Generator)
-
-Helper utils for generating training data for voice cloning with LLMs
-
-**Updated:** November 28, 2025 | **Created:** November 28, 2025  
-**Topics:** `` ``  
-
----
-
-### [Gemini Transcription Mcp](https://github.com/danielrosehill/Gemini-Transcription-MCP)
-
-MCP for Gemini multimodal audio transcription with built in post-processing
-
-**Updated:** November 28, 2025 | **Created:** November 27, 2025  
-**Topics:** `` ``  
-
----
-
 ### [Adb Keep Awake](https://github.com/danielrosehill/adb-keep-awake)
 
 Scripts to prevent Android phones from sleeping while connected via USB (keeps ADB working)
 
 **Updated:** November 28, 2025 | **Created:** November 28, 2025  
-
----
-
-### [Claude Local Ai Agent Research](https://github.com/danielrosehill/Claude-Local-AI-Agent-Research)
-
-Research and notes for local sysadmin agent
-
-**Updated:** November 27, 2025 | **Created:** November 27, 2025  
 
 ---
 
@@ -1088,197 +3686,11 @@ Simple GUI around whisper.cpp for voice-to-text on Linux
 
 ---
 
-### [Claude Job Search Strategist](https://github.com/danielrosehill/Claude-Job-Search-Strategist)
-
-Template for a Claude Code job search space
-
-**Updated:** November 26, 2025 | **Created:** November 26, 2025  
-**Topics:** `` ``  
-
----
-
 ### [Hyprvoice](https://github.com/danielrosehill/hyprvoice)
 
 Voice‑powered typing for Wayland/Hyprland desktops
 
 **Updated:** November 26, 2025 | **Created:** November 26, 2025  
-
----
-
-### [Linux Friendly Voice Tech](https://github.com/danielrosehill/Linux-Friendly-Voice-Tech)
-
-List of resources for voice technology with support for Linux, encompassing STT, ASR primarily as well as dev frameworks.
-
-**Updated:** November 26, 2025 | **Created:** August 27, 2025  
-⭐ 3 stars | 🔀 0 forks  
-**Topics:** `` `` `` `` ``  
-
----
-
-### [Danielrosehill](https://github.com/danielrosehill/danielrosehill)
-
-Github homepage text
-
-**Updated:** November 26, 2025 | **Created:** August 11, 2024  
-
----
-
-### [Agents Index](https://github.com/danielrosehill/Agents-Index)
-
-Periodically updated index of AI agent configurations that I'm working on (or have created)
-
-**Updated:** November 26, 2025 | **Created:** July 22, 2025  
-⭐ 5 stars | 🔀 0 forks  
-**Topics:** `` `` `` `` ``  
-
----
-
-### [Speech Tech Index](https://github.com/danielrosehill/Speech-Tech-Index)
-
-Index of my repos related to STT, ASR
-
-**Updated:** November 26, 2025 | **Created:** November 26, 2025  
-**Topics:** `` ``  
-
----
-
-### [Prompt Libraries Index](https://github.com/danielrosehill/Prompt-Libraries-Index)
-
-Index for my collections of user and system prompts on Github
-
-**Updated:** November 26, 2025 | **Created:** April 06, 2025  
-⭐ 1 stars | 🔀 0 forks  
-
----
-
-### [Claude Tech Research Team](https://github.com/danielrosehill/Claude-Tech-Research-Team)
-
-Example/templaet for using Claude Code repo structure for tech/stack research
-
-**Updated:** November 26, 2025 | **Created:** October 31, 2025  
-⭐ 1 stars | 🔀 0 forks  
-**Topics:** `` `` `` ``  
-
----
-
-### [Claude Writing Space Template](https://github.com/danielrosehill/Claude-Writing-Space-Template)
-
-Pattern for using Clauide to help with any piece of writing
-
-**Updated:** November 26, 2025 | **Created:** November 12, 2025  
-⭐ 1 stars | 🔀 0 forks  
-
----
-
-### [Claude Stack Research Workspace](https://github.com/danielrosehill/Claude-Stack-Research-Workspace)
-
-*No description provided*
-
-**Updated:** November 26, 2025 | **Created:** November 03, 2025  
-⭐ 1 stars | 🔀 0 forks  
-**Topics:** `` `` ``  
-
----
-
-### [Claude Spec Starter](https://github.com/danielrosehill/Claude-Spec-Starter)
-
-Pattern for AI assisted development starting from one (long) user prompt
-
-**Updated:** November 26, 2025 | **Created:** November 06, 2025  
-⭐ 1 stars | 🔀 0 forks  
-**Topics:** `` `` ``  
-
----
-
-### [Claude Think Tank](https://github.com/danielrosehill/Claude-Think-Tank)
-
-Model repository for a think tank composed of AI agents (with Claude Code providing the framework) focused on assisting a user with research and ideating policy proposals
-
-**Updated:** November 26, 2025 | **Created:** November 07, 2025  
-⭐ 2 stars | 🔀 0 forks  
-**Topics:** ``  
-
----
-
-### [Claude Adhd Research Workspace](https://github.com/danielrosehill/Claude-ADHD-Research-Workspace)
-
-Claude research notebook into ADHD drug access - an important topic!
-
-**Updated:** November 26, 2025 | **Created:** November 07, 2025  
-⭐ 1 stars | 🔀 1 forks  
-**Topics:** `` ``  
-
----
-
-### [Context Toolkit Plugin](https://github.com/danielrosehill/context-toolkit-plugin)
-
-A comprehensive toolkit implementing the CONTEXT.md workflow system for managing human-authored context and agent-ready briefings.
-
-**Updated:** November 25, 2025 | **Created:** November 15, 2025  
-⭐ 1 stars | 🔀 0 forks  
-
----
-
-### [Diary Planner Plugin](https://github.com/danielrosehill/diary-planner-plugin)
-
-A workflow planning and time management template with agent definitions and slash commands for managing daily, weekly, and monthly schedules.
-
-**Updated:** November 25, 2025 | **Created:** November 15, 2025  
-⭐ 1 stars | 🔀 0 forks  
-
----
-
-### [Home Assistant Manager Plugin](https://github.com/danielrosehill/home-assistant-manager-plugin)
-
-A comprehensive Home Assistant OS management template with 20+ slash commands for health monitoring, backup management, integration support, and automation assistance.
-
-**Updated:** November 25, 2025 | **Created:** November 15, 2025  
-⭐ 1 stars | 🔀 0 forks  
-
----
-
-### [Home Budget Helper Plugin](https://github.com/danielrosehill/home-budget-helper-plugin)
-
-A workspace template for household budget management using Claude Code CLI with predefined agents, slash commands, and directory structures.
-
-**Updated:** November 25, 2025 | **Created:** November 15, 2025  
-⭐ 1 stars | 🔀 0 forks  
-
----
-
-### [Documentation Plugin](https://github.com/danielrosehill/documentation-plugin)
-
-Claude Code plugin for documentation generation, technical writing, README creation, and documentation management workflows.
-
-**Updated:** November 25, 2025 | **Created:** November 15, 2025  
-⭐ 1 stars | 🔀 0 forks  
-
----
-
-### [Ideation Plugin](https://github.com/danielrosehill/ideation-plugin)
-
-Claude Code plugin for brainstorming, idea generation, project planning, and creative problem-solving workflows.
-
-**Updated:** November 25, 2025 | **Created:** November 15, 2025  
-⭐ 1 stars | 🔀 0 forks  
-
----
-
-### [Learning Plugin](https://github.com/danielrosehill/learning-plugin)
-
-Claude Code plugin for learning resources, skill development, educational content creation, and knowledge management.
-
-**Updated:** November 25, 2025 | **Created:** November 15, 2025  
-⭐ 1 stars | 🔀 0 forks  
-
----
-
-### [Tech Research Plugin](https://github.com/danielrosehill/tech-research-plugin)
-
-Claude Code plugin for technology research, competitive analysis, technical documentation retrieval, and research workflows.
-
-**Updated:** November 25, 2025 | **Created:** November 15, 2025  
-⭐ 1 stars | 🔀 0 forks  
 
 ---
 
@@ -1300,15 +3712,6 @@ Spec/notes for an AI workspace I have been planning for some time (incl consolid
 
 ---
 
-### [Deepgram Text Input](https://github.com/danielrosehill/Deepgram-Text-Input)
-
-Analysis of Deepgram text input
-
-**Updated:** November 25, 2025 | **Created:** November 25, 2025  
-**Topics:** `` `` ``  
-
----
-
 ### [Modal Acft Finetune Script](https://github.com/danielrosehill/Modal-ACFT-Finetune-Script)
 
 Validated Whisper fine-tuning script on Modal for FUTO
@@ -1325,30 +3728,11 @@ Validated Whisper fine-tuning script on Modal for FUTO
 
 ---
 
-### [Non Code Claude Code](https://github.com/danielrosehill/Non-Code-Claude-Code)
-
-Small collection of non-development related uses for Claude Code
-
-**Updated:** November 25, 2025 | **Created:** October 03, 2025  
-⭐ 3 stars | 🔀 0 forks  
-**Topics:** `` `` `` ``  
-
----
-
 ### [Claude Rescue](https://github.com/danielrosehill/Claude-Rescue)
 
 WIP/Plan/Idea: System recovery/rescue utility that seeds Claude Code installation for AI-assisted repair from TTYS/shell
 
 **Updated:** November 25, 2025 | **Created:** November 14, 2025  
-
----
-
-### [Claude Decision Evaluation Framework](https://github.com/danielrosehill/Claude-Decision-Evaluation-Framework)
-
-Claude Code model for decision evaluation
-
-**Updated:** November 25, 2025 | **Created:** November 23, 2025  
-**Topics:** `` `` ``  
 
 ---
 
@@ -1370,14 +3754,6 @@ Validated fine-tuning script for fine-tuning Whisper on Modal GPU with a preform
 
 ---
 
-### [Deepgram Voice Keyboard](https://github.com/danielrosehill/deepgram-voice-keyboard)
-
-A fork of Deeepgram's Linux starter. CLI -> GUI + hotkey support, API key editing, cost tracking. WIP
-
-**Updated:** November 23, 2025 | **Created:** November 21, 2025  
-
----
-
 ### [Asr And Stt Ai Notebook](https://github.com/danielrosehill/ASR-And-STT-AI-Notebook)
 
 Propmts and outputs (and some notes) on STT + ASR + fine-tuning. LLM: Claude
@@ -1388,41 +3764,13 @@ Propmts and outputs (and some notes) on STT + ASR + fine-tuning. LLM: Claude
 
 ---
 
-### [Awesome Ai Coding Tools](https://github.com/danielrosehill/Awesome-AI-Coding-Tools)
-
-September 1st 2025 Snapshot
-
-**Updated:** November 22, 2025 | **Created:** September 01, 2025  
-⭐ 3 stars | 🔀 0 forks  
-
----
-
 ### [Awesome Ai Agents And Assistants](https://github.com/danielrosehill/Awesome-AI-Agents-And-Assistants)
 
 An ecosystem map of the AI agent and assistant building landscape in Feb 2025
 
 **Updated:** November 21, 2025 | **Created:** February 14, 2025  
-⭐ 11 stars | 🔀 1 forks  
+⭐ 11 stars | 🔀 9 forks  
 **Topics:** `` `` `` `` `` `` ``  
-
----
-
-### [Claude Blog Manager](https://github.com/danielrosehill/Claude-Blog-Manager)
-
-Conversational CMS: model for using a Claude workspace to manage content
-
-**Updated:** November 21, 2025 | **Created:** November 18, 2025  
-⭐ 1 stars | 🔀 0 forks  
-**Topics:** `` `` ``  
-
----
-
-### [Claude Code Notebook](https://github.com/danielrosehill/Claude-Code-Notebook)
-
-Personal reference notebook for Claude Code (CLI) usage. Context: Linux desktop (Ubuntu)
-
-**Updated:** November 20, 2025 | **Created:** October 30, 2025  
-**Topics:** `` `` ``  
 
 ---
 
@@ -1441,16 +3789,6 @@ Expense processing backend workflow with AI agent for doc analysis
 **Updated:** November 20, 2025 | **Created:** August 07, 2025  
 ⭐ 1 stars | 🔀 0 forks  
 **Topics:** `` `` ``  
-
----
-
-### [Prompt Library](https://github.com/danielrosehill/Prompt-Library)
-
-A repository of prompts I've used when working with LLMs as well as some example outputs and notes
-
-**Updated:** November 19, 2025 | **Created:** July 24, 2024  
-⭐ 6 stars | 🔀 0 forks  
-**Topics:** `` `` `` `` ``  
 
 ---
 
@@ -1481,113 +3819,6 @@ Planning notes for a concept agentic emailing pipeline
 
 ---
 
-### [Panel Of Claude](https://github.com/danielrosehill/Panel-Of-Claude)
-
-Exploratory Claude model: multiple agents mimicking a panel debate
-
-**Updated:** November 18, 2025 | **Created:** November 17, 2025  
-⭐ 1 stars | 🔀 0 forks  
-
----
-
-### [Video Editing Plugin](https://github.com/danielrosehill/video-editing-plugin)
-
-Claude Code plugin for video editing, transcoding, video processing, and multimedia workflow automation.
-
-**Updated:** November 16, 2025 | **Created:** November 15, 2025  
-**Topics:** ``  
-
----
-
-### [Seo Plugin](https://github.com/danielrosehill/seo-plugin)
-
-Claude Code plugin for SEO optimization, meta tag management, and search engine optimization workflows.
-
-**Updated:** November 16, 2025 | **Created:** November 15, 2025  
-
----
-
-### [Security Checkup Plugin](https://github.com/danielrosehill/security-checkup-plugin)
-
-Claude Code plugin for security audits, vulnerability scanning, firewall configuration, and system security hardening workflows.
-
-**Updated:** November 16, 2025 | **Created:** November 15, 2025  
-
----
-
-### [Linux Server Plugin](https://github.com/danielrosehill/linux-server-plugin)
-
-Claude Code plugin for Linux server administration, service management, and server infrastructure workflows.
-
-**Updated:** November 16, 2025 | **Created:** November 15, 2025  
-
----
-
-### [Linux Desktop Plugin](https://github.com/danielrosehill/linux-desktop-plugin)
-
-Claude Code plugin for Linux desktop environment management, KDE/Plasma configuration, and desktop system administration.
-
-**Updated:** November 16, 2025 | **Created:** November 15, 2025  
-
----
-
-### [Image Editing Plugin](https://github.com/danielrosehill/image-editing-plugin)
-
-Claude Code plugin for image processing, photo editing, batch image operations, and visual media management.
-
-**Updated:** November 16, 2025 | **Created:** November 15, 2025  
-
----
-
-### [Git Github Plugin](https://github.com/danielrosehill/git-github-plugin)
-
-Claude Code plugin for Git version control, GitHub repository management, and collaborative development workflows.
-
-**Updated:** November 16, 2025 | **Created:** November 15, 2025  
-
----
-
-### [Filesystem Org Plugin](https://github.com/danielrosehill/filesystem-org-plugin)
-
-Claude Code plugin for file system organization, folder structure optimization, and file management automation workflows.
-
-**Updated:** November 16, 2025 | **Created:** November 15, 2025  
-
----
-
-### [Audio Editing Plugin](https://github.com/danielrosehill/audio-editing-plugin)
-
-Claude Code plugin for audio editing, conversion, processing, and microphone management slash commands and agents.
-
-**Updated:** November 16, 2025 | **Created:** November 15, 2025  
-
----
-
-### [Ai Tools Plugin](https://github.com/danielrosehill/ai-tools-plugin)
-
-Claude Code plugin for AI tool management, MCP server configuration, and AI workflow automation slash commands and agents.
-
-**Updated:** November 16, 2025 | **Created:** November 15, 2025  
-
----
-
-### [Lan Manager Plugin](https://github.com/danielrosehill/lan-manager-plugin)
-
-A specialized workspace for network system administration on local area networks, providing tools for LAN scanning, device discovery, device management, and network operations.
-
-**Updated:** November 16, 2025 | **Created:** November 15, 2025  
-
----
-
-### [Claude Document This](https://github.com/danielrosehill/Claude-Document-This)
-
-Slash command for asking Claude Code to document fixes to various target filesystems
-
-**Updated:** November 16, 2025 | **Created:** November 16, 2025  
-**Topics:** `` `` `` ``  
-
----
-
 ### [Jerusalem Tech Ecosystem](https://github.com/danielrosehill/Jerusalem-Tech-Ecosystem)
 
 Resource list / mapping
@@ -1611,16 +3842,6 @@ A system prompt generation UI that combines model and user characteristics to ge
 **Updated:** November 16, 2025 | **Created:** February 25, 2025  
 ⭐ 4 stars | 🔀 2 forks  
 **Topics:** `` `` `` ``  
-
----
-
-### [System Prompt Generation Configurations](https://github.com/danielrosehill/System-Prompt-Generation-Configurations)
-
-System prompts for using AI tools to generate and improve system prompts
-
-**Updated:** November 16, 2025 | **Created:** March 26, 2025  
-⭐ 17 stars | 🔀 0 forks  
-**Topics:** `` `` `` `` ``  
 
 ---
 
@@ -1664,49 +3885,6 @@ Claude Code plugin for managing Conda environments, packages, and Python virtual
 
 ---
 
-### [Claude Code Plugin](https://github.com/danielrosehill/claude-code-plugin)
-
-Claude Code plugin for managing Claude Code configuration, slash commands, agents, and plugin development workflow.
-
-**Updated:** November 15, 2025 | **Created:** November 15, 2025  
-
----
-
-### [Israel Projects Index](https://github.com/danielrosehill/Israel-Projects-Index)
-
-Index of repositories related to Israel
-
-**Updated:** November 15, 2025 | **Created:** November 15, 2025  
-
----
-
-### [Israel Related Mcps](https://github.com/danielrosehill/Israel-Related-MCPs)
-
-Small resource list of MCP projects related to Israel
-
-**Updated:** November 15, 2025 | **Created:** November 15, 2025  
-**Topics:** `` `` ``  
-
----
-
-### [Jewish Interest Mcp Projects](https://github.com/danielrosehill/Jewish-Interest-MCP-Projects)
-
-Some MCP (model context protocol) servers which might be of interest to Jewish users
-
-**Updated:** November 15, 2025 | **Created:** April 05, 2025  
-⭐ 1 stars | 🔀 0 forks  
-
----
-
-### [Favorite Mcps](https://github.com/danielrosehill/Favorite-MCPs)
-
-List of my MCP toolkit as I develop it and it evolves over time
-
-**Updated:** November 15, 2025 | **Created:** November 15, 2025  
-**Topics:** `` `` ``  
-
----
-
 ### [Desktop Backup Notes 1125](https://github.com/danielrosehill/Desktop-Backup-Notes-1125)
 
 *No description provided*
@@ -1739,37 +3917,11 @@ Single shot STT benchmark for long from audio
 
 ---
 
-### [Claude Change My View](https://github.com/danielrosehill/Claude-Change-My-View)
-
-CMV with AI (pattern/template)
-
-**Updated:** November 13, 2025 | **Created:** November 13, 2025  
-
----
-
 ### [Claude Website Update Sender](https://github.com/danielrosehill/Claude-Website-Update-Sender)
 
 Slash command for notifying colleagues of website updates
 
 **Updated:** November 13, 2025 | **Created:** November 13, 2025  
-
----
-
-### [Open Web Ui Model Index Public](https://github.com/danielrosehill/Open-Web-UI-Model-Index-Public)
-
-An index of models that I have open-sourced on Open Web UI Community
-
-**Updated:** November 13, 2025 | **Created:** March 20, 2025  
-⭐ 2 stars | 🔀 0 forks  
-
----
-
-### [Claude Adb Workspace Template](https://github.com/danielrosehill/Claude-ADB-Workspace-Template)
-
-*No description provided*
-
-**Updated:** November 13, 2025 | **Created:** November 12, 2025  
-**Topics:** `` `` ``  
 
 ---
 
@@ -1824,6 +3976,7 @@ Synthetic data containing personally identifiable information
 Notes/thoughts on what I think could be a really fertile AI use-case
 
 **Updated:** November 11, 2025 | **Created:** November 11, 2025  
+⭐ 0 stars | 🔀 1 forks  
 
 ---
 
@@ -1836,35 +3989,9 @@ LLM text reformatting and rewriting toolbox comprised of many system prompts
 
 ---
 
-### [Claude Media Monitor](https://github.com/danielrosehill/Claude-Media-Monitor)
-
-Slash command for fetching news articles for human analysis
-
-**Updated:** November 10, 2025 | **Created:** November 10, 2025  
-**Topics:** `` `` ``  
-
----
-
 ### [Linux Voice Typing App Notes](https://github.com/danielrosehill/Linux-Voice-Typing-App-Notes)
 
 Planning notes for a tool I've been working on for a while!
-
-**Updated:** November 09, 2025 | **Created:** November 09, 2025  
-**Topics:** `` ``  
-
----
-
-### [Claude Code Marketplace](https://github.com/danielrosehill/claude-code-marketplace)
-
-*No description provided*
-
-**Updated:** November 09, 2025 | **Created:** November 09, 2025  
-
----
-
-### [Claude Code Bash Aliases](https://github.com/danielrosehill/Claude-Code-Bash-Aliases)
-
-A few bash aliases to support efficient Claude Code use
 
 **Updated:** November 09, 2025 | **Created:** November 09, 2025  
 **Topics:** `` ``  
@@ -1885,34 +4012,6 @@ Price comoparison and list
 
 **Updated:** November 08, 2025 | **Created:** November 08, 2025  
 **Topics:** ``  
-
----
-
-### [End Of Day Worklog](https://github.com/danielrosehill/End-Of-Day-Worklog)
-
-Agent model for taking daily snapshots of work progress
-
-**Updated:** November 08, 2025 | **Created:** November 08, 2025  
-
----
-
-### [Homebox Projects Index](https://github.com/danielrosehill/Homebox-Projects-Index)
-
-Index of Homebox related projects (home inventory system)
-
-**Updated:** November 08, 2025 | **Created:** August 10, 2025  
-⭐ 1 stars | 🔀 0 forks  
-**Topics:** `` ``  
-
----
-
-### [Claude Home Assistant Manager Template](https://github.com/danielrosehill/Claude-Home-Assistant-Manager-Template)
-
-Template for a Claude Code config at the base of a HAOS filesystem
-
-**Updated:** November 08, 2025 | **Created:** November 01, 2025  
-⭐ 1 stars | 🔀 1 forks  
-**Topics:** `` ``  
 
 ---
 
@@ -1962,67 +4061,11 @@ Modelling how AI assistants can ideate the expansion of agent/assistant networks
 
 ---
 
-### [Agent Handover Demo](https://github.com/danielrosehill/Agent-Handover-Demo)
-
-Model for simple handover management (via docs!) between AI agents
-
-**Updated:** November 07, 2025 | **Created:** August 11, 2025  
-**Topics:** `` `` `` ``  
-
----
-
-### [Acr 1252 Gui 1025](https://github.com/danielrosehill/ACR-1252-GUI-1025)
-
-Updated "vibe-coded" GUI for reading/writing to the ACR1252 USB NFC reader/writer (Linux)
-
-**Updated:** November 07, 2025 | **Created:** October 04, 2025  
-**Topics:** `` `` ``  
-
----
-
 ### [A Few Adks](https://github.com/danielrosehill/A-Few-ADKs)
 
 Point in time collection of some agent development kits (ADKs) to explore
 
 **Updated:** November 07, 2025 | **Created:** August 25, 2025  
-**Topics:** `` `` `` ``  
-
----
-
-### [Claude Budget Workspace Template](https://github.com/danielrosehill/Claude-Budget-Workspace-Template)
-
-Template for using Claude for household budget management
-
-**Updated:** November 07, 2025 | **Created:** November 07, 2025  
-**Topics:** `` ``  
-
----
-
-### [Claude Diary Planner Template](https://github.com/danielrosehill/Claude-Diary-Planner-Template)
-
-Template Claude Code repo for workfow and time management planning
-
-**Updated:** November 07, 2025 | **Created:** November 07, 2025  
-**Topics:** `` `` ``  
-
----
-
-### [Claude Slash Commands](https://github.com/danielrosehill/Claude-Slash-Commands)
-
-My Claude Code slash commands
-
-**Updated:** November 06, 2025 | **Created:** October 11, 2025  
-⭐ 0 stars | 🔀 2 forks  
-**Topics:** `` `` ``  
-
----
-
-### [Ai Agent Ideation Chatbot System Prompt](https://github.com/danielrosehill/AI-Agent-Ideation-Chatbot-System-Prompt)
-
-System prompt (03/25) for a conversational AI agent and assistant idea generator
-
-**Updated:** November 05, 2025 | **Created:** March 26, 2025  
-⭐ 11 stars | 🔀 4 forks  
 **Topics:** `` `` `` ``  
 
 ---
@@ -2033,25 +4076,6 @@ GUI to facilitate capturing voice data for TTS / voice clone training with LLM s
 
 **Updated:** November 03, 2025 | **Created:** November 03, 2025  
 **Topics:** `` `` `` ``  
-
----
-
-### [Claude Sub Agent Network](https://github.com/danielrosehill/Claude-Sub-Agent-Network)
-
-Collection of subagents for Claude Code with configs spanning ideation, editing, version control
-
-**Updated:** November 03, 2025 | **Created:** September 09, 2025  
-**Topics:** `` `` `` ``  
-
----
-
-### [Claude Code Writing Squad](https://github.com/danielrosehill/Claude-Code-Writing-Squad)
-
-Model repository structure for using a Claude Code agent crew for writing related tasks
-
-**Updated:** November 03, 2025 | **Created:** September 16, 2025  
-⭐ 1 stars | 🔀 0 forks  
-**Topics:** `` `` ``  
 
 ---
 
@@ -2072,48 +4096,11 @@ Planning notes for a macropad for STT users
 
 ---
 
-### [Claude Deep Research Model](https://github.com/danielrosehill/Claude-Deep-Research-Model)
-
-Repo model for an iterative deep research model with voice pipeline
-
-**Updated:** November 02, 2025 | **Created:** October 29, 2025  
-**Topics:** `` ``  
-
----
-
-### [Claude Server Mgmt Template Sbcs](https://github.com/danielrosehill/Claude-Server-Mgmt-Template-SBCs)
-
-Version of Claude Code server manager template for single board computers (SBCs)
-
-**Updated:** November 01, 2025 | **Created:** November 01, 2025  
-**Topics:** `` ``  
-
----
-
-### [Claude Proxmox Manager Template](https://github.com/danielrosehill/Claude-Proxmox-Manager-Template)
-
-Claude Code server manager template adapter for Proxmox environment
-
-**Updated:** November 01, 2025 | **Created:** November 01, 2025  
-**Topics:** `` ``  
-
----
-
 ### [Image To Image Prompts](https://github.com/danielrosehill/Image-To-Image-Prompts)
 
 Loose collection of image to image prompts for common transformations
 
 **Updated:** November 01, 2025 | **Created:** November 01, 2025  
-
----
-
-### [Agents.Md Templates](https://github.com/danielrosehill/Agents.md-Templates)
-
-Template agents.md templates for use with OpenAI Codex
-
-**Updated:** November 01, 2025 | **Created:** September 17, 2025  
-⭐ 1 stars | 🔀 0 forks  
-**Topics:** `` `` ``  
 
 ---
 
@@ -2123,14 +4110,6 @@ Slash command for AI agents to note who did what!
 
 **Updated:** October 31, 2025 | **Created:** October 31, 2025  
 **Topics:** `` `` ``  
-
----
-
-### [Anthropic Skills Notes](https://github.com/danielrosehill/anthropic-skills-notes)
-
-Public repository for Skills
-
-**Updated:** October 31, 2025 | **Created:** October 31, 2025  
 
 ---
 
@@ -2152,32 +4131,6 @@ Quick evaluation to find the best STT model in Speech Note (Ubuntu) for my HW
 
 ---
 
-### [Github Subindex Template](https://github.com/danielrosehill/Github-Subindex-Template)
-
-*No description provided*
-
-**Updated:** October 30, 2025 | **Created:** August 31, 2025  
-⭐ 1 stars | 🔀 0 forks  
-
----
-
-### [Ai Agent Un](https://github.com/danielrosehill/AI-Agent-UN)
-
-Experimentary implementation of a model real life political body populated by representative AI agents
-
-**Updated:** October 30, 2025 | **Created:** October 09, 2025  
-**Topics:** `` `` `` ``  
-
----
-
-### [Mcp Installation Notebook](https://github.com/danielrosehill/MCP-Installation-Notebook)
-
-Notebook of things I've figured out about installing MCPs - as I figure them out
-
-**Updated:** October 30, 2025 | **Created:** October 30, 2025  
-
----
-
 ### [Claude Linux Desktop Manager](https://github.com/danielrosehill/Claude-Linux-Desktop-Manager)
 
 WIP/Plan: extension of slash commands to an actual GUi/program
@@ -2194,56 +4147,12 @@ Speech Note Linux app. Note taking, reading and translating with offline Speech 
 
 ---
 
-### [Claude File Organiser Super Slash](https://github.com/danielrosehill/Claude-File-Organiser-Super-Slash)
-
-One big slash command for filesystem tidying
-
-**Updated:** October 29, 2025 | **Created:** October 29, 2025  
-
----
-
-### [Claude Code Remote Machine Admin Space](https://github.com/danielrosehill/Claude-Code-Remote-Machine-Admin-Space)
-
-*No description provided*
-
-**Updated:** October 29, 2025 | **Created:** October 29, 2025  
-**Topics:** `` `` `` `` ``  
-
----
-
-### [Ai Dev Repo Template Oct 2025](https://github.com/danielrosehill/AI-Dev-Repo-Template-Oct-2025)
-
-Updated AI assisted dev repo template (swap preferred CLI!)
-
-**Updated:** October 29, 2025 | **Created:** October 29, 2025  
-**Topics:** `` `` `` ``  
-
----
-
 ### [Crying Baby Audio Scrub](https://github.com/danielrosehill/Crying-Baby-Audio-Scrub)
 
 Experiment to see if crying baby audio can be scrubbed with audio inpainting (use-case: WIP parenting and content creation!)
 
 **Updated:** October 28, 2025 | **Created:** October 28, 2025  
 **Topics:** `` `` `` `` ``  
-
----
-
-### [Context.Md](https://github.com/danielrosehill/CONTEXT.md)
-
-Notes, loader for project context as a single markdown file (method)
-
-**Updated:** October 28, 2025 | **Created:** October 27, 2025  
-**Topics:** `` `` ``  
-
----
-
-### [Claude Code Mcp List](https://github.com/danielrosehill/Claude-Code-MCP-List)
-
-Short collection of MCPs I use / to install for CC on Linux Desktop
-
-**Updated:** October 28, 2025 | **Created:** October 28, 2025  
-⭐ 1 stars | 🔀 0 forks  
 
 ---
 
@@ -2256,15 +4165,6 @@ Template Claude Code workspace for managing Conda
 
 ---
 
-### [Claude Github Shortlister](https://github.com/danielrosehill/Claude-Github-Shortlister)
-
-Template: use Claude to shortlist potentlal tools/components
-
-**Updated:** October 28, 2025 | **Created:** October 28, 2025  
-**Topics:** `` `` ``  
-
----
-
 ### [Feature Ideas And Requests](https://github.com/danielrosehill/Feature-Ideas-And-Requests)
 
 General feature requests for tech tools that I use and love!
@@ -2274,40 +4174,12 @@ General feature requests for tech tools that I use and love!
 
 ---
 
-### [Claude Is Awesome](https://github.com/danielrosehill/Claude-Is-Awesome)
-
-Awesome list creator using Claude Code
-
-**Updated:** October 28, 2025 | **Created:** October 28, 2025  
-**Topics:** `` ``  
-
----
-
 ### [Ai Stack Oct 2025](https://github.com/danielrosehill/AI-Stack-Oct-2025)
 
 Model AI stack and budget (Oct 2025) - for ref, FAQs, etc
 
 **Updated:** October 28, 2025 | **Created:** October 27, 2025  
 **Topics:** `` `` ``  
-
----
-
-### [Claude Code Context Toolkit](https://github.com/danielrosehill/Claude-Code-Context-Toolkit)
-
-Plugin for a structured human and AI context workflow in Claude Code
-
-**Updated:** October 27, 2025 | **Created:** October 27, 2025  
-**Topics:** `` `` ``  
-
----
-
-### [Israel Morning News Briefs N8N Perplexity Sonar](https://github.com/danielrosehill/Israel-Morning-News-Briefs-N8N-Perplexity-Sonar)
-
-Using Perplexity API structured prompting and N8N to deliver a tailored news brief
-
-**Updated:** October 27, 2025 | **Created:** April 08, 2025  
-⭐ 1 stars | 🔀 0 forks  
-**Topics:** `` `` `` ``  
 
 ---
 
@@ -2330,15 +4202,6 @@ AI Studio starter - upload voice sample, get EQ preset
 
 ---
 
-### [Ai Projects Index](https://github.com/danielrosehill/AI-Projects-Index)
-
-Index of AI project related indices (master index)
-
-**Updated:** October 26, 2025 | **Created:** August 09, 2025  
-**Topics:** `` `` ``  
-
----
-
 ### [Context Projects Index](https://github.com/danielrosehill/Context-Projects-Index)
 
 Index of projects related to context-gathering and generation for AI, including via interview approaches
@@ -2356,15 +4219,6 @@ App for extracting context data from voice recordings
 
 ---
 
-### [Awesome Whisper Apps](https://github.com/danielrosehill/Awesome-Whisper-Apps)
-
-Useful speech to text tools that use Whisper under the hood (API/local)
-
-**Updated:** October 26, 2025 | **Created:** May 23, 2025  
-**Topics:** `` `` ``  
-
----
-
 ### [Ai Assistant Ideator](https://github.com/danielrosehill/AI-Assistant-Ideator)
 
 Streamlit app for ideating AI assisants
@@ -2379,42 +4233,6 @@ For batch CLAUDE.md creation in large repository collections
 
 **Updated:** October 26, 2025 | **Created:** October 26, 2025  
 **Topics:** `` `` ``  
-
----
-
-### [Agent Sdk Env Setup](https://github.com/danielrosehill/Agent-SDK-Env-Setup)
-
-Script to clone a few of the main ADKs (agent development kids) for testing/experimentation
-
-**Updated:** October 26, 2025 | **Created:** August 26, 2025  
-**Topics:** `` `` `` ``  
-
----
-
-### [Backup Projects Index](https://github.com/danielrosehill/Backup-Projects-Index)
-
-Indexing repo of backup related projects and scripts
-
-**Updated:** October 26, 2025 | **Created:** August 10, 2025  
-**Topics:** `` `` `` ``  
-
----
-
-### [Home Assistant Index](https://github.com/danielrosehill/Home-Assistant-Index)
-
-Indexing repo for HA projects
-
-**Updated:** October 26, 2025 | **Created:** August 10, 2025  
-**Topics:** `` ``  
-
----
-
-### [Ai Developer Notebook](https://github.com/danielrosehill/AI-Developer-Notebook)
-
-Notes for configuring a reference notebook with Claude Code
-
-**Updated:** October 25, 2025 | **Created:** October 23, 2025  
-**Topics:** `` `` `` ``  
 
 ---
 
@@ -2442,50 +4260,6 @@ CLAUDE.md for my home directory on an Ubuntu Linux desktop
 Visualise how different countries and systems of government approach policy challenges with Gemini identifying clusters
 
 **Updated:** October 25, 2025 | **Created:** October 24, 2025  
-
----
-
-### [Claude Code Repo Managers Claudemd](https://github.com/danielrosehill/Claude-Code-Repo-Managers-ClaudeMD)
-
-CLAUDE.md files for repo base levels for bulk mgmt
-
-**Updated:** October 25, 2025 | **Created:** October 25, 2025  
-**Topics:** `` ``  
-
----
-
-### [Claude Code Lan Manager](https://github.com/danielrosehill/Claude-Code-LAN-Manager)
-
-Repo for using Claude Code to manage local servers/homelabs
-
-**Updated:** October 25, 2025 | **Created:** October 25, 2025  
-**Topics:** `` `` ``  
-
----
-
-### [Bash Alias Manager Claude](https://github.com/danielrosehill/Bash-Alias-Manager-Claude)
-
-Claude agent directory for managing bash aliases
-
-**Updated:** October 25, 2025 | **Created:** October 25, 2025  
-**Topics:** `` ``  
-
----
-
-### [Linux Desktop Claudemd Seeder](https://github.com/danielrosehill/Linux-Desktop-ClaudeMD-Seeder)
-
-Seeds Claude.md files at common places in Linux Desktop filesystems
-
-**Updated:** October 25, 2025 | **Created:** October 25, 2025  
-
----
-
-### [Claude Code Security Auditor](https://github.com/danielrosehill/Claude-Code-Security-Auditor)
-
-Pattern/model for using CC for conducting device level security audits
-
-**Updated:** October 25, 2025 | **Created:** October 25, 2025  
-**Topics:** `` `` ``  
 
 ---
 
@@ -2571,15 +4345,6 @@ Python utility that scans a repo base for requirements.txt to analyse most used 
 
 ---
 
-### [Logitech C925E Boot Configurator](https://github.com/danielrosehill/Logitech-C925E-Boot-Configurator)
-
-v4l2 configuration script for Logitech C925e webcam - sets 1080p @ 24fps MJPEG on boot
-
-**Updated:** October 23, 2025 | **Created:** October 23, 2025  
-**Topics:** `` `` `` ``  
-
----
-
 ### [Resource Space Dam Assets](https://github.com/danielrosehill/Resource-Space-DAM-Assets)
 
 Taxonomies and a few other bits and pieces that might be of use
@@ -2590,57 +4355,11 @@ Taxonomies and a few other bits and pieces that might be of use
 
 ---
 
-### [Homebox Backup Gui](https://github.com/danielrosehill/Homebox-Backup-GUI)
-
-GUI for creating backups of Homebox (with Postgres)
-
-**Updated:** October 23, 2025 | **Created:** October 22, 2025  
-⭐ 1 stars | 🔀 0 forks  
-
----
-
-### [Claude Os Sync Agent](https://github.com/danielrosehill/Claude-OS-Sync-Agent)
-
-Idea - using Claude Code in place of Ansible for cross-device updating/sync
-
-**Updated:** October 22, 2025 | **Created:** October 22, 2025  
-⭐ 1 stars | 🔀 0 forks  
-**Topics:** `` `` ``  
-
----
-
-### [Nfc Reader Writer App](https://github.com/danielrosehill/NFC-Reader-Writer-App)
-
-Desktop NFC reader/writer GUI for the ACR1252U (validated with NTAG213 on Linux)
-
-**Updated:** October 22, 2025 | **Created:** February 01, 2025  
-⭐ 4 stars | 🔀 1 forks  
-
----
-
 ### [Multimodal Ai Taxonomy](https://github.com/danielrosehill/Multimodal-AI-Taxonomy)
 
 Attempting to map out the various input/output permutations for multimodal AI
 
 **Updated:** October 22, 2025 | **Created:** October 22, 2025  
-
----
-
-### [N8N Workflows Index](https://github.com/danielrosehill/N8N-Workflows-Index)
-
-Index of N8N workflows that I have shared on Github
-
-**Updated:** October 22, 2025 | **Created:** July 24, 2025  
-**Topics:** `` ``  
-
----
-
-### [Data Projects Index](https://github.com/danielrosehill/Data-Projects-Index)
-
-Data apps and datasets deployed to Streamlit Community Cloud, Hugging Face, and elsewhere. 
-
-**Updated:** October 22, 2025 | **Created:** December 08, 2024  
-**Topics:** `` `` ``  
 
 ---
 
@@ -2685,15 +4404,6 @@ Wallpapers of places in Israel and installer
 
 **Updated:** October 18, 2025 | **Created:** October 18, 2025  
 **Topics:** `` `` `` ``  
-
----
-
-### [Prompt Debugger System Prompts](https://github.com/danielrosehill/Prompt-Debugger-System-Prompts)
-
-SPs for configuring "self-debugging" AI assistants and agents
-
-**Updated:** October 17, 2025 | **Created:** April 27, 2025  
-⭐ 2 stars | 🔀 0 forks  
 
 ---
 
@@ -2748,34 +4458,6 @@ Demonstrating a voice to text spec driven development workflow
 
 ---
 
-### [General System Prompts](https://github.com/danielrosehill/General-System-Prompts)
-
-Some system prompts intended to (attempt to) configure neutral behavior from LLMs
-
-**Updated:** October 15, 2025 | **Created:** February 24, 2025  
-⭐ 5 stars | 🔀 1 forks  
-
----
-
-### [Israel News Rss Feeds](https://github.com/danielrosehill/Israel-News-RSS-Feeds)
-
-Collection of RSS feeds about news in Israel
-
-**Updated:** October 12, 2025 | **Created:** April 18, 2025  
-⭐ 2 stars | 🔀 0 forks  
-**Topics:** `` `` `` ``  
-
----
-
-### [Smithery Claude Code Mcp Jumpstarter](https://github.com/danielrosehill/Smithery-Claude-Code-MCP-Jumpstarter)
-
-Group of Smithery MCPs for Claude Code
-
-**Updated:** October 11, 2025 | **Created:** October 11, 2025  
-**Topics:** `` `` `` ``  
-
----
-
 ### [Awesome Claude Code](https://github.com/danielrosehill/awesome-claude-code)
 
 A curated list of awesome commands, files, and workflows for Claude Code
@@ -2789,35 +4471,6 @@ A curated list of awesome commands, files, and workflows for Claude Code
 A couple of feature requests (including my own) discussing context handling in Claude code
 
 **Updated:** October 09, 2025 | **Created:** October 09, 2025  
-**Topics:** `` `` `` `` ``  
-
----
-
-### [Israel Red Alert Syntax Notes](https://github.com/danielrosehill/Israel-Red-Alert-Syntax-Notes)
-
-Syntax notes for those automating on the back of the IDF Home Front Command alert feed
-
-**Updated:** October 08, 2025 | **Created:** September 16, 2025  
-⭐ 1 stars | 🔀 1 forks  
-**Topics:** `` `` `` `` `` ``  
-
----
-
-### [Shelter Locator Jerusalem](https://github.com/danielrosehill/Shelter-Locator-Jerusalem)
-
-Open source emergency shelter finder (web app)
-
-**Updated:** October 08, 2025 | **Created:** September 19, 2025  
-⭐ 1 stars | 🔀 0 forks  
-
----
-
-### [Osint Missile Intelligence Agent](https://github.com/danielrosehill/OSINT-Missile-Intelligence-Agent)
-
-Snap reports about causes and quantitiative info about hostile missile launches
-
-**Updated:** October 08, 2025 | **Created:** July 30, 2025  
-⭐ 2 stars | 🔀 0 forks  
 **Topics:** `` `` `` `` ``  
 
 ---
@@ -2846,15 +4499,6 @@ Description of a pattern I've used to build AI agents for in-depth exploration o
 
 **Updated:** October 03, 2025 | **Created:** October 03, 2025  
 **Topics:** `` `` `` ``  
-
----
-
-### [System Prompt Tuning Agent N8N](https://github.com/danielrosehill/System-Prompt-Tuning-Agent-N8N)
-
-N8N agent workflow for an agent that recommends fixes to system prompts based on structured user inputs provided by form
-
-**Updated:** October 02, 2025 | **Created:** May 18, 2025  
-⭐ 1 stars | 🔀 0 forks  
 
 ---
 
@@ -2909,30 +4553,11 @@ System prompt for generating diarised transcripts (STT plus stylistic guidance)
 
 ---
 
-### [Jerusalem Shelters 0925](https://github.com/danielrosehill/Jerusalem-Shelters-0925)
-
-Public/emergency shelter locations for emergency preparedness
-
-**Updated:** September 19, 2025 | **Created:** September 19, 2025  
-**Topics:** `` `` ``  
-
----
-
 ### [Desktop Wallpapers](https://github.com/danielrosehill/Desktop-Wallpapers)
 
 Some desktop wallpapers
 
 **Updated:** September 19, 2025 | **Created:** September 19, 2025  
-
----
-
-### [Speech To Text System Prompt Library](https://github.com/danielrosehill/Speech-To-Text-System-Prompt-Library)
-
-An updated skeleton library of system prompts for using LLMs to refine STT output
-
-**Updated:** September 16, 2025 | **Created:** April 07, 2025  
-⭐ 4 stars | 🔀 1 forks  
-**Topics:** `` `` ``  
 
 ---
 
@@ -2951,23 +4576,6 @@ Day planner dashboard config with email, calendar, news, IP cam, weather
 
 **Updated:** September 12, 2025 | **Created:** September 12, 2025  
 **Topics:** `` ``  
-
----
-
-### [Kscreen Config Scripts And Docs](https://github.com/danielrosehill/KScreen-Config-Scripts-And-Docs)
-
-Some scripts for saving good multiscreen configs for easy shortcutting and DPMS
-
-**Updated:** September 11, 2025 | **Created:** September 11, 2025  
-
----
-
-### [Which Usb](https://github.com/danielrosehill/Which-USB)
-
-GUI for identifying USB devices with lsusb
-
-**Updated:** September 10, 2025 | **Created:** September 10, 2025  
-**Topics:** `` `` `` `` ``  
 
 ---
 
@@ -3128,17 +4736,7 @@ Code snippets for automation building and integration (that might be of interest
 Custom instructions for ChatGPT
 
 **Updated:** September 09, 2025 | **Created:** April 17, 2025  
-⭐ 1 stars | 🔀 0 forks  
-
----
-
-### [Text Transformation Prompt Library](https://github.com/danielrosehill/Text-Transformation-Prompt-Library)
-
-Updated repo of text transformation prompts (raw STT transcripts -> *). New repo for capturing via automations.
-
-**Updated:** September 08, 2025 | **Created:** May 27, 2025  
-⭐ 4 stars | 🔀 2 forks  
-**Topics:** `` `` ``  
+⭐ 1 stars | 🔀 1 forks  
 
 ---
 
@@ -3157,7 +4755,7 @@ Basic implementation of a prompt concatenation utility for text transformation s
 System prompt for directing an AI agent to begin every output with a sumary of the user's prompt
 
 **Updated:** September 08, 2025 | **Created:** July 17, 2025  
-⭐ 1 stars | 🔀 0 forks  
+⭐ 1 stars | 🔀 1 forks  
 **Topics:** `` `` `` ``  
 
 ---
@@ -3199,15 +4797,6 @@ Structured version of tech stack, including AI tools
 
 ---
 
-### [Nfc Reader Writer Acr 1252U](https://github.com/danielrosehill/NFC-Reader-Writer-ACR-1252U)
-
-TUI & CLI implementation ("vibe-coded") for USB NFC reader/writer ops. Validated working with ACR1252U on Ubuntu Linux
-
-**Updated:** September 05, 2025 | **Created:** September 01, 2025  
-**Topics:** `` `` ``  
-
----
-
 ### [N8N Test Agents](https://github.com/danielrosehill/N8N-Test-Agents)
 
 Simple n8n agent patterns for learning the ropes or validating MCP calling
@@ -3243,16 +4832,6 @@ Snippets/building blocks for system prompts
 
 **Updated:** September 04, 2025 | **Created:** August 04, 2025  
 ⭐ 2 stars | 🔀 0 forks  
-
----
-
-### [No Bs Ai System Prompt](https://github.com/danielrosehill/No-BS-AI-System-Prompt)
-
-System prompt for a blunt AI assistant / LLM that gets to the point
-
-**Updated:** September 04, 2025 | **Created:** August 25, 2025  
-⭐ 1 stars | 🔀 0 forks  
-**Topics:** `` ``  
 
 ---
 
@@ -3475,15 +5054,6 @@ nocodb mcp server
 
 ---
 
-### [Environment Docs Template](https://github.com/danielrosehill/Environment-Docs-Template)
-
-Pattern for a structured docs repository within an environment for AI and humans
-
-**Updated:** August 12, 2025 | **Created:** August 12, 2025  
-**Topics:** `` `` ``  
-
----
-
 ### [Homebox Image Compressor](https://github.com/danielrosehill/Homebox-Image-Compressor)
 
 *No description provided*
@@ -3519,14 +5089,6 @@ MCP for performing basic data ops on a self-hosted NocoDB with Cloudflare Tunnne
 
 ---
 
-### [Kde Ac Controller Widget](https://github.com/danielrosehill/KDE-AC-Controller-Widget)
-
-Controller for AC
-
-**Updated:** August 09, 2025 | **Created:** August 09, 2025  
-
----
-
 ### [Nuclino Mcp](https://github.com/danielrosehill/nuclino-mcp)
 
 *No description provided*
@@ -3540,15 +5102,6 @@ Controller for AC
 A streamlined CLI tool for fast repository creation workflow with GitHub integration and IDE support
 
 **Updated:** August 05, 2025 | **Created:** August 05, 2025  
-
----
-
-### [Neo Nas Ab02B2 Mqtt Control](https://github.com/danielrosehill/NEO_NAS_AB02B2_MQTT_Control)
-
-MQTT controls scripts for the NEO NAS-AB02B2 Zigbee siren
-
-**Updated:** August 02, 2025 | **Created:** August 01, 2025  
-**Topics:** `` `` `` ``  
 
 ---
 
@@ -3586,22 +5139,6 @@ Reuseable JSON schemas for structured Ai assistant/agent workflows
 
 ---
 
-### [Voicenotes Prompt To Email Workflow N8N](https://github.com/danielrosehill/Voicenotes-Prompt-To-Email-Workflow-N8N)
-
-*No description provided*
-
-**Updated:** July 24, 2025 | **Created:** July 24, 2025  
-
----
-
-### [Medium Post Downloader](https://github.com/danielrosehill/Medium-Post-Downloader)
-
-Download utility for programatically converting a Medium export archive into a full replica of your content with images
-
-**Updated:** July 23, 2025 | **Created:** July 23, 2025  
-
----
-
 ### [Prompt Engineering Resources](https://github.com/danielrosehill/Prompt-Engineering-Resources)
 
 Lists of resources and tools for prompt engineering and evaluation
@@ -3626,15 +5163,6 @@ Workflow for an agent that answers parenting questions by email with upload to G
 Configuration for an AI agent for sanitising (redacting personal details) in N8N workflow exports
 
 **Updated:** July 22, 2025 | **Created:** July 22, 2025  
-
----
-
-### [Shelter Finder Jerusalem](https://github.com/danielrosehill/Shelter-Finder-Jerusalem)
-
-Android app for finding nearby public shelters in Jerusalem (populated in June 2025 from municipal data)
-
-**Updated:** July 21, 2025 | **Created:** June 26, 2025  
-**Topics:** `` `` `` ``  
 
 ---
 
@@ -3736,25 +5264,6 @@ A project to retrospectively analyse signals of war ahead of the Iran-Israel con
 
 ---
 
-### [My Ai Stack](https://github.com/danielrosehill/My-AI-Stack)
-
-Periodically updated documentation about current AI stack/favorite components
-
-**Updated:** June 24, 2025 | **Created:** March 14, 2025  
-⭐ 4 stars | 🔀 2 forks  
-
----
-
-### [Openai Image Renamer](https://github.com/danielrosehill/OpenAI-Image-Renamer)
-
-Simple Python script for batch file renaming operations with OpenAI API
-
-**Updated:** June 23, 2025 | **Created:** April 18, 2025  
-⭐ 1 stars | 🔀 0 forks  
-**Topics:** `` ``  
-
----
-
 ### [Hfc Android Config Guide](https://github.com/danielrosehill/HFC-Android-Config-Guide)
 
 Non-official! Home Front Command Android app config settings guides (06-2025)
@@ -3795,14 +5304,6 @@ Point-in-time segmented export of the Open Web UI API definition
 
 **Updated:** June 01, 2025 | **Created:** March 22, 2025  
 ⭐ 4 stars | 🔀 1 forks  
-
----
-
-### [Green Invoice Api My Notes](https://github.com/danielrosehill/Green-Invoice-API-My-Notes)
-
-Timestampped notes (non-official!) for Green Invoice API & Webhooks
-
-**Updated:** May 26, 2025 | **Created:** May 26, 2025  
 
 ---
 
@@ -3894,7 +5395,6 @@ Experimentary repo to try use an AI IDE as a local agent workspace for local OS 
 WIP - MCP server for querying Google Map's environmental API to retrieve air quality data for a geolocation
 
 **Updated:** May 07, 2025 | **Created:** May 07, 2025  
-⭐ 0 stars | 🔀 1 forks  
 
 ---
 
@@ -3968,23 +5468,6 @@ Simple pull script for World Air Quality Index (WAQI) data for integrating with 
 Context repository for AI tools providing career info to guide agents, assistants, etc
 
 **Updated:** April 28, 2025 | **Created:** April 28, 2025  
-
----
-
-### [Stt Basic Cleanup System Prompt](https://github.com/danielrosehill/STT-Basic-Cleanup-System-Prompt)
-
-Basic foundational system prompt for cleaning up AI voice transcripts
-
-**Updated:** April 24, 2025 | **Created:** April 24, 2025  
-**Topics:** `` `` ``  
-
----
-
-### [Ha Air Quality Dashboard](https://github.com/danielrosehill/HA-Air-Quality-Dashboard)
-
-Air quality monitoring dashboard for Home Assistant
-
-**Updated:** April 24, 2025 | **Created:** April 24, 2025  
 
 ---
 
@@ -4129,14 +5612,6 @@ A 100 page book manuscript generated from a single prompt using Sonnet 3.7
 
 ---
 
-### [Linux Mcp Clients](https://github.com/danielrosehill/Linux-MCP-Clients)
-
-A very small list of MCP clients that are available to Linux users, GUIs + CLIs
-
-**Updated:** April 10, 2025 | **Created:** April 10, 2025  
-
----
-
 ### [Jewish Ai Assistant System Prompts](https://github.com/danielrosehill/Jewish-AI-Assistant-System-Prompts)
 
 System prompts for AI tools which may be useful for Jewish users
@@ -4170,14 +5645,6 @@ System prompts for AI assistants related to career and job matters
 
 ---
 
-### [Geopolitical Analysis System Prompts](https://github.com/danielrosehill/Geopolitical-Analysis-System-Prompts)
-
-System prompts for geopolitical related AI assistants and tools
-
-**Updated:** April 06, 2025 | **Created:** April 06, 2025  
-
----
-
 ### [Data Utilities System Prompts](https://github.com/danielrosehill/Data-Utilities-System-Prompts)
 
 System prompts for data-related AI assistants
@@ -4192,15 +5659,6 @@ System prompts for data-related AI assistants
 Writing and email management system prompts for assistants
 
 **Updated:** April 06, 2025 | **Created:** April 06, 2025  
-
----
-
-### [Ai Orchestration System Prompts](https://github.com/danielrosehill/AI-Orchestration-System-Prompts)
-
-System prompts for AI assistants designed to orchestrate access to other agents
-
-**Updated:** April 06, 2025 | **Created:** April 06, 2025  
-⭐ 0 stars | 🔀 1 forks  
 
 ---
 
@@ -4337,15 +5795,6 @@ Because behind every Github profile is (hopefully) a human being!
 
 ---
 
-### [Linux Github Repo Launcher](https://github.com/danielrosehill/Linux-Github-Repo-Launcher)
-
-Github repository search and quick launch utility preconfigured for VS Code & Windsurf
-
-**Updated:** March 04, 2025 | **Created:** March 03, 2025  
-**Topics:** `` ``  
-
----
-
 ### [Markdown Keep Or Delete](https://github.com/danielrosehill/Markdown-Keep-Or-Delete)
 
 *No description provided*
@@ -4391,15 +5840,6 @@ Personal bash alias library, public
 Some timestampped API pricepoints for speech to text providers
 
 **Updated:** February 26, 2025 | **Created:** February 26, 2025  
-
----
-
-### [Homebox Desktop Wrapper Appimage](https://github.com/danielrosehill/Homebox-Desktop-Wrapper-AppImage)
-
-Linux Electron desktop wrapper for Homebox
-
-**Updated:** February 25, 2025 | **Created:** February 24, 2025  
-⭐ 1 stars | 🔀 0 forks  
 
 ---
 
@@ -4537,14 +5977,6 @@ Routes accounting documents through Google Drive
 HA dashboards with Israel-specifc entities
 
 **Updated:** January 31, 2025 | **Created:** January 31, 2025  
-
----
-
-### [Ha Shabbat Dashboard 0125](https://github.com/danielrosehill/HA-Shabbat-Dashboard-0125)
-
-Simple designed Home Assistant dashboard for Shabbat / Yom Tov times
-
-**Updated:** January 31, 2025 | **Created:** January 30, 2025  
 
 ---
 
@@ -4861,14 +6293,6 @@ Experimentary repository; using LLMs to analyse geopolitical developments in Isr
 
 ---
 
-### [Librechat](https://github.com/danielrosehill/LibreChat)
-
-Enhanced ChatGPT Clone: Features Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. Actively in public development.
-
-**Updated:** November 28, 2024 | **Created:** November 13, 2024  
-
----
-
 ### [Ghg Emissions Monetisation Calculator](https://github.com/danielrosehill/GHG-Emissions-Monetisation-Calculator)
 
 Calculation simulation utility for monetised GHG emissions
@@ -5026,14 +6450,6 @@ A small selection of GHG emissions datapoints from various sources
 
 ---
 
-### [Llmnote](https://github.com/danielrosehill/llmnote)
-
-A markdown note taking application optimise for saving and storing outputs from LLM & GPT interactions (prompts, outputs, agent configurations)
-
-**Updated:** November 08, 2024 | **Created:** September 25, 2024  
-
----
-
 ### [Test Markdown Docs](https://github.com/danielrosehill/Test-Markdown-Docs)
 
 A few formatted markdown files for testing the real-time markdown rendering support of various knowledge management, note-taking and wiki tools
@@ -5138,15 +6554,6 @@ Utility for helping users understand the classic data relationships in RDMSs (M2
 
 ---
 
-### [Master Backup Strategy](https://github.com/danielrosehill/Master_Backup_Strategy)
-
-A markdown file summarizing my current approaches for creating 3-2-1 compliant backups of my local and cloud infrastructure including Linux desktop, VMs, SaaS utilities, and self-hosted cloud apps.
-
-**Updated:** September 08, 2024 | **Created:** May 01, 2020  
-⭐ 15 stars | 🔀 0 forks  
-
----
-
 ### [Distro Tuner](https://github.com/danielrosehill/Distro-Tuner)
 
 Quick template for creating a local repo with symlinks to key system files on Linux
@@ -5168,15 +6575,6 @@ Little scripts and hacks for working with my favorite database!
 A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 
 **Updated:** August 24, 2024 | **Created:** August 24, 2024  
-
----
-
-### [Jerusalem Public Shelters](https://github.com/danielrosehill/Jerusalem-Public-Shelters)
-
-Jerusalem public shelter locations extracted from ODBL licensed sources. Please do not rely upon these for your own preparedness efforts.
-
-**Updated:** August 12, 2024 | **Created:** August 03, 2024  
-⭐ 1 stars | 🔀 0 forks  
 
 ---
 

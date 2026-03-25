@@ -51,3 +51,15 @@ Notes/thoughts on what I think could be a really fertile AI use-case
 
 ## Smart Home Halacha [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Smart-Home-Halacha)
 Notebook on Halachic dimensions of smart home usage and Home Assistant
+
+- [Home-Assistant-Red-Alert-Automations](https://github.com/danielrosehill/Home-Assistant-Red-Alert-Automations) - Home Assistant automations for Oref Alert integration with TTS announcements for red alert events in Israel
+
+- [Home-Assistant-Power-Outage-Automation](https://github.com/danielrosehill/Home-Assistant-Power-Outage-Automation) - HA automation for power outage detection
+
+- [Headless-Home-Assistant](https://github.com/danielrosehill/Headless-Home-Assistant) - A couple of resources and .. nomenclature
+
+- [Home-Inventory-Taxonomy](https://github.com/danielrosehill/Home-Inventory-Taxonomy) - Taxonomy for Homebox fork
+
+- [DIY-Baby-Monitoring-Notes](https://github.com/danielrosehill/DIY-Baby-Monitoring-Notes) - Some notes from setting up monitoring systems at home
+
+- [Homebox-Projects-Index](https://github.com/danielrosehill/Homebox-Projects-Index) - Index of Homebox related projects (home inventory system)

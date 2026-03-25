@@ -102,3 +102,5 @@ Updated repo of text transformation prompts (raw STT transcripts -> *). New repo
 ## Writing System Prompts [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Writing-System-Prompts)
 Some system prompts related to text modification and optimisation for some WIPs
 
+
+- [Prompt-Libraries-Index](https://github.com/danielrosehill/Prompt-Libraries-Index) - Index for my collections of user and system prompts on Github

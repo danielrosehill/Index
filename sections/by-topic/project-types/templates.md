@@ -63,3 +63,6 @@ Updated Red Alert template, August 2025
 
 ## Ai Dev Repo Template Oct 2025 [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Dev-Repo-Template-Oct-2025)
 Updated AI assisted dev repo template (swap preferred CLI!)
+
+## Project Planning Template [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Project-Planning-Template)
+Repository template for an "idea parking" system that uses AI to spec out an intiial idea and spec for later iteration/development
